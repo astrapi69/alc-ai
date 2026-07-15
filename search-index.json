@@ -1,6 +1,6 @@
 {
-  "repo": "git@github.com:astrapi69/alc-ai",
-  "generated": "2026-07-15T13:31:04Z",
+  "repo": "astrapi69/alc-ai",
+  "generated": "2026-07-15T13:39:49Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -27,7 +27,7 @@
         "url": "https://www.amazon.de/dp/B0F43H6T2M",
         "cover_image": null
       },
-      "updated_at": "2026-07-15T15:31:04+02:00"
+      "updated_at": "2026-07-15T15:39:39+02:00"
     },
     {
       "id": "data-science-ki-from-de",
@@ -48,7 +48,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-07-15T15:31:04+02:00"
+      "updated_at": "2026-07-15T15:39:39+02:00"
     }
   ],
   "total_lessons": 21,
