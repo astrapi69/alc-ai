@@ -1,27 +1,78 @@
-# adaptive-learner-content-template
+# alc-ai
 
-[![content validation](https://github.com/astrapi69/adaptive-learner-content-template/actions/workflows/validate-content.yml/badge.svg)](https://github.com/astrapi69/adaptive-learner-content-template/actions/workflows/validate-content.yml)
+[![content validation](https://github.com/astrapi69/alc-ai/actions/workflows/validate-content.yml/badge.svg)](https://github.com/astrapi69/alc-ai/actions/workflows/validate-content.yml)
 [![engine on npm](https://img.shields.io/npm/v/learn-content-engine?label=engine%20on%20npm)](https://www.npmjs.com/package/learn-content-engine)
 
-A **GitHub template** for building your own [Adaptive Learner](https://github.com/astrapi69/adaptive-learner)
-content: a Git repository of plain lesson files that the app loads
-directly and no vendor can lock away.
+The [Adaptive Learner](https://github.com/astrapi69/adaptive-learner)
+content repository for **KI** (artificial intelligence): a Git repository
+of plain lesson files that the app loads directly and no vendor can lock
+away.
 
-> Click **“Use this template” → Create a new repository** (not *Fork*) to
-> get a fresh, independent copy under your own account, then clone it.
+It ships two German-language knowledge sets (domain `ai`, `domain_label`
+KI) in ascending difficulty: the companion course to the book *KI für
+Einsteiger* and the follow-up course on data science. This repository
+was created from
+[adaptive-learner-content-template](https://github.com/astrapi69/adaptive-learner-content-template),
+which provides the schema mirror, validator, CI and authoring tooling
+described below.
 
-This template is the clean scaffold — schema, validator, CI, authoring
-templates, an AI generator, and **one** small example set. It ships **no**
-real content: you replace the example with your own.
+> **Herkunft:** Diese Sets lagen zuvor im offiziellen Content-Repo
+> [`adaptive-learner-content`](https://github.com/astrapi69/adaptive-learner-content)
+> und wurden in dieses eigenständige Content-Repo verschoben (siehe
+> `adaptive-learner-content#144`).
+
+## Die Sets
+
+Zwei Sets, 21 Lektionen, Quell- und Zielsprache Deutsch. Empfohlene
+Reihenfolge:
+
+### Teil 1 — `sets/de/ki-einsteiger` (A1, 12 Lektionen)
+
+Begleitkurs zum Buch *KI für Einsteiger* (Asterios Raptis) — siehe
+[`books.yaml`](books.yaml). KI-validiert (`ai_validation`).
+
+| # | Lesson | Titel |
+|---|--------|-------|
+| 01 | `01-ki-im-alltag.json` | KI im Alltag |
+| 02 | `02-ki-grundbegriffe.json` | KI-Grundbegriffe |
+| 03 | `03-prompting-grundlagen.json` | Prompting Grundlagen |
+| 04 | `04-prompt-typen.json` | Prompt-Typen |
+| 05 | `05-ki-projekte-planen.json` | KI-Projekte planen |
+| 06 | `06-ki-projekte-kreativ.json` | KI-Projekte kreativ |
+| 07 | `07-ki-lernen.json` | Mit KI lernen |
+| 08 | `08-ki-kreativitaet.json` | KI und Kreativität |
+| 09 | `09-ki-produktivitaet.json` | KI und Produktivität |
+| 10 | `10-ki-teamarbeit.json` | KI im Team |
+| 11 | `11-ki-tools-ueberblick.json` | KI-Tools Überblick |
+| 12 | `12-ki-ethik-verantwortung.json` | KI-Ethik und Verantwortung |
+
+### Teil 2 — `sets/de/data-science-ki` (A2, 9 Lektionen)
+
+| # | Lesson | Titel |
+|---|--------|-------|
+| 01 | `01-was-ist-data-science.json` | Was ist Data Science? |
+| 02 | `02-daten-verstehen.json` | Daten verstehen |
+| 03 | `03-statistik-grundlagen.json` | Statistik für den Alltag |
+| 04 | `04-ml-grundkonzepte.json` | Maschinelles Lernen: Grundkonzepte |
+| 05 | `05-modelle-bewerten.json` | Modelle bewerten |
+| 06 | `06-neuronale-netze.json` | Neuronale Netze und Deep Learning |
+| 07 | `07-sprachmodelle-generative-ki.json` | Sprachmodelle und generative KI |
+| 08 | `08-ki-im-einsatz.json` | KI im Einsatz |
+| 09 | `09-verantwortung.json` | Verantwortung |
+
+Buchempfehlungen pro Domain stehen in [`books.yaml`](books.yaml),
+ergänzendes freies Material (Videos, Artikel) in
+[`media.yaml`](media.yaml).
 
 ## What's inside
 
-- `manifest.yaml` — the root manifest listing your sets (one example set to start).
-- `sets/en/es-a1/` — one minimal, valid example lesson + its set manifest.
+- `manifest.yaml` — the root manifest listing the sets.
+- `sets/de/ki-einsteiger/`, `sets/de/data-science-ki/` — the lesson sets.
+- `books.yaml` / `media.yaml` — recommended reading and free media per domain.
 - `schema/` — the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
   schema mirror; [`engine-version.txt`](schema/engine-version.txt) holds the
-  pinned engine version (currently `0.12.0`) and is the source of truth. This
-  is what your content is validated against — independent of the app.
+  pinned engine version and is the source of truth. This is what the content
+  is validated against — independent of the app.
 - `templates/` — starting-point lessons per domain (language / programming / knowledge).
 - `scripts/validate_content.py` — the local validator.
 - `scripts/generate_exercises.py` — an optional BYOK AI exercise generator.
@@ -38,15 +89,12 @@ You only need `make` and `python3`. The first `make validate` sets up a
 local environment for you (no manual `pip`, no virtualenv, no Poetry):
 
 ```bash
-# 1. Use this template -> your own repo -> clone it
-git clone https://github.com/<you>/<your-content-repo>.git
-cd <your-content-repo>
+git clone https://github.com/astrapi69/alc-ai.git
+cd alc-ai
 
-# 2. Validate the example set. First run creates .venv and installs deps;
-#    later runs reuse it. Exit 0 == all sets pass.
+# Validate the sets. First run creates .venv and installs deps;
+# later runs reuse it. Exit 0 == all sets pass.
 make validate
-
-# 3. Replace the example with your own lesson, then re-run make validate + commit.
 ```
 
 Before you push, `make lint` runs the same semantic engine gate as CI
@@ -78,16 +126,17 @@ YAML (or JSON) file so an AI assistant or a human can review the whole
 set in one pass (syntax, correctness, consistency across lessons):
 
 ```bash
-python3 scripts/export_set.py es-a1 --lang en
-# -> exports/es-a1-en-<timestamp>.yaml
-python3 scripts/export_set.py es-a1 --lang en --format json --out /tmp/review.json
+python3 scripts/export_set.py ki-einsteiger
+# -> exports/ki-einsteiger-de-<timestamp>.yaml
+python3 scripts/export_set.py ki-einsteiger --format json --out /tmp/review.json
 ```
 
-The slug is the set id from the root `manifest.yaml` (`example-set`) or
-the folder name of the set path (`es-a1`); when the same folder name
-exists under several source-language directories, `--lang` (default
-`de`) picks the `sets/<lang>/` directory. Non-ASCII characters stay
-real UTF-8. An unknown slug aborts with a list of the available sets.
+The slug is the set id from the root `manifest.yaml`
+(`ki-einsteiger-from-de`) or the folder name of the set path
+(`ki-einsteiger`); when the same folder name exists under several
+source-language directories, `--lang` (default `de`) picks the
+`sets/<lang>/` directory. Non-ASCII characters stay real UTF-8. An
+unknown slug aborts with a list of the available sets.
 
 The export is self-contained: its first field `review_instructions`
 holds the complete review prompt from
@@ -137,8 +186,9 @@ on them directly (a runnable sample lives in
 lesson with a BYOK model (Anthropic / OpenAI / Gemini) and gates every
 draft through the validator before writing it into the `generated/`
 staging folder. It is language-focused (target and source differ). For a
-**knowledge set** (material written in the same language it teaches,
-source == target), the generator is not the right tool; hand-author from
+**knowledge set** like the ones in this repo (material written in the
+same language it teaches, source == target), the generator is not the
+right tool; hand-author from
 [`templates/knowledge/`](templates/knowledge/) instead.
 
 First set your provider key. It is read from the environment (BYOK) and
@@ -201,13 +251,12 @@ manifest, and re-run `make validate`.
 
 ## How it stays current
 
-Your content is validated against the **pinned** engine version in
+The content is validated against the **pinned** engine version in
 `schema/engine-version.txt` on every push and pull request (structural +
-semantic + drift gates in `.github/workflows/`). A green CI means your
+semantic + drift gates in `.github/workflows/`). A green CI means the
 content is valid for every consumer of that engine release. When the
 engine is bumped, it reaches this repository the same way it reaches the
 rest of the chain: a deliberate pin-bump PR that the drift gate guards.
 
-Background and prompt recipes: the blog post *Build Your Own Lessons for
-Adaptive Learner*. Licensed MIT (see [LICENSE](LICENSE)); your authored
-content may carry its own license via each set manifest's `metadata.license`.
+Licensed MIT (see [LICENSE](LICENSE)); the lesson content carries its own
+license via each set manifest's `metadata.license`.

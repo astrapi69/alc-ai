@@ -1,30 +1,73 @@
-# Root manifest — lists the sets your repository offers.
+# Wurzel-Manifest von alc-ai — die KI-Reihe.
 #
-# This template ships ONE example set (sets/en/es-a1). Replace it
-# with your own:
-#   - point `path` at your set directory (convention: sets/<source-lang>/<set-id>)
-#   - keep `lesson_count` honest (it must match the lessons you ship)
-#   - a set needs at least: id, title, target_language, level, version, lesson_count
+# Adaptive-Learner-Content-Repo für KI. Zwei deutschsprachige Sets
+# (domain: ai) nach aufsteigendem Niveau:
 #
-# `schema_version` is optional and not strict.
-# Validate everything with:  python3 scripts/validate_content.py
+#   ki-einsteiger    KI für Einsteiger    (A1, 12 Lektionen)
+#   data-science-ki  Data Science und KI  (A2,  9 Lektionen)
+#
+# Vormals in astrapi69/adaptive-learner-content; in dieses eigenständige
+# Content-Repo ausgelagert (siehe adaptive-learner-content#144).
+# Validieren mit:
+#
+#     python3 scripts/validate_content.py
+#     node scripts/validate_with_engine.mjs .
+#
+# Anleitung: docs/GETTING-STARTED.md
 schema_version: '1.5'
-name: My Adaptive Learner content
+name: Adaptive Learner — KI
 description: >-
-  A content repository created from adaptive-learner-content-template.
-  Replace this example set with your own lessons.
+  KI-Inhalte für Adaptive Learner: der Begleitkurs zum Buch „KI für
+  Einsteiger" und der Aufbaukurs „Data Science und KI", beide auf
+  Deutsch erklärt.
 sets:
-  - id: example-set
-    title: Spanish A1 (example)
-    title_native: Español A1 (ejemplo)
-    target_language: es
-    source_language: en
-    domain: language
+  - id: ki-einsteiger-from-de
+    title: KI für Einsteiger
+    title_native: KI für Einsteiger
+    target_language: de
+    source_language: de
+    domain: ai
+    domain_label: KI
     level: A1
-    path: sets/en/es-a1
+    path: sets/de/ki-einsteiger
     version: '1.0.0'
-    lesson_count: 1
+    lesson_count: 12
+    description: >-
+      Begleitkurs zum Buch „KI für Einsteiger" von Asterios
+      Raptis (12 Lektionen): KI im Alltag und Grundbegriffe,
+      Prompt-Engineering (Grundlagen und Prompt-Typen), KI für
+      Projekte, Lernen, Kreativität, Produktivität und Teamarbeit
+      sowie ein Tool-Überblick und KI-Ethik. Erklärt auf Deutsch,
+      mit eigenständigem Lerninhalt. Erstes KI-Set (domain: ai).
     tags:
-      - example
-      - spanish
-      - a1
+      - beginner
+      - ai
+      - prompt-engineering
+    book:
+      title: "KI für Einsteiger"
+      author: "Asterios Raptis"
+      asin: "B0F43H6T2M"
+      url: "https://www.amazon.de/dp/B0F43H6T2M"
+  - id: data-science-ki-from-de
+    title: Data Science und KI
+    title_native: Data Science und KI
+    target_language: de
+    source_language: de
+    domain: ai
+    domain_label: KI
+    level: A2
+    path: sets/de/data-science-ki
+    version: '1.0.0'
+    lesson_count: 9
+    description: >-
+      Aufbaukurs im Anschluss an „KI für Einsteiger" (9 Lektionen):
+      Was Data Science ist, Daten verstehen, Statistik für den Alltag,
+      Grundkonzepte des maschinellen Lernens, Modelle bewerten,
+      neuronale Netze und Deep Learning, Sprachmodelle und generative
+      KI, KI im Einsatz sowie Verantwortung. Erklärt auf Deutsch,
+      konzeptuell und ohne Programmieren. KI-Set (domain: ai).
+    tags:
+      - aufbau
+      - ai
+      - data-science
+      - machine-learning

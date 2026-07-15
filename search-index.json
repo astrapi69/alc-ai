@@ -1,0 +1,56 @@
+{
+  "repo": "git@github.com:astrapi69/alc-ai",
+  "generated": "2026-07-15T13:31:04Z",
+  "schema_version": "1.0",
+  "sets": [
+    {
+      "id": "ki-einsteiger-from-de",
+      "name": "KI für Einsteiger",
+      "description": "Zwölf Einführungslektionen rund um künstliche Intelligenz, auf Deutsch erklärt: KI im Alltag, Grundbegriffe, Prompt-Engineering, KI für Projekte, Lernen, Kreativität, Produktivität und Teamarbeit, ein Tool-Überblick sowie Ethik und Verantwortung. Begleitkurs zum Buch von Asterios Raptis.",
+      "source_language": "de",
+      "target_language": "de",
+      "level": "a1",
+      "domain": "ai",
+      "lesson_count": 12,
+      "card_count": 144,
+      "tags": [
+        "beginner",
+        "ai",
+        "prompt-engineering"
+      ],
+      "ai_validated": true,
+      "trust_level": 1,
+      "book": {
+        "title": "KI für Einsteiger",
+        "author": "Asterios Raptis",
+        "asin": "B0F43H6T2M",
+        "url": "https://www.amazon.de/dp/B0F43H6T2M",
+        "cover_image": null
+      },
+      "updated_at": "2026-07-15T15:31:04+02:00"
+    },
+    {
+      "id": "data-science-ki-from-de",
+      "name": "Data Science und KI",
+      "description": "Neun Aufbaulektionen rund um Data Science und KI, auf Deutsch erklärt: Was Data Science ist, Daten verstehen, Statistik für den Alltag, Grundkonzepte des maschinellen Lernens, Modelle bewerten, neuronale Netze und Deep Learning, Sprachmodelle und generative KI, KI im Einsatz sowie Verantwortung. Fortsetzung des Einsteiger-Kurses „KI für Einsteiger\".",
+      "source_language": "de",
+      "target_language": "de",
+      "level": "a2",
+      "domain": "ai",
+      "lesson_count": 9,
+      "card_count": 72,
+      "tags": [
+        "aufbau",
+        "ai",
+        "data-science",
+        "machine-learning"
+      ],
+      "ai_validated": false,
+      "trust_level": 1,
+      "book": null,
+      "updated_at": "2026-07-15T15:31:04+02:00"
+    }
+  ],
+  "total_lessons": 21,
+  "total_cards": 216
+}
