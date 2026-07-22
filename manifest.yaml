@@ -27,7 +27,6 @@ sets:
     target_language: de
     source_language: de
     domain: ai
-    domain_label: KI
     level: A1
     path: sets/de/ki-einsteiger
     version: '1.0.0'
@@ -54,7 +53,6 @@ sets:
     target_language: de
     source_language: de
     domain: ai
-    domain_label: KI
     level: A2
     path: sets/de/data-science-ki
     version: '1.0.0'
