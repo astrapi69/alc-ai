@@ -35,7 +35,6 @@ sets:
     path: sets/de/ki-einsteiger
     version: '1.0.0'
     lesson_count: 12
-    domain_label: Künstliche Intelligenz
     description: >-
       Zwölf Einführungslektionen rund um künstliche Intelligenz,
       auf Deutsch erklärt: KI im Alltag, Grundbegriffe,

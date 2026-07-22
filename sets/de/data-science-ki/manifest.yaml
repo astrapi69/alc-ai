@@ -33,7 +33,6 @@ sets:
     path: sets/de/data-science-ki
     version: '1.0.0'
     lesson_count: 9
-    domain_label: Künstliche Intelligenz
     description: >-
       Neun Aufbaulektionen rund um Data Science und KI, auf Deutsch
       erklärt: Was Data Science ist, Daten verstehen, Statistik für den
