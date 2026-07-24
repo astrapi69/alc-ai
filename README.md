@@ -8,8 +8,7 @@ content repository for **KI** (artificial intelligence): a Git repository
 of plain lesson files that the app loads directly and no vendor can lock
 away.
 
-It ships two German-language knowledge sets (domain `ai`, `domain_label`
-KI) in ascending difficulty: the companion course to the book *KI für
+It ships two German-language knowledge sets (domain `ai`) in ascending difficulty: the companion course to the book *KI für
 Einsteiger* and the follow-up course on data science. This repository
 was created from
 [adaptive-learner-content-template](https://github.com/astrapi69/adaptive-learner-content-template),
@@ -26,9 +25,9 @@ described below.
 Zwei Sets, 21 Lektionen, Quell- und Zielsprache Deutsch. Empfohlene
 Reihenfolge:
 
-### Teil 1 — `sets/de/ki-einsteiger` (A1, 12 Lektionen)
+### Teil 1: `sets/de/ki-einsteiger` (A1, 12 Lektionen)
 
-Begleitkurs zum Buch *KI für Einsteiger* (Asterios Raptis) — siehe
+Begleitkurs zum Buch *KI für Einsteiger* (Asterios Raptis), siehe
 [`books.yaml`](books.yaml). KI-validiert (`ai_validation`).
 
 | # | Lesson | Titel |
@@ -46,7 +45,7 @@ Begleitkurs zum Buch *KI für Einsteiger* (Asterios Raptis) — siehe
 | 11 | `11-ki-tools-ueberblick.json` | KI-Tools Überblick |
 | 12 | `12-ki-ethik-verantwortung.json` | KI-Ethik und Verantwortung |
 
-### Teil 2 — `sets/de/data-science-ki` (A2, 9 Lektionen)
+### Teil 2: `sets/de/data-science-ki` (A2, 9 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -66,19 +65,19 @@ ergänzendes freies Material (Videos, Artikel) in
 
 ## What's inside
 
-- `manifest.yaml` — the root manifest listing the sets.
-- `sets/de/ki-einsteiger/`, `sets/de/data-science-ki/` — the lesson sets.
-- `books.yaml` / `media.yaml` — recommended reading and free media per domain.
-- `schema/` — the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
+- `manifest.yaml`: the root manifest listing the sets.
+- `sets/de/ki-einsteiger/`, `sets/de/data-science-ki/`: the lesson sets.
+- `books.yaml` / `media.yaml`: recommended reading and free media per domain.
+- `schema/`: the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
   schema mirror; [`engine-version.txt`](schema/engine-version.txt) holds the
   pinned engine version and is the source of truth. This is what the content
-  is validated against — independent of the app.
-- `templates/` — starting-point lessons per domain (language / programming / knowledge).
-- `scripts/validate_content.py` — the local validator.
-- `scripts/generate_exercises.py` — an optional BYOK AI exercise generator.
-- `generated/` — staging area for AI drafts (never shipped directly).
-- `.github/workflows/` — CI that validates every push/PR against the pinned engine.
-- `docs/` — [GETTING-STARTED.md](docs/GETTING-STARTED.md) and a local
+  is validated against, independent of the app.
+- `templates/`: starting-point lessons per domain (language / programming / knowledge).
+- `scripts/validate_content.py`: the local validator.
+- `scripts/generate_exercises.py`: an optional BYOK AI exercise generator.
+- `generated/`: staging area for AI drafts (never shipped directly).
+- `.github/workflows/`: CI that validates every push/PR against the pinned engine.
+- `docs/`: [GETTING-STARTED.md](docs/GETTING-STARTED.md) and a local
   [LESSON-FORMAT.md](docs/LESSON-FORMAT.md). The **canonical, test-validated**
   format reference is the engine's
   [`docs/lesson-format.md`](https://github.com/astrapi69/learn-content-engine/blob/main/docs/lesson-format.md).
@@ -104,7 +103,7 @@ and npm) and checks every lesson and manifest with the engine's rule ids
 (`E-CARD-REF` & co.). `make lint-warnings` additionally prints the engine gate's warnings (`W-*`).
 
 No `make` (e.g. Windows without WSL)? Two options: run the validator in a
-virtualenv yourself —
+virtualenv yourself:
 
 ```bash
 python3 -m venv .venv && . .venv/bin/activate     # Windows: .venv\Scripts\activate
@@ -112,7 +111,7 @@ pip install -r requirements.txt
 python3 scripts/validate_content.py
 ```
 
-— or just commit and let the GitHub Actions CI validate (it runs the same
+Or just commit and let the GitHub Actions CI validate (it runs the same
 checks). Installing the deps globally with a bare `pip install` fails on
 modern Debian/Ubuntu/macOS (PEP 668, "externally-managed-environment");
 the virtualenv above is why.
