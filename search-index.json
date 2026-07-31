@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-ai",
-  "generated": "2026-07-31T15:47:27Z",
+  "generated": "2026-07-31T16:09:00Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -19,6 +19,7 @@
         "prompt-engineering"
       ],
       "visibility": "visible",
+      "review_status": "authored",
       "ai_validated": true,
       "trust_level": 1,
       "book": {
@@ -47,6 +48,7 @@
         "machine-learning"
       ],
       "visibility": "visible",
+      "review_status": "authored",
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
