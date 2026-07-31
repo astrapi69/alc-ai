@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "anleitend",
+      "stable_id": "card-ms94276m05qlj",
       "front": "Anleitender Prompt",
       "back": "Ein Prompt mit klarer Schritt-für-Schritt-Anweisung. Man sagt der KI genau, was sie in welcher Reihenfolge tun soll.",
       "notes": "Beispiel: Erkläre in drei Schritten, wie man eine E-Mail formatiert.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "explorativ",
+      "stable_id": "card-ms94276m05ra4",
       "front": "Explorativer Prompt",
       "back": "Ein offener Prompt zum Erkunden und Brainstormen. Man lädt die KI ein, Ideen zu sammeln, ohne ein festes Ziel vorzugeben.",
       "notes": "Beispiel: Welche Möglichkeiten gibt es, einen Kindergeburtstag zu gestalten?",
@@ -31,6 +33,7 @@
     },
     {
       "id": "rollenbasiert",
+      "stable_id": "card-ms94276m05s4l",
       "front": "Rollenbasierter Prompt",
       "back": "Ein Prompt, der der KI eine bestimmte Rolle gibt. Er beginnt oft mit Wendungen wie Agiere als oder Du bist.",
       "notes": "Beispiel: Agiere als erfahrener Bewerbungscoach.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "gespraechsbasiert",
+      "stable_id": "card-ms94276m05t3j",
       "front": "Gesprächsbasierter Prompt",
       "back": "Eine Arbeitsweise über mehrere Runden im Dialog. Man verfeinert die Antwort Schritt für Schritt durch Nachfragen.",
       "notes": "Beispiel: Erst um eine Idee bitten, dann nachfragen: Mach es kürzer.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "reflexiv",
+      "stable_id": "card-ms94276m05u6i",
       "front": "Reflexiver Prompt",
       "back": "Ein Prompt, der die KI um Selbstprüfung oder Verbesserung bittet — etwa die eigene Antwort zu prüfen oder Schwachstellen zu nennen.",
       "notes": "Beispiel: Prüfe deine Antwort auf Fehler und verbessere sie.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "promptfehler",
+      "stable_id": "card-ms94276m05vz2",
       "front": "Häufiger Promptfehler",
       "back": "Typische Schwäche eines Prompts: zu vage, mit Anweisungen überladen oder ohne jeden Kontext. Solche Prompts führen zu schlechten Antworten.",
       "notes": "Häufigster Fehler: kein Kontext.",
@@ -76,6 +82,7 @@
     },
     {
       "id": "vergleichs-prompt",
+      "stable_id": "card-ms94276m05wqu",
       "front": "Vergleichender Prompt",
       "back": "Ein Prompt, der die KI bittet, zwei oder mehr Optionen gegenüberzustellen.",
       "notes": "Beispiel: »Vergleiche Bahn und Auto für eine Reise nach München«.",
@@ -87,6 +94,7 @@
     },
     {
       "id": "schritt-prompt",
+      "stable_id": "card-ms94276m05x9q",
       "front": "Schritt-für-Schritt-Prompt",
       "back": "Ein Prompt, der die KI bittet, eine Aufgabe in nachvollziehbaren Schritten zu lösen.",
       "notes": "Hilft besonders bei Anleitungen und Erklärungen.",
@@ -98,6 +106,7 @@
     },
     {
       "id": "umformulieren-prompt",
+      "stable_id": "card-ms94276m05ydt",
       "front": "Umformulierungs-Prompt",
       "back": "Ein Prompt, der einen vorhandenen Text neu schreiben lässt, z. B. einfacher oder förmlicher.",
       "notes": "Beispiel: »Formuliere diese E-Mail höflicher«.",
@@ -109,6 +118,7 @@
     },
     {
       "id": "zusammenfassungs-prompt",
+      "stable_id": "card-ms94276m05zgo",
       "front": "Zusammenfassungs-Prompt",
       "back": "Ein Prompt, der einen langen Text auf das Wesentliche verkürzt.",
       "notes": "Beispiel: »Fasse diesen Artikel in fünf Stichpunkten zusammen«.",
@@ -120,6 +130,7 @@
     },
     {
       "id": "few-shot-prompt",
+      "stable_id": "card-ms94276m06033",
       "front": "Few-Shot-Prompt",
       "back": "Ein Prompt mit einigen Beispielen, an denen sich die KI orientieren soll.",
       "notes": "Gegenteil: Zero-Shot, ein Prompt ganz ohne Beispiele.",
@@ -131,6 +142,7 @@
     },
     {
       "id": "offene-frage",
+      "stable_id": "card-ms94276m061r4",
       "front": "Offene vs. geschlossene Frage",
       "back": "Offene Fragen laden zu ausführlichen Antworten ein, geschlossene erwarten nur Ja/Nein oder eine Auswahl.",
       "notes": "Der Fragetyp steuert, wie umfangreich die KI antwortet.",
@@ -167,6 +179,7 @@
       "title": "Prompt-Typ und Beispiel",
       "exercise": {
         "id": "ex-match-typ-beispiel",
+        "stable_id": "ex-ms94276m062d6",
         "type": "matching",
         "prompt": "Ordne jedem Prompt-Typ das passende Beispiel zu.",
         "card_ids": [
@@ -203,6 +216,7 @@
       "title": "Welcher Fehler steckt drin?",
       "exercise": {
         "id": "ex-free-fehler-kontext",
+        "stable_id": "ex-ms94276m063ff",
         "type": "free_text",
         "prompt": "Welcher Fehler steckt in einem Prompt ohne jede Hintergrundinfo?",
         "card_ids": [
@@ -228,6 +242,7 @@
       "title": "Beginn eines rollenbasierten Prompts",
       "exercise": {
         "id": "ex-cloze-rollenbasiert",
+        "stable_id": "ex-ms94276m0644t",
         "type": "cloze",
         "prompt": "Ergänze, womit ein rollenbasierter Prompt oft beginnt.",
         "card_ids": [
@@ -254,6 +269,7 @@
       "title": "Prompt-Typ und Zweck",
       "exercise": {
         "id": "ex-match-typ-zweck",
+        "stable_id": "ex-ms94276m065bt",
         "type": "matching",
         "prompt": "Ordne jedem Prompt-Typ seinen Zweck zu.",
         "card_ids": [
@@ -290,6 +306,7 @@
       "title": "Welcher Typ gibt eine Rolle?",
       "exercise": {
         "id": "ex-free-rolle-typ",
+        "stable_id": "ex-ms94276m066bd",
         "type": "free_text",
         "prompt": "Wie heißt der Prompt-Typ, der der KI eine bestimmte Rolle gibt?",
         "card_ids": [
@@ -317,6 +334,7 @@
       "title": "Zweck des explorativen Prompts",
       "exercise": {
         "id": "ex-cloze-explorativ",
+        "stable_id": "ex-ms94276m067vp",
         "type": "cloze",
         "prompt": "Ergänze, wozu ein explorativer Prompt dient.",
         "card_ids": [
@@ -342,6 +360,7 @@
       "title": "Tipp zusammensetzen",
       "exercise": {
         "id": "ex-tiles-tipp",
+        "stable_id": "ex-ms94276m068ri",
         "type": "word_tiles",
         "prompt": "Setze den Tipp aus der Lektion zusammen.",
         "card_ids": [
@@ -369,6 +388,7 @@
       "title": "Welcher ist ein reflexiver Prompt?",
       "exercise": {
         "id": "ex-pick-reflexiv",
+        "stable_id": "ex-ms94276m06955",
         "type": "picture_choice",
         "prompt": "Welches Beispiel ist ein reflexiver Prompt?",
         "card_ids": [
@@ -404,6 +424,7 @@
       "title": "Typ mit mehreren Runden",
       "exercise": {
         "id": "ex-free-mehrere-runden",
+        "stable_id": "ex-ms94276m06aop",
         "type": "free_text",
         "prompt": "Wie heißt der Prompt-Typ, bei dem man die Antwort über mehrere Runden im Dialog verfeinert?",
         "card_ids": [

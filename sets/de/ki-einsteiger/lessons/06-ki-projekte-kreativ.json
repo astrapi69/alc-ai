@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "brainstorming-ki",
+      "stable_id": "card-ms94276n06v49",
       "front": "Brainstorming mit KI",
       "back": "Die KI als Ideenmaschine nutzen: In kurzer Zeit liefert sie viele Vorschläge, aus denen du die besten auswählst und weiterentwickelst.",
       "notes": "Gut, wenn man viele Optionen sehen möchte, bevor man sich entscheidet.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "explorativer-prompt",
+      "stable_id": "card-ms94276n06wyr",
       "front": "Explorativer Prompt",
       "back": "Eine offene, suchende Anfrage, die viele Möglichkeiten erkundet — z. B. „Gib mir zehn Ideen für …“. Ideal, um kreativ zu werden.",
       "notes": "Gegenteil eines eng anleitenden Prompts. Offen statt vorgegeben.",
@@ -33,6 +35,7 @@
     },
     {
       "id": "diy-projektidee",
+      "stable_id": "card-ms94276n06x5u",
       "front": "DIY-Projektidee",
       "back": "Eine Selbermach-Idee, die du mit KI-Hilfe planen kannst — von der Materialliste bis zur Schritt-für-Schritt-Anleitung.",
       "notes": "DIY steht für „Do it yourself“ (selber machen).",
@@ -45,6 +48,7 @@
     },
     {
       "id": "alltagsproblem-loesen",
+      "stable_id": "card-ms94276n06yib",
       "front": "Alltagsproblem lösen",
       "back": "Ein konkretes Problem aus dem Alltag der KI schildern und um Lösungsvorschläge bitten — etwa „Wie ordne ich meinen vollen Kühlschrank sinnvoll?“.",
       "notes": "Je genauer das Problem, desto hilfreicher die Antwort.",
@@ -56,6 +60,7 @@
     },
     {
       "id": "homeoffice-organisation",
+      "stable_id": "card-ms94276n06z7t",
       "front": "Homeoffice-Organisation",
       "back": "Mit KI den Arbeitsplatz zu Hause strukturieren: Tagesplan erstellen, Pausen einplanen, Ablenkungen reduzieren und Aufgaben priorisieren.",
       "notes": "Die KI kann z. B. einen Zeitplan für einen Arbeitstag entwerfen.",
@@ -68,6 +73,7 @@
     },
     {
       "id": "geschichte-schreiben",
+      "stable_id": "card-ms94276n070sg",
       "front": "Geschichte schreiben",
       "back": "Mit der KI gemeinsam eine Erzählung entwickeln: Sie schlägt Figuren, Handlung und Wendungen vor, du gibst die Richtung vor.",
       "notes": "Beispiel für ein kreatives Schreibprojekt mit KI.",
@@ -79,6 +85,7 @@
     },
     {
       "id": "rezept-ideen",
+      "stable_id": "card-ms94276n071o8",
       "front": "Rezeptideen",
       "back": "Die KI schlägt Gerichte aus vorhandenen Zutaten vor und erstellt Kochanleitungen.",
       "notes": "Beispiel: »Was kann ich aus Reis, Ei und Tomaten kochen?«",
@@ -91,6 +98,7 @@
     },
     {
       "id": "reiseplanung",
+      "stable_id": "card-ms94276n0728e",
       "front": "Reiseplanung",
       "back": "Die KI entwirft Reiserouten, Tagespläne und Ausflugsideen für ein Ziel.",
       "notes": "Wichtig: Öffnungszeiten und Preise selbst prüfen.",
@@ -103,6 +111,7 @@
     },
     {
       "id": "geschenkideen",
+      "stable_id": "card-ms94276n0734k",
       "front": "Geschenkideen",
       "back": "Die KI schlägt passende Geschenke nach Anlass, Person und Budget vor.",
       "notes": "Beispiel: »Geschenkidee für meinen Vater, der gern wandert, bis 30 Euro«.",
@@ -115,6 +124,7 @@
     },
     {
       "id": "namensfindung",
+      "stable_id": "card-ms94276n074e4",
       "front": "Namensfindung",
       "back": "Die KI sammelt Namensvorschläge für Projekte, Produkte oder Haustiere.",
       "notes": "Gut, um schnell viele Optionen zu erhalten.",
@@ -126,6 +136,7 @@
     },
     {
       "id": "mahlzeitenplan",
+      "stable_id": "card-ms94276n075dh",
       "front": "Mahlzeitenplan",
       "back": "Die KI erstellt einen Wochenplan fürs Essen samt Einkaufsliste.",
       "notes": "Spart Zeit beim Einkaufen und Planen.",
@@ -138,6 +149,7 @@
     },
     {
       "id": "raumgestaltung",
+      "stable_id": "card-ms94276n076p5",
       "front": "Raumgestaltung",
       "back": "Die KI gibt Ideen für Einrichtung, Farben und Deko eines Raumes.",
       "notes": "Beschreibe den Raum möglichst genau für bessere Vorschläge.",
@@ -174,6 +186,7 @@
       "title": "Bester Prompt-Typ für Ideen",
       "exercise": {
         "id": "ex-free-prompttyp",
+        "stable_id": "ex-ms94276n077s4",
         "type": "free_text",
         "prompt": "Welcher Prompt-Typ passt am besten, um viele kreative Ideen zu bekommen?",
         "card_ids": [
@@ -201,6 +214,7 @@
       "title": "Problem und KI-Lösung",
       "exercise": {
         "id": "ex-match-loesung",
+        "stable_id": "ex-ms94276n078np",
         "type": "matching",
         "prompt": "Ordne jedem Alltagsproblem die passende KI-Lösung zu.",
         "card_ids": [
@@ -237,6 +251,7 @@
       "title": "Offener Prompt",
       "exercise": {
         "id": "ex-cloze-explorativ",
+        "stable_id": "ex-ms94276n0795y",
         "type": "cloze",
         "prompt": "Ergänze, welche Art von Prompt viele Ideen liefert.",
         "card_ids": [
@@ -263,6 +278,7 @@
       "title": "Kreatives KI-Projekt erkennen",
       "exercise": {
         "id": "ex-pick-kreativ",
+        "stable_id": "ex-ms94276n07acz",
         "type": "picture_choice",
         "prompt": "Welche Aufgabe ist ein typisch kreatives KI-Projekt?",
         "card_ids": [
@@ -304,6 +320,7 @@
       "title": "Selbermach-Projekt",
       "exercise": {
         "id": "ex-free-diy",
+        "stable_id": "ex-ms94276n07b13",
         "type": "free_text",
         "prompt": "Wie nennt man ein Selbermach-Projekt, das du mit KI-Hilfe planen kannst?",
         "card_ids": [
@@ -332,6 +349,7 @@
       "title": "Begriffe und Bedeutung",
       "exercise": {
         "id": "ex-match-begriffe-kreativ",
+        "stable_id": "ex-ms94276n07c0z",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": [
@@ -363,6 +381,7 @@
       "title": "Merksatz zum Brainstorming",
       "exercise": {
         "id": "ex-tiles-brainstorm",
+        "stable_id": "ex-ms94276n07dvk",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": [
@@ -389,6 +408,7 @@
       "title": "Homeoffice ordnen",
       "exercise": {
         "id": "ex-cloze-homeoffice",
+        "stable_id": "ex-ms94276n07eg6",
         "type": "cloze",
         "prompt": "Ergänze, was die KI fürs Homeoffice erstellen kann.",
         "card_ids": [

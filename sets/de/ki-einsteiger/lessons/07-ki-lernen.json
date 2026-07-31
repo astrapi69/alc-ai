@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "ki-tutor",
+      "stable_id": "card-ms94276o07f2e",
       "front": "KI-Tutor",
       "back": "Die KI in der Rolle eines geduldigen Lehrers, der Konzepte einfach erklärt, Fragen beantwortet und sich deinem Tempo anpasst.",
       "notes": "Du kannst beliebig oft nachfragen, ohne dass es jemandem zu viel wird.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "lernplan",
+      "stable_id": "card-ms94276o07g2z",
       "front": "Lernplan",
       "back": "Ein individueller Fahrplan zum Lernen, der ein klares Ziel, einen Zeitplan, Etappen und regelmäßige Übung enthält.",
       "notes": "Die KI kann einen Lernplan auf deine Zeit und dein Niveau zuschneiden.",
@@ -33,6 +35,7 @@
     },
     {
       "id": "vokabeltraining-ki",
+      "stable_id": "card-ms94276o07hrq",
       "front": "Vokabeltraining mit KI",
       "back": "Mit der KI Sprachen üben: Sie gibt dir Vokabeln, führt kleine Dialoge und korrigiert deine Sätze geduldig.",
       "notes": "Gut für Wortschatz, Aussprache-Tipps und Gespräche zum Üben.",
@@ -45,6 +48,7 @@
     },
     {
       "id": "konzept-erklaeren",
+      "stable_id": "card-ms94276o07im1",
       "front": "Konzept erklären lassen",
       "back": "Ein schwieriges Thema von der KI verständlich aufbereiten lassen — z. B. „Erkläre mir Zinsen so, als wäre ich zehn Jahre alt“.",
       "notes": "Bitte um einfache Sprache, Beispiele oder Vergleiche.",
@@ -56,6 +60,7 @@
     },
     {
       "id": "code-hilfe",
+      "stable_id": "card-ms94276o07jpf",
       "front": "Code-Hilfe",
       "back": "Beim Programmieren von der KI unterstützen lassen: Sie erklärt Code, findet Fehler und schlägt Verbesserungen vor.",
       "notes": "Auch ohne Programmiererfahrung lässt sich so erklären, was ein Stück Code tut.",
@@ -68,6 +73,7 @@
     },
     {
       "id": "thema-erkunden",
+      "stable_id": "card-ms94276o07knc",
       "front": "Neues Thema erkunden",
       "back": "Sich in ein unbekanntes Gebiet einarbeiten, indem man der KI offene Fragen stellt und sich Schritt für Schritt vortastet.",
       "notes": "Die KI gibt einen Überblick und vertieft auf Nachfrage.",
@@ -79,6 +85,7 @@
     },
     {
       "id": "uebungsfragen",
+      "stable_id": "card-ms94276o07lzf",
       "front": "Übungsfragen erstellen",
       "back": "Die KI erstellt Quizfragen zu einem Thema, um das Gelernte zu testen.",
       "notes": "Beispiel: »Stelle mir fünf Fragen zur Französischen Revolution«.",
@@ -90,6 +97,7 @@
     },
     {
       "id": "einfach-erklaeren",
+      "stable_id": "card-ms94276o07mp6",
       "front": "Einfach erklären lassen",
       "back": "Die KI erklärt ein schwieriges Thema in einfachen Worten, z. B. »wie für ein Kind«.",
       "notes": "Senkt die Hürde beim Einstieg in neue Themen.",
@@ -101,6 +109,7 @@
     },
     {
       "id": "lernstoff-zusammenfassen",
+      "stable_id": "card-ms94276o07nx1",
       "front": "Lernstoff zusammenfassen",
       "back": "Die KI verdichtet einen langen Text auf die wichtigsten Punkte zum Lernen.",
       "notes": "Gut für die Prüfungsvorbereitung.",
@@ -112,6 +121,7 @@
     },
     {
       "id": "lerntechnik",
+      "stable_id": "card-ms94276o07oth",
       "front": "Lerntechnik vorschlagen",
       "back": "Die KI empfiehlt Methoden wie Karteikarten, Eselsbrücken oder Wiederholungspläne.",
       "notes": "Beispiel: »Wie merke ich mir die Reihenfolge der Planeten?«",
@@ -123,6 +133,7 @@
     },
     {
       "id": "sprachpartner",
+      "stable_id": "card-ms94276o07p3b",
       "front": "Sprach-Gesprächspartner",
       "back": "Die KI führt Übungsgespräche in einer Fremdsprache und korrigiert Fehler.",
       "notes": "Ideal, um ohne Scheu das Sprechen zu üben.",
@@ -134,6 +145,7 @@
     },
     {
       "id": "feedback-einholen",
+      "stable_id": "card-ms94276o07qdw",
       "front": "Feedback einholen",
       "back": "Die KI bewertet eine eigene Lösung oder einen Text und nennt Verbesserungen.",
       "notes": "Beispiel: »Was kann ich an diesem Aufsatz besser machen?«",
@@ -170,6 +182,7 @@
       "title": "Lernziel und KI-Strategie",
       "exercise": {
         "id": "ex-match-strategie",
+        "stable_id": "ex-ms94276o07rfg",
         "type": "matching",
         "prompt": "Ordne jedem Lernziel die passende KI-Strategie zu.",
         "card_ids": [
@@ -206,6 +219,7 @@
       "title": "Kern eines Lernplans",
       "exercise": {
         "id": "ex-cloze-lernplan",
+        "stable_id": "ex-ms94276o07sek",
         "type": "cloze",
         "prompt": "Ergänze, was ein individueller Lernplan unbedingt enthalten sollte.",
         "card_ids": [
@@ -231,6 +245,7 @@
       "title": "Die KI als Lehrer",
       "exercise": {
         "id": "ex-free-tutor",
+        "stable_id": "ex-ms94276o07trw",
         "type": "free_text",
         "prompt": "Wie nennt man die KI, wenn sie wie ein geduldiger Lehrer Konzepte erklärt?",
         "card_ids": [
@@ -258,6 +273,7 @@
       "title": "Bausteine eines Lernplans",
       "exercise": {
         "id": "ex-tiles-lernplan",
+        "stable_id": "ex-ms94276o07ur7",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu den Bausteinen eines Lernplans zusammen.",
         "card_ids": [
@@ -284,6 +300,7 @@
       "title": "Hilfe beim Programmieren",
       "exercise": {
         "id": "ex-free-code",
+        "stable_id": "ex-ms94276o07vlj",
         "type": "free_text",
         "prompt": "Wobei kann die KI dir beim Programmieren konkret helfen?",
         "card_ids": [
@@ -313,6 +330,7 @@
       "title": "Begriffe und Bedeutung",
       "exercise": {
         "id": "ex-match-begriffe-lernen",
+        "stable_id": "ex-ms94276o07w6o",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": [
@@ -349,6 +367,7 @@
       "title": "Einfach erklären lassen",
       "exercise": {
         "id": "ex-cloze-konzept",
+        "stable_id": "ex-ms94276o07xqw",
         "type": "cloze",
         "prompt": "Ergänze, worum du die KI bittest, wenn ein Thema zu schwierig ist.",
         "card_ids": [
@@ -375,6 +394,7 @@
       "title": "Merksatz zum Sprachenlernen",
       "exercise": {
         "id": "ex-tiles-sprachen",
+        "stable_id": "ex-ms94276o07y0g",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum Sprachenlernen mit KI zusammen.",
         "card_ids": [

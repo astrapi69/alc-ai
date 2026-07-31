@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "datenschutz",
+      "stable_id": "card-ms94276t0a726",
       "front": "Datenschutz",
       "back": "Keine sensiblen oder persönlichen Daten unbedacht in eine KI eingeben — Eingaben können gespeichert oder weiterverarbeitet werden.",
       "notes": "Im Zweifel keine Namen, Passwörter oder vertrauliche Inhalte eingeben.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "halluzination",
+      "stable_id": "card-ms94276t0a8gp",
       "front": "Halluzination",
       "back": "Wenn eine KI plausibel klingende, aber falsche Angaben erfindet — etwa erfundene Fakten, Zahlen oder Quellen.",
       "notes": "Deshalb gilt: Wichtige Angaben immer nachprüfen.",
@@ -33,6 +35,7 @@
     },
     {
       "id": "bias",
+      "stable_id": "card-ms94276t0a99i",
       "front": "Bias (Verzerrung)",
       "back": "Eine KI kann Vorurteile aus ihren Trainingsdaten übernehmen und so verzerrte oder einseitige Ergebnisse liefern.",
       "notes": "Englisch: bias. Ergebnisse kritisch hinterfragen.",
@@ -45,6 +48,7 @@
     },
     {
       "id": "faktencheck",
+      "stable_id": "card-ms94276t0aayo",
       "front": "Faktencheck",
       "back": "Das Überprüfen von KI-Antworten anhand verlässlicher Quellen, besonders bei Fakten, Zahlen und Quellenangaben.",
       "notes": "Vertraue keiner Angabe blind, nur weil sie überzeugend klingt.",
@@ -57,6 +61,7 @@
     },
     {
       "id": "menschliche-kontrolle",
+      "stable_id": "card-ms94276t0abq7",
       "front": "Menschliche Kontrolle",
       "back": "KI ist ein Werkzeug, kein Ersatz für das eigene Urteil. Der Mensch überprüft die Ergebnisse und verantwortet die Entscheidung.",
       "notes": "Die letzte Entscheidung sollte immer beim Menschen liegen.",
@@ -69,6 +74,7 @@
     },
     {
       "id": "werkzeug-kein-ersatz",
+      "stable_id": "card-ms94276t0ac3s",
       "front": "KI als Werkzeug",
       "back": "KI unterstützt das eigene Denken, ersetzt es aber nicht. Das eigene Urteil bleibt wichtig.",
       "notes": "Werkzeug statt Autopilot.",
@@ -81,6 +87,7 @@
     },
     {
       "id": "urheberrecht",
+      "stable_id": "card-ms94276t0ad3h",
       "front": "Urheberrecht",
       "back": "KI-Inhalte können fremde Werke berühren; geistiges Eigentum ist zu achten.",
       "notes": "Bei kommerzieller Nutzung die Rechtslage prüfen.",
@@ -92,6 +99,7 @@
     },
     {
       "id": "transparenz",
+      "stable_id": "card-ms94276t0ae2y",
       "front": "Transparenz",
       "back": "Offenlegen, wenn ein Text oder Bild mithilfe von KI entstanden ist.",
       "notes": "Schafft Vertrauen und vermeidet Täuschung.",
@@ -103,6 +111,7 @@
     },
     {
       "id": "desinformation",
+      "stable_id": "card-ms94276t0af0u",
       "front": "Desinformation",
       "back": "KI kann täuschend echte Falschmeldungen und Deepfakes erzeugen.",
       "notes": "Quellen prüfen, bevor man Inhalte glaubt oder teilt.",
@@ -114,6 +123,7 @@
     },
     {
       "id": "nachhaltigkeit",
+      "stable_id": "card-ms94276t0ag7f",
       "front": "Nachhaltigkeit",
       "back": "Das Trainieren und Betreiben großer KI verbraucht viel Energie.",
       "notes": "Bewusster Einsatz schont Ressourcen.",
@@ -125,6 +135,7 @@
     },
     {
       "id": "verantwortung",
+      "stable_id": "card-ms94276t0ahcb",
       "front": "Verantwortung",
       "back": "Die Verantwortung für eine KI-Entscheidung bleibt immer beim Menschen.",
       "notes": "KI gibt Vorschläge — entscheiden und prüfen muss der Mensch.",
@@ -136,6 +147,7 @@
     },
     {
       "id": "quellen-pruefen",
+      "stable_id": "card-ms94276t0aifj",
       "front": "Quellen prüfen",
       "back": "KI-Antworten an verlässlichen Quellen gegenprüfen, besonders bei wichtigen Themen.",
       "notes": "Hilft gegen Halluzinationen und Fehler.",
@@ -172,6 +184,7 @@
       "title": "Sind KI-Antworten immer korrekt?",
       "exercise": {
         "id": "ex-free-immer-korrekt",
+        "stable_id": "ex-ms94276t0ajni",
         "type": "free_text",
         "prompt": "Richtig oder falsch: KI-Antworten sind immer korrekt.",
         "card_ids": [
@@ -199,6 +212,7 @@
       "title": "Risiko und Gegenmaßnahme",
       "exercise": {
         "id": "ex-match-risiko-gegenmassnahme",
+        "stable_id": "ex-ms94276t0akyv",
         "type": "matching",
         "prompt": "Ordne jedem Risiko die passende Gegenmaßnahme zu.",
         "card_ids": [
@@ -230,6 +244,7 @@
       "title": "Wenn KI Fakten erfindet",
       "exercise": {
         "id": "ex-cloze-halluzination",
+        "stable_id": "ex-ms94276t0alw2",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für erfundene KI-Angaben.",
         "card_ids": [
@@ -255,6 +270,7 @@
       "title": "Merksatz zur Verantwortung",
       "exercise": {
         "id": "ex-tiles-werkzeug",
+        "stable_id": "ex-ms94276t0amwl",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": [
@@ -284,6 +300,7 @@
       "title": "Was gehört nicht in die KI?",
       "exercise": {
         "id": "ex-pick-datenschutz",
+        "stable_id": "ex-ms94276t0anwg",
         "type": "picture_choice",
         "prompt": "Welche Eingabe ist aus Datenschutzgründen problematisch?",
         "card_ids": [
@@ -324,6 +341,7 @@
       "title": "Vorurteile aus den Daten",
       "exercise": {
         "id": "ex-free-bias",
+        "stable_id": "ex-ms94276t0aopg",
         "type": "free_text",
         "prompt": "Wie nennt man es, wenn eine KI Vorurteile aus ihren Trainingsdaten übernimmt?",
         "card_ids": [
@@ -351,6 +369,7 @@
       "title": "Wer entscheidet?",
       "exercise": {
         "id": "ex-cloze-kontrolle",
+        "stable_id": "ex-ms94276t0ap6l",
         "type": "cloze",
         "prompt": "Ergänze, wer die letzte Entscheidung verantwortet.",
         "card_ids": [
@@ -377,6 +396,7 @@
       "title": "Begriff und Bedeutung",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms94276t0aqsj",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Bedeutung zu.",
         "card_ids": [

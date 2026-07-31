@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "prompt",
+      "stable_id": "card-ms94276m0568x",
       "front": "Prompt",
       "back": "Die Anweisung oder Frage, die man an eine KI richtet. Der Prompt steuert, was die KI tut und wie sie antwortet.",
       "notes": "Je klarer der Prompt, desto besser die Antwort.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "rolle",
+      "stable_id": "card-ms94276m057dz",
       "front": "Rolle",
       "back": "Der Baustein eines Prompts, der festlegt, aus welcher Perspektive die KI antworten soll — etwa als Lehrerin, Köchin oder Reiseexperte.",
       "notes": "Beispiel: Agiere als erfahrener Reiseführer.",
@@ -32,6 +34,7 @@
     },
     {
       "id": "kontext",
+      "stable_id": "card-ms94276m0585h",
       "front": "Kontext",
       "back": "Die Hintergrundinformationen, die der KI helfen, die Aufgabe richtig einzuordnen — etwa für wen, wozu oder in welcher Situation.",
       "notes": "Ohne Kontext rät die KI und liegt oft daneben.",
@@ -44,6 +47,7 @@
     },
     {
       "id": "aufgabe",
+      "stable_id": "card-ms94276m059e6",
       "front": "Aufgabe",
       "back": "Der Kern des Prompts: was die KI konkret tun soll — zusammenfassen, erklären, eine Liste erstellen oder einen Text schreiben.",
       "notes": "Möglichst mit einem klaren Verb beginnen: Erkläre, Fasse zusammen, Erstelle.",
@@ -56,6 +60,7 @@
     },
     {
       "id": "format",
+      "stable_id": "card-ms94276m05a6h",
       "front": "Format",
       "back": "Die gewünschte Form der Antwort — zum Beispiel eine Stichpunktliste, eine Tabelle, ein kurzer Absatz oder eine bestimmte Länge.",
       "notes": "Beispiel: Antworte in fünf Stichpunkten.",
@@ -68,6 +73,7 @@
     },
     {
       "id": "einschraenkung",
+      "stable_id": "card-ms94276m05bio",
       "front": "Einschränkung",
       "back": "Eine Vorgabe oder Grenze für die Antwort — etwa eine maximale Länge, eine einfache Sprache oder das Vermeiden bestimmter Begriffe.",
       "notes": "Beispiel: Erkläre es so, dass ein Kind es versteht.",
@@ -80,6 +86,7 @@
     },
     {
       "id": "klarer-prompt",
+      "stable_id": "card-ms94276m05cfq",
       "front": "Klarer Prompt",
       "back": "Eine eindeutige Anweisung an die KI, die genau sagt, was gewünscht ist — Gegenteil eines vagen Prompts.",
       "notes": "Je klarer die Anfrage, desto brauchbarer die Antwort.",
@@ -91,6 +98,7 @@
     },
     {
       "id": "beispiel-im-prompt",
+      "stable_id": "card-ms94276m05dli",
       "front": "Beispiel im Prompt",
       "back": "Ein mitgeliefertes Muster, an dem sich die KI für Stil oder Form orientieren soll.",
       "notes": "Englisch: few-shot. Beispiele verbessern oft das Ergebnis deutlich.",
@@ -102,6 +110,7 @@
     },
     {
       "id": "iteration",
+      "stable_id": "card-ms94276m05ez6",
       "front": "Iteratives Nachbessern",
       "back": "Das schrittweise Verbessern einer Antwort durch Rückfragen und Präzisieren.",
       "notes": "Selten ist die erste Antwort perfekt — nachhaken lohnt sich.",
@@ -113,6 +122,7 @@
     },
     {
       "id": "ton",
+      "stable_id": "card-ms94276m05f33",
       "front": "Tonfall festlegen",
       "back": "Im Prompt angeben, wie die Antwort klingen soll, z. B. förmlich, locker oder humorvoll.",
       "notes": "Beispiel: »Antworte freundlich und einfach«.",
@@ -124,6 +134,7 @@
     },
     {
       "id": "zielgruppe",
+      "stable_id": "card-ms94276m05g1z",
       "front": "Zielgruppe angeben",
       "back": "Im Prompt nennen, für wen der Text gedacht ist, z. B. Kinder, Fachleute oder Einsteiger.",
       "notes": "Die KI passt Wortwahl und Tiefe an die Zielgruppe an.",
@@ -135,6 +146,7 @@
     },
     {
       "id": "laenge",
+      "stable_id": "card-ms94276m05hlm",
       "front": "Länge vorgeben",
       "back": "Im Prompt festlegen, wie lang die Antwort sein soll, etwa »in drei Sätzen« oder »als Stichpunkte«.",
       "notes": "Verhindert zu lange oder zu knappe Antworten.",
@@ -171,6 +183,7 @@
       "title": "Prompt-Element und Beschreibung",
       "exercise": {
         "id": "ex-match-bausteine",
+        "stable_id": "ex-ms94276m05i71",
         "type": "matching",
         "prompt": "Ordne jeden Prompt-Baustein seiner Beschreibung zu.",
         "card_ids": [
@@ -207,6 +220,7 @@
       "title": "Welcher Prompt ist besser?",
       "exercise": {
         "id": "ex-pick-besser",
+        "stable_id": "ex-ms94276m05jl1",
         "type": "picture_choice",
         "prompt": "Welcher Prompt ist besser, weil er klar und spezifisch ist?",
         "card_ids": [
@@ -243,6 +257,7 @@
       "title": "Merkmal eines guten Prompts",
       "exercise": {
         "id": "ex-cloze-klar-spezifisch",
+        "stable_id": "ex-ms94276m05k42",
         "type": "cloze",
         "prompt": "Ergänze den Merksatz aus der Lektion.",
         "card_ids": [
@@ -268,6 +283,7 @@
       "title": "Begriff zur Definition",
       "exercise": {
         "id": "ex-free-was-ist-prompt",
+        "stable_id": "ex-ms94276m05lo2",
         "type": "free_text",
         "prompt": "Wie nennt man die Anweisung oder Frage, die man an eine KI richtet?",
         "card_ids": [
@@ -294,6 +310,7 @@
       "title": "Baustein und Beispiel",
       "exercise": {
         "id": "ex-match-beispiele",
+        "stable_id": "ex-ms94276m05mee",
         "type": "matching",
         "prompt": "Ordne jedem Prompt-Baustein das passende Beispiel zu.",
         "card_ids": [
@@ -330,6 +347,7 @@
       "title": "Der Kern jedes Prompts",
       "exercise": {
         "id": "ex-cloze-kern",
+        "stable_id": "ex-ms94276m05n81",
         "type": "cloze",
         "prompt": "Ergänze, welcher Baustein in keinem Prompt fehlen sollte.",
         "card_ids": [
@@ -355,6 +373,7 @@
       "title": "Faustregel zusammensetzen",
       "exercise": {
         "id": "ex-tiles-faustregel",
+        "stable_id": "ex-ms94276m05ovz",
         "type": "word_tiles",
         "prompt": "Setze die Faustregel aus der Lektion zusammen.",
         "card_ids": [
@@ -382,6 +401,7 @@
       "title": "Was fehlt einem vagen Prompt?",
       "exercise": {
         "id": "ex-free-fehlt-kontext",
+        "stable_id": "ex-ms94276m05pio",
         "type": "free_text",
         "prompt": "Welcher Baustein liefert der KI die Hintergrundinformationen zur richtigen Einordnung?",
         "card_ids": [

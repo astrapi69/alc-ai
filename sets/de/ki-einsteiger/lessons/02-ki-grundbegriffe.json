@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "maschinelles-lernen",
+      "stable_id": "card-ms94276l04lmz",
       "front": "Maschinelles Lernen",
       "back": "Verfahren, bei dem ein Computer aus Daten lernt, statt feste Regeln vorgegeben zu bekommen. Aus vielen Beispielen leitet er selbst Muster ab.",
       "notes": "Englisch: Machine Learning (ML). Der Kern moderner KI.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "neuronales-netz",
+      "stable_id": "card-ms94276l04mxm",
       "front": "Neuronales Netz",
       "back": "Ein Rechenmodell aus vielen verbundenen Recheneinheiten, das lose vom Aufbau des Gehirns inspiriert ist. Es verarbeitet Daten Schicht für Schicht.",
       "notes": "Die einzelnen Einheiten heißen künstliche Neuronen. Es denkt nicht wie ein Gehirn, es rechnet.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "trainingsdaten",
+      "stable_id": "card-ms94276l04ny9",
       "front": "Trainingsdaten",
       "back": "Die Beispiele, mit denen ein KI-Modell lernt — etwa Texte, Bilder oder Zahlen. Die Qualität dieser Daten bestimmt, wie gut das Modell wird.",
       "notes": "Schlechte oder einseitige Trainingsdaten führen zu schlechten Ergebnissen.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "modell",
+      "stable_id": "card-ms94276l04o29",
       "front": "Modell",
       "back": "Das Ergebnis des Trainings — also das, was die KI gelernt hat. Mit dem fertigen Modell kann man dann neue Aufgaben lösen.",
       "notes": "Man trainiert ein Modell einmal und nutzt es danach immer wieder.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "sprachmodell",
+      "stable_id": "card-ms94276l04p67",
       "front": "Großes Sprachmodell (LLM)",
       "back": "Ein KI-Modell, das auf riesigen Mengen Text trainiert wurde und daraus Sprache erzeugen und verstehen kann. Beispiele sind die Modelle hinter ChatGPT.",
       "notes": "Englisch: Large Language Model (LLM). Sagt jeweils das wahrscheinlich nächste Wort voraus.",
@@ -65,6 +70,7 @@
     },
     {
       "id": "ki-mythos",
+      "stable_id": "card-ms94276l04qa2",
       "front": "KI-Mythos",
       "back": "Eine verbreitete falsche Vorstellung über KI — zum Beispiel, dass KI eigenständig denke, ein Bewusstsein habe oder niemals Fehler mache.",
       "notes": "KI erkennt Muster und rechnet. Sie versteht nicht wie ein Mensch und kann sich irren.",
@@ -77,6 +83,7 @@
     },
     {
       "id": "algorithmus",
+      "stable_id": "card-ms94276l04rim",
       "front": "Algorithmus",
       "back": "Eine genaue Schritt-für-Schritt-Anleitung, nach der ein Computer eine Aufgabe löst.",
       "notes": "KI nutzt Algorithmen, um aus Daten zu lernen.",
@@ -88,6 +95,7 @@
     },
     {
       "id": "daten",
+      "stable_id": "card-ms94276l04sp4",
       "front": "Daten",
       "back": "Informationen wie Texte, Bilder oder Zahlen, aus denen eine KI Muster lernt.",
       "notes": "Ohne Daten kann keine KI trainiert werden — die Qualität der Daten bestimmt die Qualität der KI.",
@@ -99,6 +107,7 @@
     },
     {
       "id": "deep-learning",
+      "stable_id": "card-ms94276l04t8h",
       "front": "Deep Learning",
       "back": "Eine Form des maschinellen Lernens mit vielschichtigen neuronalen Netzen (tiefes Lernen).",
       "notes": "Englisch: deep learning. Steckt hinter Sprach- und Bilderkennung.",
@@ -110,6 +119,7 @@
     },
     {
       "id": "training",
+      "stable_id": "card-ms94276l04ue3",
       "front": "Training",
       "back": "Die Lernphase, in der eine KI anhand vieler Beispiele ihre Muster anpasst.",
       "notes": "Nach dem Training kann das Modell auf neue Fälle angewendet werden.",
@@ -121,6 +131,7 @@
     },
     {
       "id": "mustererkennung",
+      "stable_id": "card-ms94276l04v8f",
       "front": "Mustererkennung",
       "back": "Die Fähigkeit einer KI, Regelmäßigkeiten in Daten zu finden — etwa wiederkehrende Formen oder Wörter.",
       "notes": "Grundprinzip fast aller KI-Systeme.",
@@ -132,6 +143,7 @@
     },
     {
       "id": "generative-ki",
+      "stable_id": "card-ms94276l04wfr",
       "front": "Generative KI",
       "back": "KI, die neue Inhalte erzeugt — Texte, Bilder, Musik oder Code.",
       "notes": "Beispiele: ChatGPT für Texte, DALL·E für Bilder.",
@@ -168,6 +180,7 @@
       "title": "Begriff und Definition",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms94276l04xsg",
         "type": "matching",
         "prompt": "Ordne jedem Grundbegriff seine kurze Erklärung zu.",
         "card_ids": [
@@ -204,6 +217,7 @@
       "title": "Woraus KI lernt",
       "exercise": {
         "id": "ex-cloze-lernt-aus",
+        "stable_id": "ex-ms94276l04yy9",
         "type": "cloze",
         "prompt": "Ergänze, woraus eine KI beim maschinellen Lernen lernt.",
         "card_ids": [
@@ -231,6 +245,7 @@
       "title": "Richtig oder falsch?",
       "exercise": {
         "id": "ex-free-denken",
+        "stable_id": "ex-ms94276l04z3u",
         "type": "free_text",
         "prompt": "Richtig oder falsch: KI kann eigenständig denken.",
         "card_ids": [
@@ -257,6 +272,7 @@
       "title": "Begriff zur Definition",
       "exercise": {
         "id": "ex-free-was-lernt",
+        "stable_id": "ex-ms94276l050yd",
         "type": "free_text",
         "prompt": "Wie nennt man das Verfahren, bei dem ein Computer aus Daten lernt statt feste Regeln vorgegeben zu bekommen?",
         "card_ids": [
@@ -284,6 +300,7 @@
       "title": "Mythos oder Wahrheit",
       "exercise": {
         "id": "ex-match-mythen",
+        "stable_id": "ex-ms94276l051yr",
         "type": "matching",
         "prompt": "Ordne jeder Aussage zu, ob sie ein Mythos oder zutreffend ist.",
         "card_ids": [
@@ -318,6 +335,7 @@
       "title": "Worauf ein LLM trainiert wird",
       "exercise": {
         "id": "ex-cloze-sprachmodell",
+        "stable_id": "ex-ms94276l052xk",
         "type": "cloze",
         "prompt": "Ergänze, womit ein großes Sprachmodell trainiert wird.",
         "card_ids": [
@@ -344,6 +362,7 @@
       "title": "Merksatz zusammensetzen",
       "exercise": {
         "id": "ex-tiles-werkzeug",
+        "stable_id": "ex-ms94276l05386",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz aus der Lektion zusammen.",
         "card_ids": [
@@ -369,6 +388,7 @@
       "title": "Das Gelernte benennen",
       "exercise": {
         "id": "ex-free-modell",
+        "stable_id": "ex-ms94276l054xb",
         "type": "free_text",
         "prompt": "Wie nennt man das fertige Ergebnis des Trainings, also das, was die KI gelernt hat?",
         "card_ids": [
@@ -395,6 +415,7 @@
       "title": "Was ist ein neuronales Netz?",
       "exercise": {
         "id": "ex-pick-netz",
+        "stable_id": "ex-ms94276l055ik",
         "type": "picture_choice",
         "prompt": "Welche Beschreibung trifft auf ein neuronales Netz zu?",
         "card_ids": [

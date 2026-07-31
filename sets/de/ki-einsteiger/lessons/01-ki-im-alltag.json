@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "ki",
+      "stable_id": "card-ms94276k041pk",
       "front": "Künstliche Intelligenz (KI)",
       "back": "Computersysteme, die Aufgaben übernehmen, für die man sonst menschliche Intelligenz braucht — etwa Sprache verstehen, Muster erkennen oder Empfehlungen geben.",
       "notes": "Englisch: Artificial Intelligence (AI). KI ist ein Werkzeug, kein denkendes Wesen.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "sprachassistent",
+      "stable_id": "card-ms94276k042ys",
       "front": "Sprachassistent",
       "back": "KI-Programm, das gesprochene Sprache versteht und beantwortet, z. B. Siri, Alexa oder der Google Assistant.",
       "notes": "Erkennt Sprache, wandelt sie in Text um und reagiert mit einer Antwort.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "empfehlungssystem",
+      "stable_id": "card-ms94276k043ip",
       "front": "Empfehlungssystem",
       "back": "KI, die aus deinem bisherigen Verhalten Vorschläge ableitet — etwa Filme bei Netflix oder Produkte bei Online-Shops.",
       "notes": "Englisch: recommender system. Lernt aus Klicks, Käufen und Bewertungen.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "navigation",
+      "stable_id": "card-ms94276k0445n",
       "front": "Navigations-KI",
       "back": "KI in Karten-Apps wie Google Maps, die aus Verkehrsdaten die schnellste Route berechnet.",
       "notes": "Wertet aktuelle Staus und Geschwindigkeiten vieler Nutzer in Echtzeit aus.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "spamfilter",
+      "stable_id": "card-ms94276k04527",
       "front": "Spamfilter",
       "back": "KI im E-Mail-Postfach, die unerwünschte Werbe- und Betrugsnachrichten automatisch aussortiert.",
       "notes": "Lernt aus Beispielen, welche Merkmale typisch für Spam sind.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "chatbot",
+      "stable_id": "card-ms94276k046if",
       "front": "Chatbot",
       "back": "KI-Programm, mit dem man sich per Text unterhält und das Fragen beantwortet, z. B. ChatGPT.",
       "notes": "Moderne Chatbots beruhen auf großen Sprachmodellen.",
@@ -76,6 +82,7 @@
     },
     {
       "id": "gesichtserkennung",
+      "stable_id": "card-ms94276k047ag",
       "front": "Gesichtserkennung",
       "back": "KI, die Gesichter auf Fotos erkennt und zuordnet — etwa zum Entsperren des Smartphones.",
       "notes": "Ein Beispiel für Bilderkennung (Computer Vision).",
@@ -87,6 +94,7 @@
     },
     {
       "id": "warum-ki-lernen",
+      "stable_id": "card-ms94276k0481p",
       "front": "Warum KI lernen?",
       "back": "Wer KI gezielt einsetzen kann, spart Zeit, löst Aufgaben leichter und bleibt beruflich wie privat anschlussfähig.",
       "notes": "Nicht das Programmieren ist entscheidend, sondern das geschickte Bedienen.",
@@ -98,6 +106,7 @@
     },
     {
       "id": "uebersetzungs-app",
+      "stable_id": "card-ms94276k049q7",
       "front": "Übersetzungs-App",
       "back": "KI, die Texte zwischen Sprachen übersetzt, z. B. DeepL oder Google Übersetzer.",
       "notes": "Moderne Übersetzer beruhen auf Sprachmodellen und liefern oft sehr natürliche Ergebnisse.",
@@ -109,6 +118,7 @@
     },
     {
       "id": "autokorrektur",
+      "stable_id": "card-ms94276k04aun",
       "front": "Autokorrektur",
       "back": "KI im Smartphone, die Tippfehler erkennt und das nächste Wort vorschlägt.",
       "notes": "Lernt mit der Zeit deinen persönlichen Schreibstil.",
@@ -120,6 +130,7 @@
     },
     {
       "id": "foto-optimierung",
+      "stable_id": "card-ms94276k04bp2",
       "front": "Foto-Optimierung",
       "back": "KI in der Smartphone-Kamera, die Helligkeit, Schärfe und Farben automatisch verbessert.",
       "notes": "Erkennt z. B. Gesichter oder Landschaften und passt die Einstellungen an.",
@@ -131,6 +142,7 @@
     },
     {
       "id": "smart-home",
+      "stable_id": "card-ms94276k04czm",
       "front": "Smart-Home-Steuerung",
       "back": "KI, die Geräte im Haushalt automatisch steuert, etwa Heizung oder Licht nach Gewohnheiten.",
       "notes": "Lernt aus dem Tagesablauf der Bewohner.",
@@ -167,6 +179,7 @@
       "title": "KI-Anwendung und Bereich",
       "exercise": {
         "id": "ex-match-anwendungen",
+        "stable_id": "ex-ms94276k04dmg",
         "type": "matching",
         "prompt": "Ordne jede KI-Anwendung ihrem Alltagsbereich zu.",
         "card_ids": [
@@ -203,6 +216,7 @@
       "title": "Ein KI-Beispiel nennen",
       "exercise": {
         "id": "ex-free-beispiel",
+        "stable_id": "ex-ms94276k04ed3",
         "type": "free_text",
         "prompt": "Nenne ein Beispiel für KI im Alltag.",
         "card_ids": [
@@ -239,6 +253,7 @@
       "title": "Siri und Alexa",
       "exercise": {
         "id": "ex-cloze-assistenten",
+        "stable_id": "ex-ms94276k04fb8",
         "type": "cloze",
         "prompt": "Ergänze, welche Art von Assistenten Siri und Alexa sind.",
         "card_ids": [
@@ -265,6 +280,7 @@
       "title": "Begriff zur Definition",
       "exercise": {
         "id": "ex-free-was-ist-ki",
+        "stable_id": "ex-ms94276k04gcd",
         "type": "free_text",
         "prompt": "Wie nennt man Computersysteme, die Aufgaben übernehmen, für die sonst menschliche Intelligenz nötig wäre?",
         "card_ids": [
@@ -293,6 +309,7 @@
       "title": "Was tut die KI?",
       "exercise": {
         "id": "ex-match-tut",
+        "stable_id": "ex-ms94276k04h8v",
         "type": "matching",
         "prompt": "Ordne jeder KI-Anwendung zu, was sie tut.",
         "card_ids": [
@@ -329,6 +346,7 @@
       "title": "KI als Werkzeug",
       "exercise": {
         "id": "ex-tiles-werkzeug",
+        "stable_id": "ex-ms94276k04i1t",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": [
@@ -354,6 +372,7 @@
       "title": "Der Schlüssel zur KI",
       "exercise": {
         "id": "ex-cloze-warum",
+        "stable_id": "ex-ms94276k04j2z",
         "type": "cloze",
         "prompt": "Ergänze, worauf es beim KI-Einsatz vor allem ankommt.",
         "card_ids": [
@@ -380,6 +399,7 @@
       "title": "Wo steckt KI drin?",
       "exercise": {
         "id": "ex-pick-alltag",
+        "stable_id": "ex-ms94276k04kn0",
         "type": "picture_choice",
         "prompt": "Welches dieser Beispiele wird typischerweise von KI gesteuert?",
         "card_ids": [

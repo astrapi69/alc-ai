@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "kreativer-prompt",
+      "stable_id": "card-ms94276p07zej",
       "front": "Kreativer Prompt",
       "back": "Eine offene, anregende Anweisung an die KI, die Raum für Fantasie lässt — etwa „Erfinde eine Geschichte über eine Stadt unter Wasser“ statt einer eng begrenzten Faktenfrage.",
       "notes": "Je offener und bildhafter der Prompt, desto vielfältiger die Ergebnisse.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "bildgenerator",
+      "stable_id": "card-ms94276p080r4",
       "front": "Bildgenerator",
       "back": "KI, die aus einer Textbeschreibung neue Bilder erzeugt, zum Beispiel DALL·E oder Midjourney.",
       "notes": "Englisch: image generator. Aus Worten wird visuelle Kunst.",
@@ -33,6 +35,7 @@
     },
     {
       "id": "story-idee",
+      "stable_id": "card-ms94276p0813o",
       "front": "Story-Idee",
       "back": "Ein Vorschlag für Handlung, Figuren oder Wendungen einer Geschichte, den die KI auf Wunsch liefert.",
       "notes": "Gut, um eine Schreibblockade zu überwinden oder Plots weiterzudenken.",
@@ -45,6 +48,7 @@
     },
     {
       "id": "brainstorming-ki",
+      "stable_id": "card-ms94276p082b1",
       "front": "Brainstorming mit KI",
       "back": "Das schnelle Sammeln vieler Ideen mithilfe der KI — sie liefert in Sekunden zahlreiche Vorschläge, aus denen man auswählt.",
       "notes": "Die KI bewertet nicht, sie liefert Menge; die Auswahl trifft der Mensch.",
@@ -57,6 +61,7 @@
     },
     {
       "id": "co-autorin",
+      "stable_id": "card-ms94276p0832n",
       "front": "KI als Co-Autorin",
       "back": "Eine Arbeitsweise, bei der der Mensch die Richtung vorgibt und die KI Varianten, Formulierungen oder Fortsetzungen liefert.",
       "notes": "Der Mensch behält die kreative Kontrolle, die KI ist Partnerin.",
@@ -69,6 +74,7 @@
     },
     {
       "id": "musik-idee",
+      "stable_id": "card-ms94276p084re",
       "front": "Musik-Idee mit KI",
       "back": "Vorschläge für Melodien, Texte oder Stimmungen, die eine KI als Ausgangspunkt für eigene Musik liefern kann.",
       "notes": "Ein Startpunkt zum Weiterentwickeln, kein fertiges Werk.",
@@ -81,6 +87,7 @@
     },
     {
       "id": "sprachmodell",
+      "stable_id": "card-ms94276p085my",
       "front": "Sprachmodell",
       "back": "KI, die Texte versteht und erzeugt — die Grundlage für Story-Ideen, Gedichte und kreative Texte.",
       "notes": "Englisch: language model. Arbeitet mit Sprache, nicht mit Bildern.",
@@ -93,6 +100,7 @@
     },
     {
       "id": "gedicht-schreiben",
+      "stable_id": "card-ms94276p086dy",
       "front": "Gedicht schreiben",
       "back": "Die KI verfasst Gedichte zu einem Thema, mit Reim oder in freier Form.",
       "notes": "Gut für Glückwunschkarten oder als Inspiration.",
@@ -104,6 +112,7 @@
     },
     {
       "id": "charakter-entwurf",
+      "stable_id": "card-ms94276p0874y",
       "front": "Charakter entwerfen",
       "back": "Die KI entwickelt Figuren für Geschichten mit Aussehen, Eigenschaften und Hintergrund.",
       "notes": "Beschreibe Genre und Rolle für stimmige Figuren.",
@@ -115,6 +124,7 @@
     },
     {
       "id": "bild-prompt",
+      "stable_id": "card-ms94276p088gj",
       "front": "Bild-Prompt",
       "back": "Eine genaue Beschreibung, aus der ein Bildgenerator ein Bild erzeugt.",
       "notes": "Je genauer Motiv, Stil und Stimmung beschrieben sind, desto besser das Bild.",
@@ -126,6 +136,7 @@
     },
     {
       "id": "stil-imitation",
+      "stable_id": "card-ms94276p089yd",
       "front": "Stil nachahmen",
       "back": "Die KI schreibt oder gestaltet im Stil einer Vorlage, z. B. sachlich oder märchenhaft.",
       "notes": "Hinweis: fremde Urheberrechte respektieren.",
@@ -138,6 +149,7 @@
     },
     {
       "id": "schreibblockade",
+      "stable_id": "card-ms94276p08aam",
       "front": "Schreibblockade überwinden",
       "back": "Die KI liefert erste Sätze oder Ideen, wenn man selbst nicht weiterkommt.",
       "notes": "Der Anfang fällt mit einem Vorschlag oft leichter.",
@@ -174,6 +186,7 @@
       "title": "Kreativbereich und Werkzeug",
       "exercise": {
         "id": "ex-match-bereiche",
+        "stable_id": "ex-ms94276p08b4q",
         "type": "matching",
         "prompt": "Ordne jedem kreativen Bereich das passende KI-Werkzeug zu.",
         "card_ids": [
@@ -210,6 +223,7 @@
       "title": "Der kreativste Prompt",
       "exercise": {
         "id": "ex-pick-prompt",
+        "stable_id": "ex-ms94276p08cuc",
         "type": "picture_choice",
         "prompt": "Welcher Prompt erzeugt die kreativste und offenste Antwort?",
         "card_ids": [
@@ -250,6 +264,7 @@
       "title": "Bilder aus Text",
       "exercise": {
         "id": "ex-free-bildgenerator",
+        "stable_id": "ex-ms94276p08d8q",
         "type": "free_text",
         "prompt": "Wie nennt man eine KI, die aus einer Textbeschreibung neue Bilder erzeugt?",
         "card_ids": [
@@ -277,6 +292,7 @@
       "title": "Wer gibt die Richtung vor?",
       "exercise": {
         "id": "ex-cloze-co-autorin",
+        "stable_id": "ex-ms94276p08ea8",
         "type": "cloze",
         "prompt": "Ergänze, wie die Zusammenarbeit mit der KI als Co-Autorin funktioniert.",
         "card_ids": [
@@ -304,6 +320,7 @@
       "title": "Ein kreativer Prompt",
       "exercise": {
         "id": "ex-tiles-prompt",
+        "stable_id": "ex-ms94276p08fu8",
         "type": "word_tiles",
         "prompt": "Setze einen offenen, kreativen Prompt zusammen.",
         "card_ids": [
@@ -331,6 +348,7 @@
       "title": "Viele Ideen sammeln",
       "exercise": {
         "id": "ex-free-brainstorming",
+        "stable_id": "ex-ms94276p08g8u",
         "type": "free_text",
         "prompt": "Wie nennt man das schnelle Sammeln vieler Ideen mithilfe der KI?",
         "card_ids": [
@@ -358,6 +376,7 @@
       "title": "Was leistet das Werkzeug?",
       "exercise": {
         "id": "ex-match-werkzeuge",
+        "stable_id": "ex-ms94276p08hw5",
         "type": "matching",
         "prompt": "Ordne jedem KI-Werkzeug zu, was es leistet.",
         "card_ids": [
@@ -394,6 +413,7 @@
       "title": "Offene Prompts",
       "exercise": {
         "id": "ex-cloze-prompt-offen",
+        "stable_id": "ex-ms94276p08i7k",
         "type": "cloze",
         "prompt": "Ergänze den Merksatz zum kreativen Prompt.",
         "card_ids": [

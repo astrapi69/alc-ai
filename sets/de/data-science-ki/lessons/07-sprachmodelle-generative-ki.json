@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "llm",
+      "stable_id": "card-ms94276i02pym",
       "front": "Großes Sprachmodell (LLM)",
       "back": "Ein neuronales Netz, das auf riesigen Textmengen trainiert wurde, um Sprache zu verarbeiten und zu erzeugen.",
       "notes": "Englisch: Large Language Model. Grundlage von ChatGPT & Co.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "token",
+      "stable_id": "card-ms94276i02qna",
       "front": "Token",
       "back": "Ein Textbaustein — ein Wort oder Wortteil —, in den ein Modell Text zerlegt.",
       "notes": "„Sonnenblume\" kann in mehrere Token zerfallen.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "naechstes-token",
+      "stable_id": "card-ms94276i02rmc",
       "front": "Nächstes-Token-Vorhersage",
       "back": "Das Kernprinzip: Ein LLM sagt wiederholt das wahrscheinlichste nächste Token voraus.",
       "notes": "So entsteht Wort für Wort ein flüssiger Text.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "embedding",
+      "stable_id": "card-ms94276i02s4l",
       "front": "Embedding",
       "back": "Eine Darstellung von Wörtern als Zahlenvektoren, bei der Ähnliches nahe beieinanderliegt.",
       "notes": "So erfasst das Modell Bedeutung. „König\" und „Königin\" liegen nah.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "generative-ki",
+      "stable_id": "card-ms94276i02t69",
       "front": "Generative KI",
       "back": "KI, die neue Inhalte erzeugt — Texte, Bilder, Audio, Code.",
       "notes": "Englisch: generative AI. LLMs sind ein Beispiel.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "halluzination",
+      "stable_id": "card-ms94276i02uwc",
       "front": "Halluzination",
       "back": "Wenn ein Sprachmodell etwas Falsches überzeugend und flüssig erfindet.",
       "notes": "Das Modell prüft keine Fakten; wichtige Angaben immer nachprüfen.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "prompt",
+      "stable_id": "card-ms94276i02v7w",
       "front": "Prompt",
       "back": "Die Anweisung oder Frage, die man einem Sprachmodell gibt.",
       "notes": "Klar, mit Kontext und Zielformat formuliert wirkt er am besten.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "kontextfenster",
+      "stable_id": "card-ms94276i02w0d",
       "front": "Kontextfenster",
       "back": "Die begrenzte Menge Text, die ein Modell gleichzeitig berücksichtigen kann.",
       "notes": "Sehr lange Gespräche „vergessen\" den Anfang.",
@@ -143,7 +151,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-begriffe7"
+        "id": "ex-match-begriffe7", "stable_id": "ex-ms94276i02xy3"
       }
     },
     {
@@ -173,7 +181,7 @@
           "endgültige Wahrheit"
         ],
         "hint": "So entsteht Text Wort für Wort.",
-        "id": "ex-mc-kern"
+        "id": "ex-mc-kern", "stable_id": "ex-ms94276i02y8u"
       }
     },
     {
@@ -202,7 +210,7 @@
           "nie hinterfragen"
         ],
         "hint": "Das Modell prüft selbst keine Fakten.",
-        "id": "ex-mc-hallu"
+        "id": "ex-mc-hallu", "stable_id": "ex-ms94276i02zvz"
       }
     },
     {
@@ -228,7 +236,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Ähnliches liegt nah beieinander.",
-        "id": "ex-cloze-embedding"
+        "id": "ex-cloze-embedding", "stable_id": "ex-ms94276i030la"
       }
     },
     {
@@ -253,7 +261,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Klar und mit Kontext wirkt er am besten.",
-        "id": "ex-cloze-prompt"
+        "id": "ex-cloze-prompt", "stable_id": "ex-ms94276i031o3"
       }
     },
     {
@@ -283,7 +291,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-prompt"
+        "id": "ex-match-prompt", "stable_id": "ex-ms94276i032fh"
       }
     },
     {
@@ -308,7 +316,7 @@
         ],
         "hint": "Beginnt mit: Ein LLM sagt …",
         "direction": "target_to_source",
-        "id": "ex-tiles-token"
+        "id": "ex-tiles-token", "stable_id": "ex-ms94276i03335"
       }
     },
     {
@@ -334,7 +342,7 @@
           "Tabellenkalkulation"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-generativ"
+        "id": "ex-free-generativ", "stable_id": "ex-ms94276i0340p"
       }
     }
   ]
