@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "aufgabenmanagement",
+      "stable_id": "card-ms94276p08j8j",
       "front": "Aufgabenmanagement mit KI",
       "back": "Die KI hilft, Aufgaben zu ordnen, in Schritte zu zerlegen und einen realistischen Plan zu erstellen.",
       "notes": "Gut, um große Vorhaben in kleine, machbare Schritte zu teilen.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "zusammenfassung",
+      "stable_id": "card-ms94276p08kxg",
       "front": "Zusammenfassung",
       "back": "Die KI fasst lange Texte in wenigen Sätzen zusammen und hebt das Wichtigste hervor.",
       "notes": "Spart Zeit beim Lesen langer Berichte oder Artikel.",
@@ -33,6 +35,7 @@
     },
     {
       "id": "email-entwurf",
+      "stable_id": "card-ms94276p08li9",
       "front": "E-Mail-Entwurf",
       "back": "Die KI formuliert auf Stichworte hin eine vollständige E-Mail, die man danach nur noch anpassen muss.",
       "notes": "Hilft, schneller mit dem Schreiben anzufangen.",
@@ -45,6 +48,7 @@
     },
     {
       "id": "smart-ziel",
+      "stable_id": "card-ms94276p08mce",
       "front": "SMART-Ziel",
       "back": "Ein gut formuliertes Ziel: Spezifisch, Messbar, Attraktiv, Realistisch und Terminiert.",
       "notes": "SMART = Spezifisch, Messbar, Attraktiv (Akzeptiert), Realistisch, Terminiert.",
@@ -57,6 +61,7 @@
     },
     {
       "id": "priorisierung",
+      "stable_id": "card-ms94276p08np9",
       "front": "Priorisierung",
       "back": "Das Ordnen von Aufgaben nach Wichtigkeit und Dringlichkeit — die KI hilft, das Wesentliche zuerst zu erledigen.",
       "notes": "Hilft gegen die Informationsflut: filtern, zusammenfassen, priorisieren.",
@@ -69,6 +74,7 @@
     },
     {
       "id": "automatisierung",
+      "stable_id": "card-ms94276p08o2k",
       "front": "Einfache Automatisierung",
       "back": "Wiederkehrende Aufgaben mit KI-Hilfe ablaufen lassen, etwa Standardantworten oder Textbausteine erstellen.",
       "notes": "Spart Zeit bei Routineaufgaben.",
@@ -81,6 +87,7 @@
     },
     {
       "id": "informationsflut",
+      "stable_id": "card-ms94276p08pc8",
       "front": "Informationsflut bewältigen",
       "back": "Mit zu vielen Informationen umgehen, indem die KI sie filtert, zusammenfasst und nach Wichtigkeit ordnet.",
       "notes": "Drei Schritte: filtern, zusammenfassen, priorisieren.",
@@ -93,6 +100,7 @@
     },
     {
       "id": "tagesplan",
+      "stable_id": "card-ms94276p08qo4",
       "front": "Tagesplanung",
       "back": "Die KI ordnet Aufgaben zu einem realistischen Tagesablauf.",
       "notes": "Beispiel: »Plane meinen Arbeitstag mit diesen fünf Aufgaben«.",
@@ -104,6 +112,7 @@
     },
     {
       "id": "textvorlage",
+      "stable_id": "card-ms94276p08rjz",
       "front": "Textvorlage",
       "back": "Ein von der KI erstelltes Muster, das man immer wieder anpassen kann, z. B. für E-Mails.",
       "notes": "Englisch: Template. Spart Zeit bei wiederkehrenden Texten.",
@@ -115,6 +124,7 @@
     },
     {
       "id": "notizen-ordnen",
+      "stable_id": "card-ms94276p08sih",
       "front": "Notizen ordnen",
       "back": "Die KI sortiert ungeordnete Notizen in Themen, Listen oder eine Gliederung.",
       "notes": "Hilft, aus Stichworten eine Struktur zu machen.",
@@ -126,6 +136,7 @@
     },
     {
       "id": "entscheidung-treffen",
+      "stable_id": "card-ms94276p08tl6",
       "front": "Entscheidung vorbereiten",
       "back": "Die KI stellt Optionen mit Vor- und Nachteilen gegenüber.",
       "notes": "Die Entscheidung selbst bleibt beim Menschen.",
@@ -137,6 +148,7 @@
     },
     {
       "id": "meeting-vorbereitung",
+      "stable_id": "card-ms94276p08uxn",
       "front": "Meeting-Vorbereitung",
       "back": "Die KI erstellt Tagesordnung, Leitfragen und Stichpunkte für eine Besprechung.",
       "notes": "Sorgt für strukturierte und kürzere Meetings.",
@@ -173,6 +185,7 @@
       "title": "Aufgabe und KI-Einsatz",
       "exercise": {
         "id": "ex-match-aufgaben",
+        "stable_id": "ex-ms94276p08v0u",
         "type": "matching",
         "prompt": "Ordne jeder Aufgabe den besten KI-Einsatz zu.",
         "card_ids": [
@@ -209,6 +222,7 @@
       "title": "Wofür steht SMART?",
       "exercise": {
         "id": "ex-cloze-smart",
+        "stable_id": "ex-ms94276p08wvm",
         "type": "cloze",
         "prompt": "Ergänze die fehlenden Begriffe der SMART-Formel.",
         "card_ids": [
@@ -239,6 +253,7 @@
       "title": "Lange Texte kürzen",
       "exercise": {
         "id": "ex-free-zusammenfassung",
+        "stable_id": "ex-ms94276p08xtg",
         "type": "free_text",
         "prompt": "Wie nennt man es, wenn die KI einen langen Text in wenige Sätze bringt?",
         "card_ids": [
@@ -266,6 +281,7 @@
       "title": "Drei Schritte gegen die Flut",
       "exercise": {
         "id": "ex-tiles-informationsflut",
+        "stable_id": "ex-ms94276p08ydd",
         "type": "word_tiles",
         "prompt": "Setze die drei Schritte gegen die Informationsflut in die richtige Reihenfolge.",
         "card_ids": [
@@ -287,6 +303,7 @@
       "title": "Schneller mit E-Mails",
       "exercise": {
         "id": "ex-free-email",
+        "stable_id": "ex-ms94276p08ztl",
         "type": "free_text",
         "prompt": "Wie nennt man den von der KI vorformulierten Text, den man danach nur noch anpasst?",
         "card_ids": [
@@ -314,6 +331,7 @@
       "title": "SMART im Detail",
       "exercise": {
         "id": "ex-match-smart",
+        "stable_id": "ex-ms94276p090hi",
         "type": "matching",
         "prompt": "Ordne jedem SMART-Buchstaben seine Bedeutung zu.",
         "card_ids": [
@@ -347,6 +365,7 @@
       "title": "Das Wichtigste zuerst",
       "exercise": {
         "id": "ex-cloze-priorisierung",
+        "stable_id": "ex-ms94276p091j2",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das Ordnen von Aufgaben nach Wichtigkeit.",
         "card_ids": [
@@ -374,6 +393,7 @@
       "title": "Merksatz zur Produktivität",
       "exercise": {
         "id": "ex-tiles-merksatz",
+        "stable_id": "ex-ms94276p092l4",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": [

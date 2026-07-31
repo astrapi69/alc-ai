@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "bias",
+      "stable_id": "card-ms94276k03lhu",
       "front": "Bias (Verzerrung)",
       "back": "Eine systematische Schieflage in Daten oder Modell, die bestimmte Gruppen benachteiligt.",
       "notes": "Das Modell übernimmt Vorurteile aus den Daten.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "bias-quelle",
+      "stable_id": "card-ms94276k03m75",
       "front": "Woher Bias kommt",
       "back": "Aus unausgewogenen Trainingsdaten, die die Wirklichkeit einseitig abbilden.",
       "notes": "Beispiel: kaum Beispiele einer Gruppe → schlechtere Ergebnisse für sie.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "datenschutz",
+      "stable_id": "card-ms94276k03nlj",
       "front": "Datenschutz",
       "back": "Der Schutz personenbezogener Daten vor Missbrauch und ungewollter Weitergabe.",
       "notes": "In der EU geregelt durch die DSGVO. Nur nötige Daten verwenden.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "dsgvo",
+      "stable_id": "card-ms94276k03oiq",
       "front": "DSGVO",
       "back": "EU-Regelwerk zum Schutz personenbezogener Daten.",
       "notes": "Verlangt u. a. Zweckbindung, Einwilligung und Datensparsamkeit.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "transparenz",
+      "stable_id": "card-ms94276k03ppp",
       "front": "Transparenz",
       "back": "Offenlegen, dass und wie KI eingesetzt wird und worauf Entscheidungen beruhen.",
       "notes": "Betroffene sollten nachvollziehen können, was passiert.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "datensparsamkeit",
+      "stable_id": "card-ms94276k03qbc",
       "front": "Datensparsamkeit",
       "back": "Nur so viele Daten erheben und speichern wie wirklich nötig.",
       "notes": "Weniger Daten = weniger Risiko bei einem Leck.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "wann-nicht",
+      "stable_id": "card-ms94276k03rn9",
       "front": "Wann KI nicht einsetzen",
       "back": "Wenn Risiken den Nutzen übersteigen, Daten fehlen oder Fehler Menschen ernsthaft schaden.",
       "notes": "Bei hoher Verantwortung braucht es menschliche Kontrolle oder Verzicht.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "fairness",
+      "stable_id": "card-ms94276k03sqx",
       "front": "Fairness prüfen",
       "back": "Ergebnisse auf systematische Benachteiligung von Gruppen testen und gegensteuern.",
       "notes": "Bias sichtbar machen ist der erste Schritt gegen ihn.",
@@ -143,7 +151,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-verantwortung"
+        "id": "ex-match-verantwortung", "stable_id": "ex-ms94276k03t8g"
       }
     },
     {
@@ -173,7 +181,7 @@
           "sehr aktuellen"
         ],
         "hint": "Eine Gruppe ist unterrepräsentiert.",
-        "id": "ex-mc-bias"
+        "id": "ex-mc-bias", "stable_id": "ex-ms94276k03um1"
       }
     },
     {
@@ -202,7 +210,7 @@
           "die Konkurrenz hat"
         ],
         "hint": "Weniger Daten, weniger Risiko.",
-        "id": "ex-mc-sparsam"
+        "id": "ex-mc-sparsam", "stable_id": "ex-ms94276k03vpy"
       }
     },
     {
@@ -227,7 +235,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Abkürzung für die Datenschutz-Grundverordnung.",
-        "id": "ex-cloze-dsgvo"
+        "id": "ex-cloze-dsgvo", "stable_id": "ex-ms94276k03wml"
       }
     },
     {
@@ -253,7 +261,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Erst messen, dann gegensteuern.",
-        "id": "ex-cloze-fairness"
+        "id": "ex-cloze-fairness", "stable_id": "ex-ms94276k03xaa"
       }
     },
     {
@@ -282,7 +290,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-wann"
+        "id": "ex-match-wann", "stable_id": "ex-ms94276k03yb6"
       }
     },
     {
@@ -308,7 +316,7 @@
         ],
         "hint": "Beginnt mit: KI ist nur so …",
         "direction": "target_to_source",
-        "id": "ex-tiles-fair"
+        "id": "ex-tiles-fair", "stable_id": "ex-ms94276k03zm3"
       }
     },
     {
@@ -333,7 +341,7 @@
           "Datenanalyse"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-datenschutz"
+        "id": "ex-free-datenschutz", "stable_id": "ex-ms94276k040uu"
       }
     }
   ]

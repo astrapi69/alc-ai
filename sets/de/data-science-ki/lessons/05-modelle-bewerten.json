@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "overfitting",
+      "stable_id": "card-ms94276h01t4q",
       "front": "Overfitting",
       "back": "Das Modell lernt die Trainingsdaten auswendig — samt Zufall — und versagt bei Neuem.",
       "notes": "Deutsch: Überanpassung. Erkennbar: top im Training, schwach im Test.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "underfitting",
+      "stable_id": "card-ms94276h01uyq",
       "front": "Underfitting",
       "back": "Das Modell ist zu einfach und erfasst das Muster gar nicht — schwach überall.",
       "notes": "Deutsch: Unteranpassung. Gegenteil von Overfitting.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "generalisierung",
+      "stable_id": "card-ms94276h01ve2",
       "front": "Generalisierung",
       "back": "Die Fähigkeit eines Modells, auch auf neue, ungesehene Daten gut zu wirken.",
       "notes": "Das eigentliche Ziel. Nur der Test misst sie ehrlich.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "genauigkeit",
+      "stable_id": "card-ms94276h01wez",
       "front": "Genauigkeit (Accuracy)",
       "back": "Anteil der richtig eingeordneten Fälle an allen Fällen.",
       "notes": "Englisch: accuracy. Bei seltenen Ereignissen leicht irreführend.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "unbalanciert",
+      "stable_id": "card-ms94276h01xxi",
       "front": "Unausgewogene Daten",
       "back": "Eine Kategorie ist viel häufiger als die andere.",
       "notes": "Beispiel: 99 % gesund, 1 % krank. Hohe Genauigkeit sagt dann wenig.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "testset-heilig",
+      "stable_id": "card-ms94276h01yw4",
       "front": "Das Testset ist heilig",
       "back": "Man wertet das Testset erst ganz am Ende aus und passt das Modell nie daran an.",
       "notes": "Sonst sickert Wissen ein und die Bewertung wird geschönt.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "validierung",
+      "stable_id": "card-ms94276h01zcs",
       "front": "Validierungsdaten",
       "back": "Ein dritter Teil zum Abstimmen des Modells, damit das Testset unberührt bleibt.",
       "notes": "Englisch: validation set. Zum Ausprobieren von Einstellungen.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "leakage",
+      "stable_id": "card-ms94276h020x5",
       "front": "Datenleck (Leakage)",
       "back": "Wenn Testwissen versehentlich ins Training gelangt und die Ergebnisse zu gut aussehen.",
       "notes": "Englisch: data leakage. Häufige Ursache scheinbar perfekter Modelle.",
@@ -143,7 +151,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-fit"
+        "id": "ex-match-fit", "stable_id": "ex-ms94276h021s6"
       }
     },
     {
@@ -172,7 +180,7 @@
           "Clustering"
         ],
         "hint": "Deutsch: Überanpassung.",
-        "id": "ex-mc-overfit"
+        "id": "ex-mc-overfit", "stable_id": "ex-ms94276h0228i"
       }
     },
     {
@@ -202,7 +210,7 @@
           "Overfitting verhindern"
         ],
         "hint": "Immer „gesund\" bei 1 % Kranken.",
-        "id": "ex-mc-accuracy"
+        "id": "ex-mc-accuracy", "stable_id": "ex-ms94276h023qe"
       }
     },
     {
@@ -228,7 +236,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Nie zwischendurch daran anpassen.",
-        "id": "ex-cloze-heilig"
+        "id": "ex-cloze-heilig", "stable_id": "ex-ms94276h024p1"
       }
     },
     {
@@ -253,7 +261,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Gut wirken auf Ungesehenes.",
-        "id": "ex-cloze-general"
+        "id": "ex-cloze-general", "stable_id": "ex-ms94276h025kw"
       }
     },
     {
@@ -283,7 +291,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-bewerten"
+        "id": "ex-match-bewerten", "stable_id": "ex-ms94276h026ze"
       }
     },
     {
@@ -305,7 +313,7 @@
         ],
         "hint": "Beginnt mit: Das Testset …",
         "direction": "target_to_source",
-        "id": "ex-tiles-testset"
+        "id": "ex-tiles-testset", "stable_id": "ex-ms94276h027bg"
       }
     },
     {
@@ -330,7 +338,7 @@
           "Generalisierung"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-underfit"
+        "id": "ex-free-underfit", "stable_id": "ex-ms94276h0283g"
       }
     }
   ]

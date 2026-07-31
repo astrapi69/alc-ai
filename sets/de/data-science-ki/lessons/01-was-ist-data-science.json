@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "data-science",
+      "stable_id": "card-ms94276d001ui",
       "front": "Data Science",
       "back": "Das Fachgebiet, das aus Daten mit statistischen und maschinellen Methoden nutzbares Wissen gewinnt.",
       "notes": "Verbindet Statistik, Programmierung und Fachwissen. Ziel sind bessere Entscheidungen.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "daten",
+      "stable_id": "card-ms94276d0028p",
       "front": "Daten",
       "back": "Aufgezeichnete Fakten wie Zahlen, Texte, Bilder oder Messwerte — der Rohstoff jeder Analyse.",
       "notes": "Erst durch Auswertung werden aus Daten Informationen.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "ki",
+      "stable_id": "card-ms94276d003fm",
       "front": "Künstliche Intelligenz (KI)",
       "back": "Oberbegriff für Systeme, die Aufgaben lösen, für die man sonst menschliche Intelligenz braucht.",
       "notes": "Englisch: Artificial Intelligence. Machine Learning ist ein Teilgebiet der KI.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "ml",
+      "stable_id": "card-ms94276d004by",
       "front": "Machine Learning (ML)",
       "back": "Teilgebiet der KI, in dem ein Modell Muster aus Beispieldaten lernt, statt fest programmiert zu werden.",
       "notes": "Deutsch: maschinelles Lernen. Der Kern der meisten heutigen KI-Anwendungen.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "modell",
+      "stable_id": "card-ms94276d005qq",
       "front": "Modell",
       "back": "Eine aus Daten gelernte Regel, die für neue Fälle Vorhersagen oder Einordnungen liefert.",
       "notes": "Ein Modell ist immer eine Vereinfachung der Wirklichkeit.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "entscheidung",
+      "stable_id": "card-ms94276d006q1",
       "front": "Datengetriebene Entscheidung",
       "back": "Eine Entscheidung, die auf ausgewerteten Daten statt nur auf Bauchgefühl beruht.",
       "notes": "Daten unterstützen das Urteil — sie ersetzen es nicht.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "pipeline",
+      "stable_id": "card-ms94276d007bz",
       "front": "Daten-zu-Entscheidung",
       "back": "Der Weg: Daten sammeln, bereinigen, analysieren, interpretieren und daraus handeln.",
       "notes": "Jede Stufe kann das Ergebnis verbessern oder verfälschen.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "fachwissen",
+      "stable_id": "card-ms94276d008ax",
       "front": "Domänenwissen",
       "back": "Das Wissen über das Sachgebiet, aus dem die Daten stammen — nötig, um Ergebnisse richtig zu deuten.",
       "notes": "Englisch: domain knowledge. Ohne Kontext sind Zahlen leicht misszuverstehen.",
@@ -147,7 +155,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-begriffe"
+        "id": "ex-match-begriffe", "stable_id": "ex-ms94276d009ag"
       }
     },
     {
@@ -177,7 +185,7 @@
           "unabhängig von KI"
         ],
         "hint": "KI ist der weitere Begriff.",
-        "id": "ex-mc-ml-teil"
+        "id": "ex-mc-ml-teil", "stable_id": "ex-ms94276d00aql"
       }
     },
     {
@@ -206,7 +214,7 @@
           "Meinungen"
         ],
         "hint": "Er wird erst durch Auswertung wertvoll.",
-        "id": "ex-mc-rohstoff"
+        "id": "ex-mc-rohstoff", "stable_id": "ex-ms94276d00bax"
       }
     },
     {
@@ -232,7 +240,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Wissen über das Sachgebiet.",
-        "id": "ex-cloze-domaene"
+        "id": "ex-cloze-domaene", "stable_id": "ex-ms94276d00csa"
       }
     },
     {
@@ -257,7 +265,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Es bildet die Welt nie vollständig ab.",
-        "id": "ex-cloze-modell"
+        "id": "ex-cloze-modell", "stable_id": "ex-ms94276d00d3w"
       }
     },
     {
@@ -291,7 +299,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-weg"
+        "id": "ex-match-weg", "stable_id": "ex-ms94276d00e2r"
       }
     },
     {
@@ -317,7 +325,7 @@
         ],
         "hint": "Beginnt mit: Machine Learning ist …",
         "direction": "target_to_source",
-        "id": "ex-tiles-merksatz"
+        "id": "ex-tiles-merksatz", "stable_id": "ex-ms94276d00fxd"
       }
     },
     {
@@ -346,7 +354,7 @@
           "Design"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-dreisatz"
+        "id": "ex-free-dreisatz", "stable_id": "ex-ms94276d00g0a"
       }
     }
   ]

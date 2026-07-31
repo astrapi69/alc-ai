@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "ueberwacht",
+      "stable_id": "card-ms94276g01di2",
       "front": "Überwachtes Lernen",
       "back": "Das Modell lernt aus Beispielen mit bekannter richtiger Antwort (Label).",
       "notes": "Englisch: supervised learning. Beispiel: Fotos mit „Hund/Katze\"-Beschriftung.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "unueberwacht",
+      "stable_id": "card-ms94276g01e2c",
       "front": "Unüberwachtes Lernen",
       "back": "Das Modell sucht ohne vorgegebene Antworten selbst Strukturen in den Daten.",
       "notes": "Englisch: unsupervised learning. Beispiel: Kunden in Gruppen einteilen.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "feature",
+      "stable_id": "card-ms94276g01fbp",
       "front": "Feature (Merkmal)",
       "back": "Eine Eingabegröße, aus der das Modell lernt — z. B. Alter, Preis, Wortanzahl.",
       "notes": "Deutsch: Merkmal. Gute Features sind oft wichtiger als das Modell selbst.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "label",
+      "stable_id": "card-ms94276g01gjx",
       "front": "Label (Zielwert)",
       "back": "Die bekannte richtige Antwort in den Trainingsdaten des überwachten Lernens.",
       "notes": "Deutsch: Zielwert / Beschriftung. Beim unüberwachten Lernen fehlt es.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "training",
+      "stable_id": "card-ms94276g01hm9",
       "front": "Trainingsdaten",
       "back": "Die Daten, aus denen das Modell seine Regeln lernt.",
       "notes": "Englisch: training set. Je repräsentativer, desto besser das Modell.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "test",
+      "stable_id": "card-ms94276g01ig9",
       "front": "Testdaten",
       "back": "Zurückgehaltene Daten, an denen man prüft, wie gut das Modell auf Neues wirkt.",
       "notes": "Englisch: test set. Sie dürfen im Training nicht vorkommen.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "klassifikation",
+      "stable_id": "card-ms94276g01jwv",
       "front": "Klassifikation",
       "back": "Überwachte Aufgabe, bei der das Modell einer Eingabe eine Kategorie zuweist.",
       "notes": "Beispiel: Spam oder Nicht-Spam. Label sind Kategorien.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "clustering",
+      "stable_id": "card-ms94276g01kui",
       "front": "Clustering",
       "back": "Unüberwachte Aufgabe, bei der ähnliche Datenpunkte zu Gruppen zusammengefasst werden.",
       "notes": "Beispiel: Kundensegmente. Ohne vorher bekannte Gruppen.",
@@ -148,7 +156,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-feature-label"
+        "id": "ex-match-feature-label", "stable_id": "ex-ms94276g01le4"
       }
     },
     {
@@ -178,7 +186,7 @@
           "selbstständiges"
         ],
         "hint": "Label vorhanden.",
-        "id": "ex-mc-supervised"
+        "id": "ex-mc-supervised", "stable_id": "ex-ms94276g01mwu"
       }
     },
     {
@@ -208,7 +216,7 @@
           "getestetes"
         ],
         "hint": "Kein Label vorhanden.",
-        "id": "ex-mc-clustering"
+        "id": "ex-mc-clustering", "stable_id": "ex-ms94276g01nje"
       }
     },
     {
@@ -234,7 +242,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Englischer Fachbegriff.",
-        "id": "ex-cloze-feature"
+        "id": "ex-cloze-feature", "stable_id": "ex-ms94276g01or2"
       }
     },
     {
@@ -260,7 +268,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Englisch: test set.",
-        "id": "ex-cloze-test"
+        "id": "ex-cloze-test", "stable_id": "ex-ms94276g01pg6"
       }
     },
     {
@@ -290,7 +298,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-aufgaben"
+        "id": "ex-match-aufgaben", "stable_id": "ex-ms94276g01qa1"
       }
     },
     {
@@ -314,7 +322,7 @@
         ],
         "hint": "Beginnt mit: Label vorhanden …",
         "direction": "target_to_source",
-        "id": "ex-tiles-label"
+        "id": "ex-tiles-label", "stable_id": "ex-ms94276g01r9k"
       }
     },
     {
@@ -340,7 +348,7 @@
           "Antwort"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-feature"
+        "id": "ex-free-feature", "stable_id": "ex-ms94276g01spf"
       }
     }
   ]

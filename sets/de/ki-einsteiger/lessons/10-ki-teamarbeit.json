@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "teamkommunikation",
+      "stable_id": "card-ms94276q093wu",
       "front": "Teamkommunikation mit KI",
       "back": "Die KI hilft, Nachrichten klar zu formulieren, Protokolle zu schreiben und Informationen verständlich weiterzugeben.",
       "notes": "Klare Kommunikation spart dem ganzen Team Zeit.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "meeting-protokoll",
+      "stable_id": "card-ms94276q0940b",
       "front": "Meeting-Protokoll",
       "back": "Eine Zusammenfassung eines Meetings mit den wichtigsten Punkten und Aufgaben, die die KI aus Notizen erstellen kann.",
       "notes": "Hält Ergebnisse und nächste Schritte fest.",
@@ -33,6 +35,7 @@
     },
     {
       "id": "wissensdatenbank",
+      "stable_id": "card-ms94276q095xr",
       "front": "Wissensdatenbank",
       "back": "Eine durchsuchbare Sammlung von Dokumenten und Antworten (z. B. FAQ), in der die KI schnell die passende Information findet.",
       "notes": "Macht Wissen für das ganze Team auffindbar.",
@@ -45,6 +48,7 @@
     },
     {
       "id": "team-brainstorming",
+      "stable_id": "card-ms94276q0961b",
       "front": "Team-Brainstorming",
       "back": "Das gemeinsame Sammeln von Ideen, bei dem die KI zusätzliche Vorschläge liefert und Ideen ordnet.",
       "notes": "Die KI erweitert die Ideen des Teams, ersetzt sie aber nicht.",
@@ -57,6 +61,7 @@
     },
     {
       "id": "verantwortungsvoller-einsatz",
+      "stable_id": "card-ms94276q097ec",
       "front": "Verantwortungsvoller KI-Einsatz",
       "back": "KI bewusst nutzen: Datenschutz beachten, Ergebnisse prüfen und sie nicht blind für vertrauliche oder sensible Entscheidungen einsetzen.",
       "notes": "Bei vertraulichen Daten und Personalentscheidungen ist Vorsicht geboten.",
@@ -69,6 +74,7 @@
     },
     {
       "id": "projektmanagement",
+      "stable_id": "card-ms94276q0981w",
       "front": "Projektmanagement mit KI",
       "back": "Die KI hilft, Aufgaben zu verteilen, den Status zu verfolgen und nächste Schritte zu planen.",
       "notes": "Gut für den Überblick, wer was bis wann macht.",
@@ -81,6 +87,7 @@
     },
     {
       "id": "ergebnisse-pruefen",
+      "stable_id": "card-ms94276q0998w",
       "front": "Ergebnisse prüfen",
       "back": "KI-Ausgaben immer kontrollieren, bevor man sie verwendet — die KI kann sich irren oder veraltete Informationen liefern.",
       "notes": "Der Mensch trägt die Verantwortung für das Endergebnis.",
@@ -93,6 +100,7 @@
     },
     {
       "id": "rollenverteilung",
+      "stable_id": "card-ms94276q09als",
       "front": "Rollenverteilung",
       "back": "Die KI hilft, Aufgaben passend auf Teammitglieder zu verteilen.",
       "notes": "Beispiel: »Wer übernimmt welche Aufgabe in diesem Projekt?«",
@@ -104,6 +112,7 @@
     },
     {
       "id": "onboarding",
+      "stable_id": "card-ms94276q09b39",
       "front": "Onboarding",
       "back": "Die KI erstellt Einführungsmaterial für neue Teammitglieder.",
       "notes": "Englisch: onboarding. Verkürzt die Einarbeitungszeit.",
@@ -115,6 +124,7 @@
     },
     {
       "id": "feedback-formulieren",
+      "stable_id": "card-ms94276q09ce9",
       "front": "Feedback formulieren",
       "back": "Die KI hilft, Rückmeldungen sachlich und wertschätzend zu formulieren.",
       "notes": "Gut, um Kritik konstruktiv zu verpacken.",
@@ -126,6 +136,7 @@
     },
     {
       "id": "statusbericht",
+      "stable_id": "card-ms94276q09dqu",
       "front": "Statusbericht",
       "back": "Die KI fasst den Fortschritt eines Projekts kurz und übersichtlich zusammen.",
       "notes": "Beispiel: »Schreibe einen wöchentlichen Statusbericht aus diesen Stichpunkten«.",
@@ -137,6 +148,7 @@
     },
     {
       "id": "praesentation",
+      "stable_id": "card-ms94276q09eoa",
       "front": "Präsentation vorbereiten",
       "back": "Die KI gliedert Inhalte in Folien und schlägt Kernbotschaften vor.",
       "notes": "Den Vortrag selbst hält und prüft der Mensch.",
@@ -173,6 +185,7 @@
       "title": "Team-Aufgabe und KI-Prompt",
       "exercise": {
         "id": "ex-match-teamaufgaben",
+        "stable_id": "ex-ms94276q09fmq",
         "type": "matching",
         "prompt": "Ordne jeder Team-Aufgabe den passenden KI-Prompt zu.",
         "card_ids": [
@@ -209,6 +222,7 @@
       "title": "Wann KI lieber nicht?",
       "exercise": {
         "id": "ex-free-nicht-einsetzen",
+        "stable_id": "ex-ms94276q09gkt",
         "type": "free_text",
         "prompt": "Wann sollte man KI im Team eher NICHT (allein) einsetzen?",
         "card_ids": [
@@ -234,6 +248,7 @@
       "title": "Das Meeting festhalten",
       "exercise": {
         "id": "ex-cloze-protokoll",
+        "stable_id": "ex-ms94276q09hrs",
         "type": "cloze",
         "prompt": "Ergänze, was die KI aus den Meeting-Notizen erstellt.",
         "card_ids": [
@@ -260,6 +275,7 @@
       "title": "Regel für den KI-Einsatz",
       "exercise": {
         "id": "ex-tiles-verantwortung",
+        "stable_id": "ex-ms94276q09i5y",
         "type": "word_tiles",
         "prompt": "Setze die Regel für den verantwortungsvollen KI-Einsatz zusammen.",
         "card_ids": [
@@ -286,6 +302,7 @@
       "title": "Wissen auffindbar machen",
       "exercise": {
         "id": "ex-free-wissensdatenbank",
+        "stable_id": "ex-ms94276q09jan",
         "type": "free_text",
         "prompt": "Wie nennt man eine durchsuchbare Sammlung von Dokumenten und Antworten, in der die KI Informationen findet?",
         "card_ids": [
@@ -313,6 +330,7 @@
       "title": "KI-Einsatz im Team",
       "exercise": {
         "id": "ex-match-einsatz",
+        "stable_id": "ex-ms94276q09kwb",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": [
@@ -349,6 +367,7 @@
       "title": "Immer kontrollieren",
       "exercise": {
         "id": "ex-cloze-pruefen",
+        "stable_id": "ex-ms94276q09lbo",
         "type": "cloze",
         "prompt": "Ergänze, was man mit KI-Ergebnissen tun sollte, bevor man sie verwendet.",
         "card_ids": [
@@ -375,6 +394,7 @@
       "title": "Ideen im Team",
       "exercise": {
         "id": "ex-tiles-brainstorming",
+        "stable_id": "ex-ms94276q09m02",
         "type": "word_tiles",
         "prompt": "Setze einen Prompt für das Team-Brainstorming zusammen.",
         "card_ids": [

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "empfehlung",
+      "stable_id": "card-ms94276j035nz",
       "front": "Empfehlung",
       "back": "KI schlägt passende Inhalte oder Produkte vor, gelernt aus dem Verhalten vieler Nutzer.",
       "notes": "Beispiel: Streaming-Vorschläge, Online-Shops.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "erkennung",
+      "stable_id": "card-ms94276j036lo",
       "front": "Erkennung",
       "back": "KI erkennt Muster in Daten — etwa Objekte auf Bildern oder Betrug in Zahlungen.",
       "notes": "Beispiel: Bilderkennung, Betrugserkennung, Spamfilter.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "assistenz",
+      "stable_id": "card-ms94276j0376h",
       "front": "Assistenz",
       "back": "KI unterstützt Menschen bei Aufgaben — Texte entwerfen, übersetzen, zusammenfassen.",
       "notes": "Beispiel: Schreibassistenten, Übersetzer, Chatbots.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "automatisierung",
+      "stable_id": "card-ms94276j038mg",
       "front": "Automatisierung",
       "back": "Wiederkehrende Aufgaben laufen ohne ständiges Zutun ab.",
       "notes": "KI kann Routine übernehmen und Menschen entlasten.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "grenze-kontext",
+      "stable_id": "card-ms94276j039ec",
       "front": "Grenze: kein echtes Verständnis",
       "back": "KI erkennt Muster, versteht aber Sinn und Kontext nicht wie ein Mensch.",
       "notes": "Sie kann bei Ungewohntem oder Mehrdeutigem scheitern.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "kosten",
+      "stable_id": "card-ms94276j03aet",
       "front": "Kosten von KI",
       "back": "Training und Betrieb kosten Rechenleistung, Energie und Geld.",
       "notes": "Große Modelle sind teuer; nicht jede Aufgabe rechtfertigt sie.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "mensch-im-loop",
+      "stable_id": "card-ms94276j03bll",
       "front": "Mensch in der Schleife",
       "back": "Ein Mensch prüft und verantwortet wichtige KI-Entscheidungen.",
       "notes": "Englisch: human in the loop. Besonders bei folgenreichen Entscheidungen.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "passende-aufgabe",
+      "stable_id": "card-ms94276j03c07",
       "front": "Passende Aufgabe wählen",
       "back": "KI lohnt sich bei klaren, wiederkehrenden Mustern mit genügend Daten.",
       "notes": "Bei seltenen Einzelfällen ist ein Mensch oft besser.",
@@ -147,7 +155,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-faelle"
+        "id": "ex-match-faelle", "stable_id": "ex-ms94276j03df6"
       }
     },
     {
@@ -176,7 +184,7 @@
           "niemand"
         ],
         "hint": "Englisch: human in the loop.",
-        "id": "ex-mc-loop"
+        "id": "ex-mc-loop", "stable_id": "ex-ms94276j03eqa"
       }
     },
     {
@@ -206,7 +214,7 @@
           "sehr wenigen Daten"
         ],
         "hint": "Genug Daten, klares Muster.",
-        "id": "ex-mc-lohnt"
+        "id": "ex-mc-lohnt", "stable_id": "ex-ms94276j03fmi"
       }
     },
     {
@@ -231,7 +239,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Beispiel: Bilderkennung.",
-        "id": "ex-cloze-erkennung"
+        "id": "ex-cloze-erkennung", "stable_id": "ex-ms94276j03gps"
       }
     },
     {
@@ -257,7 +265,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Teuer bei großen Modellen.",
-        "id": "ex-cloze-kosten"
+        "id": "ex-cloze-kosten", "stable_id": "ex-ms94276j03hfc"
       }
     },
     {
@@ -287,7 +295,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-grenzen"
+        "id": "ex-match-grenzen", "stable_id": "ex-ms94276j03i7c"
       }
     },
     {
@@ -310,7 +318,7 @@
         ],
         "hint": "Beginnt mit: Ein Mensch prüft …",
         "direction": "target_to_source",
-        "id": "ex-tiles-loop"
+        "id": "ex-tiles-loop", "stable_id": "ex-ms94276j03j69"
       }
     },
     {
@@ -336,7 +344,7 @@
           "Automatisierung"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-assistenz"
+        "id": "ex-free-assistenz", "stable_id": "ex-ms94276j03k5n"
       }
     }
   ]

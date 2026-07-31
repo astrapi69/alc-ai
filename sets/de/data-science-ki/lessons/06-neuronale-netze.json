@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "neuronales-netz",
+      "stable_id": "card-ms94276i029jz",
       "front": "Neuronales Netz",
       "back": "Ein Modell aus vielen einfachen Recheneinheiten (Neuronen), die in Schichten verbunden sind.",
       "notes": "Lose vom Gehirn inspiriert, aber kein Abbild davon.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "schicht",
+      "stable_id": "card-ms94276i02a89",
       "front": "Schicht (Layer)",
       "back": "Eine Ebene von Neuronen im Netz; Daten fließen von Schicht zu Schicht.",
       "notes": "Eingabeschicht, verborgene Schichten, Ausgabeschicht.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "gewicht",
+      "stable_id": "card-ms94276i02bkb",
       "front": "Gewicht",
       "back": "Eine einstellbare Zahl, die festlegt, wie stark ein Signal weitergegeben wird.",
       "notes": "Englisch: weight. Beim Lernen werden die Gewichte angepasst.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "deep-learning",
+      "stable_id": "card-ms94276i02ckk",
       "front": "Deep Learning",
       "back": "Maschinelles Lernen mit neuronalen Netzen aus vielen Schichten (tief).",
       "notes": "Stark bei Bildern, Sprache und Audio — braucht aber viele Daten und Rechenleistung.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "lernen-netz",
+      "stable_id": "card-ms94276i02dtq",
       "front": "Lernen im Netz",
       "back": "Das Netz vergleicht seine Ausgabe mit der richtigen Antwort und passt die Gewichte schrittweise an.",
       "notes": "Millionen kleiner Korrekturen, bis der Fehler klein ist.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "blackbox",
+      "stable_id": "card-ms94276i02ex6",
       "front": "Blackbox",
       "back": "Ein Modell, dessen inneres Zustandekommen einer Entscheidung schwer nachvollziehbar ist.",
       "notes": "Große neuronale Netze sind oft schwer erklärbar.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "dl-stark",
+      "stable_id": "card-ms94276i02fii",
       "front": "Stärken von Deep Learning",
       "back": "Sehr gut bei unstrukturierten Daten wie Bildern, Sprache und Ton mit vielen Beispielen.",
       "notes": "Erkennt komplexe Muster, die man nicht von Hand beschreiben kann.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "dl-schwach",
+      "stable_id": "card-ms94276i02gaz",
       "front": "Grenzen von Deep Learning",
       "back": "Braucht viele Daten und Rechenleistung, ist schwer erklärbar und kann Fehler selbstbewusst machen.",
       "notes": "Bei kleinen, tabellarischen Daten sind einfache Modelle oft besser.",
@@ -143,7 +151,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-teile"
+        "id": "ex-match-teile", "stable_id": "ex-ms94276i02ha6"
       }
     },
     {
@@ -173,7 +181,7 @@
           "Eingabedaten"
         ],
         "hint": "Kleine Korrekturen, viele Male.",
-        "id": "ex-mc-lernen"
+        "id": "ex-mc-lernen", "stable_id": "ex-ms94276i02iwo"
       }
     },
     {
@@ -203,7 +211,7 @@
           "wenigen Beispielen"
         ],
         "hint": "Unstrukturierte Daten mit vielen Beispielen.",
-        "id": "ex-mc-deep"
+        "id": "ex-mc-deep", "stable_id": "ex-ms94276i02jzt"
       }
     },
     {
@@ -230,7 +238,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Englisch: layers.",
-        "id": "ex-cloze-tief"
+        "id": "ex-cloze-tief", "stable_id": "ex-ms94276i02k7g"
       }
     },
     {
@@ -256,7 +264,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Englischer Begriff.",
-        "id": "ex-cloze-blackbox"
+        "id": "ex-cloze-blackbox", "stable_id": "ex-ms94276i02lz3"
       }
     },
     {
@@ -286,7 +294,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-staerken"
+        "id": "ex-match-staerken", "stable_id": "ex-ms94276i02mck"
       }
     },
     {
@@ -311,7 +319,7 @@
         ],
         "hint": "Beginnt mit: Ein Netz ist kein …",
         "direction": "target_to_source",
-        "id": "ex-tiles-gehirn"
+        "id": "ex-tiles-gehirn", "stable_id": "ex-ms94276i02n7h"
       }
     },
     {
@@ -337,7 +345,7 @@
           "Label"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-gewicht"
+        "id": "ex-free-gewicht", "stable_id": "ex-ms94276i02o0h"
       }
     }
   ]

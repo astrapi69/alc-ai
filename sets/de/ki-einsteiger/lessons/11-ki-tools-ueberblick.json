@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "chatgpt",
+      "stable_id": "card-ms94276s09nxd",
       "front": "ChatGPT (OpenAI)",
       "back": "Vielseitiger Chatbot für Texte, Brainstorming und Code. Ein guter Allrounder für viele Alltagsaufgaben.",
       "notes": "Entwickelt von OpenAI. Beruht auf großen Sprachmodellen.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "claude",
+      "stable_id": "card-ms94276s09olk",
       "front": "Claude (Anthropic)",
       "back": "Chatbot, der besonders bei langen Texten und sorgfältigen, durchdachten Antworten stark ist.",
       "notes": "Entwickelt von Anthropic.",
@@ -33,6 +35,7 @@
     },
     {
       "id": "gemini",
+      "stable_id": "card-ms94276s09pqg",
       "front": "Gemini (Google)",
       "back": "Chatbot von Google, eng mit den Google-Diensten und einer aktuellen Websuche verzahnt.",
       "notes": "Greift auf Google-Dienste und aktuelle Suchergebnisse zu.",
@@ -45,6 +48,7 @@
     },
     {
       "id": "perplexity",
+      "stable_id": "card-ms94276s09q01",
       "front": "Perplexity",
       "back": "KI-Suchmaschine, die Antworten zusammenfasst und dabei Quellenangaben mitliefert.",
       "notes": "Gut für Recherche, weil man die Quellen nachprüfen kann.",
@@ -57,6 +61,7 @@
     },
     {
       "id": "copilot",
+      "stable_id": "card-ms94276s09rgs",
       "front": "GitHub Copilot",
       "back": "KI-Assistent fürs Programmieren, der direkt im Code-Editor Vorschläge macht.",
       "notes": "Unterstützt beim Schreiben und Erklären von Code.",
@@ -69,6 +74,7 @@
     },
     {
       "id": "bildgenerator",
+      "stable_id": "card-ms94276s09sgu",
       "front": "Midjourney / DALL·E",
       "back": "Bildgeneratoren, die aus einer Textbeschreibung neue Bilder erzeugen.",
       "notes": "Aus einer geschriebenen Beschreibung (Prompt) entsteht ein Bild.",
@@ -81,6 +87,7 @@
     },
     {
       "id": "richtiges-tool",
+      "stable_id": "card-ms94276s09tdv",
       "front": "Das richtige Tool wählen",
       "back": "Welches KI-Werkzeug am besten passt, hängt von der Aufgabe ab: Schreiben, Suchen, Programmieren oder Bilder erstellen.",
       "notes": "Es gibt nicht das eine beste Tool — entscheidend ist der Einsatzzweck.",
@@ -93,6 +100,7 @@
     },
     {
       "id": "deepl",
+      "stable_id": "card-ms94276s09ut6",
       "front": "DeepL",
       "back": "Ein KI-Übersetzer, der für besonders natürliche Übersetzungen bekannt ist.",
       "notes": "Hilfreich für E-Mails und Texte in Fremdsprachen.",
@@ -104,6 +112,7 @@
     },
     {
       "id": "notebooklm",
+      "stable_id": "card-ms94276s09v1r",
       "front": "NotebookLM",
       "back": "Ein Google-Werkzeug, das Fragen zu eigenen hochgeladenen Dokumenten beantwortet.",
       "notes": "Gut, um Notizen und Quellen gebündelt auszuwerten.",
@@ -115,6 +124,7 @@
     },
     {
       "id": "kostenlos-bezahlt",
+      "stable_id": "card-ms94276s09wnt",
       "front": "Kostenlos vs. kostenpflichtig",
       "back": "Viele KI-Tools bieten eine Gratis-Version; Bezahl-Versionen sind schneller oder können mehr.",
       "notes": "Für den Einstieg reichen die kostenlosen Versionen meist aus.",
@@ -126,6 +136,7 @@
     },
     {
       "id": "datenschutz-tool",
+      "stable_id": "card-ms94276s09x7m",
       "front": "Datenschutz beim Tool",
       "back": "Vor der Nutzung prüfen, was mit den eingegebenen Daten geschieht.",
       "notes": "Keine sensiblen oder fremden persönlichen Daten eingeben.",
@@ -138,6 +149,7 @@
     },
     {
       "id": "tool-aktualitaet",
+      "stable_id": "card-ms94276s09yp8",
       "front": "Aktualität der Tools",
       "back": "KI-Werkzeuge ändern sich schnell — Funktionen und Anbieter kommen und gehen.",
       "notes": "Es lohnt sich, gelegentlich neue Möglichkeiten zu prüfen.",
@@ -174,6 +186,7 @@
       "title": "Tool und Stärke zuordnen",
       "exercise": {
         "id": "ex-match-tool-staerke",
+        "stable_id": "ex-ms94276s09zgh",
         "type": "matching",
         "prompt": "Ordne jedem Tool seine typische Stärke zu.",
         "card_ids": [
@@ -210,6 +223,7 @@
       "title": "Recherche mit Quellen",
       "exercise": {
         "id": "ex-free-recherche",
+        "stable_id": "ex-ms94276s0a06o",
         "type": "free_text",
         "prompt": "Welches Tool eignet sich am besten für Recherche mit Quellenangaben?",
         "card_ids": [
@@ -234,6 +248,7 @@
       "title": "Aus Text wird ein Bild",
       "exercise": {
         "id": "ex-pick-bildgenerator",
+        "stable_id": "ex-ms94276s0a1u6",
         "type": "picture_choice",
         "prompt": "Welches Tool erstellt aus Text ein Bild?",
         "card_ids": [
@@ -276,6 +291,7 @@
       "title": "Hilfe beim Programmieren",
       "exercise": {
         "id": "ex-cloze-copilot",
+        "stable_id": "ex-ms94276s0a2zx",
         "type": "cloze",
         "prompt": "Ergänze, wobei GitHub Copilot hilft.",
         "card_ids": [
@@ -302,6 +318,7 @@
       "title": "Merksatz zur Tool-Wahl",
       "exercise": {
         "id": "ex-tiles-aufgabe",
+        "stable_id": "ex-ms94276s0a3za",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Tool-Auswahl zusammen.",
         "card_ids": [
@@ -328,6 +345,7 @@
       "title": "Stark bei langen Texten",
       "exercise": {
         "id": "ex-free-claude",
+        "stable_id": "ex-ms94276s0a416",
         "type": "free_text",
         "prompt": "Welcher Chatbot von Anthropic gilt als besonders stark bei langen Texten und durchdachten Antworten?",
         "card_ids": [
@@ -352,6 +370,7 @@
       "title": "Tool und Werkzeuggruppe",
       "exercise": {
         "id": "ex-match-gruppe",
+        "stable_id": "ex-ms94276s0a5y9",
         "type": "matching",
         "prompt": "Ordne jedes Tool seiner Werkzeuggruppe zu.",
         "card_ids": [
@@ -388,6 +407,7 @@
       "title": "Gemini und Google",
       "exercise": {
         "id": "ex-cloze-gemini",
+        "stable_id": "ex-ms94276s0a6j0",
         "type": "cloze",
         "prompt": "Ergänze, mit welchen Diensten Gemini eng verzahnt ist.",
         "card_ids": [

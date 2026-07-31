@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "projektplanung-ki",
+      "stable_id": "card-ms94276n06b1b",
       "front": "Projektplanung mit KI",
       "back": "Die KI hilft dabei, ein Vorhaben in überschaubare Schritte zu zerlegen, Aufgaben zu ordnen und einen Plan zu erstellen — etwa für eine Party, einen Umzug oder ein Event.",
       "notes": "Die KI denkt nicht für dich, aber sie strukturiert deine Ideen schnell.",
@@ -21,6 +22,7 @@
     },
     {
       "id": "zieldefinition",
+      "stable_id": "card-ms94276n06cy1",
       "front": "Zieldefinition",
       "back": "Das klare Festlegen, was am Ende erreicht werden soll. Ein gutes Ziel ist konkret und messbar, z. B. „eine Geburtstagsfeier für 20 Gäste“.",
       "notes": "Ohne klares Ziel kann die KI nur vage antworten.",
@@ -32,6 +34,7 @@
     },
     {
       "id": "budgetplanung",
+      "stable_id": "card-ms94276n06dyr",
       "front": "Budgetplanung",
       "back": "Das Festlegen, wie viel Geld zur Verfügung steht, und das Aufteilen dieser Summe auf die einzelnen Posten eines Projekts.",
       "notes": "Gib der KI dein Budget an, damit ihre Vorschläge realistisch bleiben.",
@@ -43,6 +46,7 @@
     },
     {
       "id": "checkliste",
+      "stable_id": "card-ms94276n06ece",
       "front": "Checkliste",
       "back": "Eine geordnete Liste von Aufgaben, die nacheinander abgehakt werden. Ideal, um bei einem Projekt nichts zu vergessen.",
       "notes": "Auch To-do-Liste oder Aufgabenliste genannt.",
@@ -55,6 +59,7 @@
     },
     {
       "id": "rahmenbedingungen",
+      "stable_id": "card-ms94276n06fgy",
       "front": "Rahmenbedingungen (Constraints)",
       "back": "Die Vorgaben und Grenzen eines Projekts, z. B. Zeit, Budget, Ort oder Anzahl der Personen. Sie schränken die Möglichkeiten sinnvoll ein.",
       "notes": "Englisch: constraints. Je genauer die Rahmenbedingungen, desto passender die KI-Antwort.",
@@ -67,6 +72,7 @@
     },
     {
       "id": "projekt-prompt",
+      "stable_id": "card-ms94276n06ga9",
       "front": "Projekt-Prompt",
       "back": "Eine durchdachte Anfrage an die KI, die das Ziel nennt, Rahmenbedingungen angibt und ein Ausgabeformat wünscht — etwa eine Tabelle oder Checkliste.",
       "notes": "Bausteine: Ziel + Rahmenbedingungen + gewünschtes Format.",
@@ -78,6 +84,7 @@
     },
     {
       "id": "aufgaben-zerlegen",
+      "stable_id": "card-ms94276n06hb6",
       "front": "Aufgaben zerlegen",
       "back": "Ein großes Vorhaben in viele kleine, machbare Einzelschritte aufteilen. So wird ein Projekt überschaubar und planbar.",
       "notes": "Die KI ist gut darin, ein Ziel in Teilschritte zu gliedern.",
@@ -89,6 +96,7 @@
     },
     {
       "id": "zeitplan",
+      "stable_id": "card-ms94276n06isr",
       "front": "Zeitplan",
       "back": "Eine von der KI erstellte zeitliche Abfolge der Projektschritte mit Fristen.",
       "notes": "Gut kombinierbar mit Meilensteinen.",
@@ -100,6 +108,7 @@
     },
     {
       "id": "meilenstein",
+      "stable_id": "card-ms94276n06jxg",
       "front": "Meilenstein",
       "back": "Ein wichtiger Zwischenschritt im Projekt, an dem ein Teilziel erreicht ist.",
       "notes": "Die KI kann sinnvolle Meilensteine vorschlagen.",
@@ -111,6 +120,7 @@
     },
     {
       "id": "risikoanalyse",
+      "stable_id": "card-ms94276n06kgn",
       "front": "Risikoanalyse",
       "back": "Das Erkennen möglicher Probleme im Voraus — die KI listet Risiken und Gegenmaßnahmen auf.",
       "notes": "Beispiel: »Welche Risiken hat dieses Projekt und wie beuge ich vor?«",
@@ -122,6 +132,7 @@
     },
     {
       "id": "ressourcenplanung",
+      "stable_id": "card-ms94276n06lse",
       "front": "Ressourcenplanung",
       "back": "Das Einplanen von Material, Geld und Personen, die ein Projekt braucht.",
       "notes": "Die KI hilft, nichts Wichtiges zu vergessen.",
@@ -133,6 +144,7 @@
     },
     {
       "id": "entscheidungshilfe",
+      "stable_id": "card-ms94276n06mkn",
       "front": "Entscheidungshilfe",
       "back": "Eine von der KI erstellte Pro-und-Contra-Liste, die eine Entscheidung erleichtert.",
       "notes": "Die endgültige Entscheidung trifft immer der Mensch.",
@@ -169,6 +181,7 @@
       "title": "Projekt und Prompt-Ansatz",
       "exercise": {
         "id": "ex-match-ansatz",
+        "stable_id": "ex-ms94276n06njb",
         "type": "matching",
         "prompt": "Ordne jedem Projekt-Typ den besten Prompt-Ansatz zu.",
         "card_ids": [
@@ -205,6 +218,7 @@
       "title": "Party planen",
       "exercise": {
         "id": "ex-cloze-party",
+        "stable_id": "ex-ms94276n06ofc",
         "type": "cloze",
         "prompt": "Ergänze, wonach du die KI bei der Planung einer Party fragst.",
         "card_ids": [
@@ -231,6 +245,7 @@
       "title": "Wichtiger Prompt-Baustein",
       "exercise": {
         "id": "ex-free-bausteine",
+        "stable_id": "ex-ms94276n06pxn",
         "type": "free_text",
         "prompt": "Welche Vorgaben (z. B. Budget oder Zeit) solltest du in einem Projekt-Prompt nennen?",
         "card_ids": [
@@ -261,6 +276,7 @@
       "title": "Merksatz zum Projekt-Prompt",
       "exercise": {
         "id": "ex-tiles-prompt",
+        "stable_id": "ex-ms94276n06q7x",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu den Prompt-Bausteinen zusammen.",
         "card_ids": [
@@ -287,6 +303,7 @@
       "title": "Erster Planungsschritt",
       "exercise": {
         "id": "ex-free-ziel",
+        "stable_id": "ex-ms94276n06r3i",
         "type": "free_text",
         "prompt": "Was solltest du bei einem Projekt als Allererstes festlegen?",
         "card_ids": [
@@ -315,6 +332,7 @@
       "title": "Begriffe und Bedeutung",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms94276n06smj",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": [
@@ -351,6 +369,7 @@
       "title": "Großes Vorhaben handhabbar machen",
       "exercise": {
         "id": "ex-cloze-zerlegen",
+        "stable_id": "ex-ms94276n06tug",
         "type": "cloze",
         "prompt": "Ergänze, was man mit einem großen Vorhaben tut, um es planbar zu machen.",
         "card_ids": [
@@ -377,6 +396,7 @@
       "title": "Reihenfolge der Planung",
       "exercise": {
         "id": "ex-tiles-reihenfolge",
+        "stable_id": "ex-ms94276n06utv",
         "type": "word_tiles",
         "prompt": "Bringe die Planungsschritte in die richtige Reihenfolge.",
         "card_ids": [

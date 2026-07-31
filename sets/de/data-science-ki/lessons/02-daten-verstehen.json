@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "strukturiert",
+      "stable_id": "card-ms94276e00hnv",
       "front": "Strukturierte Daten",
       "back": "Daten in fester Form wie Tabellen mit Zeilen und Spalten — leicht auszuwerten.",
       "notes": "Beispiel: eine Kundentabelle mit Name, Alter, Umsatz.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "unstrukturiert",
+      "stable_id": "card-ms94276e00inv",
       "front": "Unstrukturierte Daten",
       "back": "Daten ohne feste Form wie Texte, Bilder, Audio oder Video.",
       "notes": "Machen den Großteil aller Daten aus, sind aber schwerer auszuwerten.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "datenqualitaet",
+      "stable_id": "card-ms94276e00jau",
       "front": "Datenqualität",
       "back": "Wie vollständig, korrekt, aktuell und einheitlich Daten sind.",
       "notes": "Schlechte Qualität verdirbt jede Analyse — egal wie gut das Modell ist.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "ausreisser",
+      "stable_id": "card-ms94276e00koi",
       "front": "Ausreißer",
       "back": "Ein Wert, der stark von den übrigen abweicht — echt oder ein Fehler.",
       "notes": "Englisch: outlier. Erst prüfen, ob es ein Messfehler ist, bevor man ihn entfernt.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "fehlende-werte",
+      "stable_id": "card-ms94276e00lmh",
       "front": "Fehlende Werte",
       "back": "Lücken im Datensatz, wenn ein Wert nicht erfasst wurde.",
       "notes": "Englisch: missing values. Man kann sie schätzen, ersetzen oder die Zeile ausschließen.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "gigo",
+      "stable_id": "card-ms94276e00mdm",
       "front": "Garbage in, garbage out",
       "back": "Grundsatz: Aus schlechten Eingabedaten können nur schlechte Ergebnisse entstehen.",
       "notes": "Kurz: GIGO. Datenqualität ist wichtiger als ein cleveres Modell.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "bereinigung",
+      "stable_id": "card-ms94276e00n5d",
       "front": "Datenbereinigung",
       "back": "Das Aufräumen von Daten: Fehler korrigieren, Dubletten entfernen, Formate vereinheitlichen.",
       "notes": "Englisch: data cleaning. In der Praxis oft der zeitaufwendigste Schritt.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "einheit",
+      "stable_id": "card-ms94276e00o7h",
       "front": "Einheitlichkeit",
       "back": "Gleiche Dinge werden gleich geschrieben — etwa Datumsformate oder Einheiten.",
       "notes": "„1,5 kg\" und „1500 g\" meinen dasselbe, verwirren aber ein Programm.",
@@ -146,7 +154,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-form"
+        "id": "ex-match-form", "stable_id": "ex-ms94276e00p97"
       }
     },
     {
@@ -175,7 +183,7 @@
           "zufällig gute Modelle"
         ],
         "hint": "Kein Modell rettet schlechte Daten.",
-        "id": "ex-mc-gigo"
+        "id": "ex-mc-gigo", "stable_id": "ex-ms94276e00qjv"
       }
     },
     {
@@ -204,7 +212,7 @@
           "die Analyse abbrechen"
         ],
         "hint": "Nicht blind entfernen.",
-        "id": "ex-mc-ausreisser"
+        "id": "ex-mc-ausreisser", "stable_id": "ex-ms94276e00r4f"
       }
     },
     {
@@ -228,7 +236,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Englisch: missing values.",
-        "id": "ex-cloze-missing"
+        "id": "ex-cloze-missing", "stable_id": "ex-ms94276e00snv"
       }
     },
     {
@@ -253,7 +261,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Englisch: data cleaning.",
-        "id": "ex-cloze-clean"
+        "id": "ex-cloze-clean", "stable_id": "ex-ms94276e00tmb"
       }
     },
     {
@@ -284,7 +292,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-probleme"
+        "id": "ex-match-probleme", "stable_id": "ex-ms94276e00u74"
       }
     },
     {
@@ -307,7 +315,7 @@
         ],
         "hint": "Beginnt mit: Schlechte Daten …",
         "direction": "target_to_source",
-        "id": "ex-tiles-gigo"
+        "id": "ex-tiles-gigo", "stable_id": "ex-ms94276e00vu5"
       }
     },
     {
@@ -337,7 +345,7 @@
           "Tabellenblatt"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-unstruktur"
+        "id": "ex-free-unstruktur", "stable_id": "ex-ms94276e00wlh"
       }
     }
   ]

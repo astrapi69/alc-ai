@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "mittelwert",
+      "stable_id": "card-ms94276g00xjo",
       "front": "Mittelwert",
       "back": "Die Summe aller Werte geteilt durch ihre Anzahl — der „Durchschnitt\".",
       "notes": "Englisch: mean. Reagiert empfindlich auf Ausreißer.",
@@ -20,6 +21,7 @@
     },
     {
       "id": "median",
+      "stable_id": "card-ms94276g00yvr",
       "front": "Median",
       "back": "Der mittlere Wert, wenn man alle Werte der Größe nach sortiert.",
       "notes": "Robust gegen Ausreißer. Bei Einkommen oft aussagekräftiger als der Mittelwert.",
@@ -31,6 +33,7 @@
     },
     {
       "id": "korrelation",
+      "stable_id": "card-ms94276g00zib",
       "front": "Korrelation",
       "back": "Zwei Größen verändern sich gemeinsam — steigt die eine, steigt (oder fällt) die andere.",
       "notes": "Englisch: correlation. Sagt nichts über Ursache und Wirkung.",
@@ -42,6 +45,7 @@
     },
     {
       "id": "kausalitaet",
+      "stable_id": "card-ms94276g0109z",
       "front": "Kausalität",
       "back": "Die eine Größe verursacht die andere wirklich.",
       "notes": "Korrelation ist nur ein Hinweis, kein Beweis für Kausalität.",
@@ -53,6 +57,7 @@
     },
     {
       "id": "scheinkorrelation",
+      "stable_id": "card-ms94276g011jj",
       "front": "Scheinkorrelation",
       "back": "Zwei Größen hängen scheinbar zusammen, obwohl ein Dritter Faktor beide treibt.",
       "notes": "Beispiel: mehr Eisverkauf und mehr Sonnenbrände — Ursache ist die Sonne.",
@@ -64,6 +69,7 @@
     },
     {
       "id": "stichprobe",
+      "stable_id": "card-ms94276g012j3",
       "front": "Stichprobe",
       "back": "Eine Auswahl aus der Gesamtheit, die man stellvertretend untersucht.",
       "notes": "Englisch: sample. Sie sollte die Gesamtheit gut abbilden.",
@@ -75,6 +81,7 @@
     },
     {
       "id": "verzerrung",
+      "stable_id": "card-ms94276g013vd",
       "front": "Verzerrung (Bias)",
       "back": "Eine systematische Schieflage, wenn die Stichprobe die Gesamtheit nicht fair abbildet.",
       "notes": "Beispiel: nur Smartphone-Nutzer befragen und auf alle schließen.",
@@ -86,6 +93,7 @@
     },
     {
       "id": "median-einkommen",
+      "stable_id": "card-ms94276g014qt",
       "front": "Warum der Median?",
       "back": "Bei schiefen Verteilungen wie Einkommen zeigt der Median die typische Mitte besser als der Mittelwert.",
       "notes": "Wenige Millionäre ziehen den Mittelwert nach oben, den Median kaum.",
@@ -146,7 +154,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-mittelmedian"
+        "id": "ex-match-mittelmedian", "stable_id": "ex-ms94276g0153f"
       }
     },
     {
@@ -176,7 +184,7 @@
           "schließt Zufall aus"
         ],
         "hint": "Ein dritter Faktor kann dahinterstecken.",
-        "id": "ex-mc-korr"
+        "id": "ex-mc-korr", "stable_id": "ex-ms94276g01664"
       }
     },
     {
@@ -206,7 +214,7 @@
           "Ausreißer"
         ],
         "hint": "Wenige Millionäre ziehen den Mittelwert hoch.",
-        "id": "ex-mc-median"
+        "id": "ex-mc-median", "stable_id": "ex-ms94276g017cp"
       }
     },
     {
@@ -230,7 +238,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Eis und Sonnenbrände.",
-        "id": "ex-cloze-schein"
+        "id": "ex-cloze-schein", "stable_id": "ex-ms94276g018h8"
       }
     },
     {
@@ -256,7 +264,7 @@
         ],
         "cloze_mode": "type",
         "hint": "Englisch: bias.",
-        "id": "ex-cloze-bias"
+        "id": "ex-cloze-bias", "stable_id": "ex-ms94276g019yo"
       }
     },
     {
@@ -287,7 +295,7 @@
           }
         ],
         "direction": "target_to_source",
-        "id": "ex-match-statbegriffe"
+        "id": "ex-match-statbegriffe", "stable_id": "ex-ms94276g01a4p"
       }
     },
     {
@@ -311,7 +319,7 @@
         ],
         "hint": "Beginnt mit: Korrelation ist …",
         "direction": "target_to_source",
-        "id": "ex-tiles-korr"
+        "id": "ex-tiles-korr", "stable_id": "ex-ms94276g01byc"
       }
     },
     {
@@ -336,7 +344,7 @@
           "Summe"
         ],
         "direction": "target_to_source",
-        "id": "ex-free-median"
+        "id": "ex-free-median", "stable_id": "ex-ms94276g01ccu"
       }
     }
   ]
