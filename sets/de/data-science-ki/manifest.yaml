@@ -1,4 +1,4 @@
-# Data Science und KI (für Deutschsprachige) — Set-Manifest
+# Data Science und KI (für Deutschsprachige) - Set-Manifest
 # (schema v1.4, domain: ai).
 #
 # Aufbau-Fortsetzung des Einsteiger-Kurses „KI für Einsteiger":
@@ -10,7 +10,7 @@
 # ``{target}-{level}``-Namens. Der Content-Loader liest
 # ``metadata.lessons`` für die Dateiliste.
 #
-# Hinweis: kein ``book:``-Block — anders als das Einsteiger-Set
+# Hinweis: kein ``book:``-Block - anders als das Einsteiger-Set
 # ist dieser Aufbaukurs kein Begleitkurs zu einem konkreten Buch;
 # er setzt inhaltlich auf „KI für Einsteiger" auf. (Ein Buchbezug
 # ließe sich später ergänzen, sobald ein passender Titel vorliegt.)
@@ -18,7 +18,7 @@ schema_version: '1.4'
 name: Data Science und KI
 description: >-
   Aufbaukurs im Anschluss an „KI für Einsteiger": Data Science und
-  maschinelles Lernen verständlich erklärt — von Daten und Statistik
+  maschinelles Lernen verständlich erklärt, von Daten und Statistik
   über Machine Learning, Modellbewertung und neuronale Netze bis zu
   Sprachmodellen, Anwendungen und Verantwortung. Auf Deutsch,
   konzeptuell und ohne Programmieren.

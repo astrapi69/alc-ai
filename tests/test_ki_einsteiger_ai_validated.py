@@ -4,7 +4,7 @@
 reviewed the set, when, with what result). The canonical manifest format
 (engine ``content-manifest.schema.json``, strict
 ``additionalProperties: false``) does not know it, so it must live in the
-set manifest's free-form top-level ``metadata`` block — NOT in the strict
+set manifest's free-form top-level ``metadata`` block, NOT in the strict
 set entry. This test pins the one consumer (``generate_search_index``):
 the ki-einsteiger set keeps ``ai_validated: true`` in the index regardless
 of where the block lives. (Moved here from adaptive-learner-content
@@ -32,7 +32,7 @@ def test_ki_einsteiger_stays_ai_validated() -> None:
 
 
 def test_ai_validation_not_in_strict_set_entries() -> None:
-    """No set manifest may carry ``ai_validation`` inside a set ENTRY —
+    """No set manifest may carry ``ai_validation`` inside a set ENTRY,
     the canonical (engine) manifest schema rejects unknown fields there."""
     import yaml
 

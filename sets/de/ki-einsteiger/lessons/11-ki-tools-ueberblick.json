@@ -1,7 +1,7 @@
 {
   "id": "11-ki-tools-ueberblick",
   "title": "KI-Tools Überblick",
-  "description": "Ein neutraler Überblick über die wichtigsten KI-Werkzeuge für den Alltag — Chatbots, KI-Suche, Programmierhilfen und Bildgeneratoren — und wofür sie sich jeweils am besten eignen.",
+  "description": "Ein neutraler Überblick über die wichtigsten KI-Werkzeuge für den Alltag, Chatbots, KI-Suche, Programmierhilfen und Bildgeneratoren, und wofür sie sich jeweils am besten eignen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -90,7 +90,7 @@
       "stable_id": "card-ms94276s09tdv",
       "front": "Das richtige Tool wählen",
       "back": "Welches KI-Werkzeug am besten passt, hängt von der Aufgabe ab: Schreiben, Suchen, Programmieren oder Bilder erstellen.",
-      "notes": "Es gibt nicht das eine beste Tool — entscheidend ist der Einsatzzweck.",
+      "notes": "Es gibt nicht das eine beste Tool, entscheidend ist der Einsatzzweck.",
       "media_type": "text",
       "difficulty": 1,
       "tags": [
@@ -151,7 +151,7 @@
       "id": "tool-aktualitaet",
       "stable_id": "card-ms94276s09yp8",
       "front": "Aktualität der Tools",
-      "back": "KI-Werkzeuge ändern sich schnell — Funktionen und Anbieter kommen und gehen.",
+      "back": "KI-Werkzeuge ändern sich schnell, Funktionen und Anbieter kommen und gehen.",
       "notes": "Es lohnt sich, gelegentlich neue Möglichkeiten zu prüfen.",
       "media_type": "text",
       "difficulty": 1,
@@ -165,7 +165,7 @@
       "id": "intro-tools",
       "type": "theory",
       "title": "Die wichtigsten KI-Werkzeuge",
-      "body": "# KI-Tools im Überblick\n\nEs gibt heute viele KI-Werkzeuge, und jedes hat seine eigenen **Stärken**. Statt nach dem einen besten Tool zu suchen, lohnt es sich zu wissen, **wofür** sich welches Werkzeug eignet.\n\nGrob lassen sich vier Gruppen unterscheiden:\n\n- **Chatbots** — schreiben Texte, beantworten Fragen, helfen beim Brainstorming.\n- **KI-Suche** — fasst Informationen zusammen und nennt Quellen.\n- **Programmierhilfen** — unterstützen beim Schreiben von Code.\n- **Bildgeneratoren** — erzeugen Bilder aus Textbeschreibungen.\n\nMerke: **Das richtige Tool hängt von der Aufgabe ab.**"
+      "body": "# KI-Tools im Überblick\n\nEs gibt heute viele KI-Werkzeuge, und jedes hat seine eigenen **Stärken**. Statt nach dem einen besten Tool zu suchen, lohnt es sich zu wissen, **wofür** sich welches Werkzeug eignet.\n\nGrob lassen sich vier Gruppen unterscheiden:\n\n- **Chatbots**: schreiben Texte, beantworten Fragen, helfen beim Brainstorming.\n- **KI-Suche**: fasst Informationen zusammen und nennt Quellen.\n- **Programmierhilfen**: unterstützen beim Schreiben von Code.\n- **Bildgeneratoren**: erzeugen Bilder aus Textbeschreibungen.\n\nMerke: **Das richtige Tool hängt von der Aufgabe ab.**"
     },
     {
       "id": "step-vergleich",

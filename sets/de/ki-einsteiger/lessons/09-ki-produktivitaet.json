@@ -1,7 +1,7 @@
 {
   "id": "09-ki-produktivitaet",
   "title": "KI und Produktivität",
-  "description": "Wie künstliche Intelligenz beim Zeit- und Aufgabenmanagement hilft — E-Mails entwerfen, Texte zusammenfassen, SMART-Ziele setzen und die Informationsflut bewältigen.",
+  "description": "Wie künstliche Intelligenz beim Zeit- und Aufgabenmanagement hilft, E-Mails entwerfen, Texte zusammenfassen, SMART-Ziele setzen und die Informationsflut bewältigen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -63,7 +63,7 @@
       "id": "priorisierung",
       "stable_id": "card-ms94276p08np9",
       "front": "Priorisierung",
-      "back": "Das Ordnen von Aufgaben nach Wichtigkeit und Dringlichkeit — die KI hilft, das Wesentliche zuerst zu erledigen.",
+      "back": "Das Ordnen von Aufgaben nach Wichtigkeit und Dringlichkeit, die KI hilft, das Wesentliche zuerst zu erledigen.",
       "notes": "Hilft gegen die Informationsflut: filtern, zusammenfassen, priorisieren.",
       "media_type": "text",
       "difficulty": 2,
@@ -164,19 +164,19 @@
       "id": "intro",
       "type": "theory",
       "title": "KI als Produktivitäts-Helfer",
-      "body": "# KI und Produktivität\n\nKI kann viele kleine, lästige Aufgaben abnehmen und so **Zeit** freischaufeln. Sie hilft beim **Planen**, beim **Schreiben** und beim **Ordnen** von Informationen.\n\nTypische Einsätze:\n\n- **E-Mails entwerfen** — aus Stichworten wird ein fertiger Text.\n- **Texte zusammenfassen** — lange Berichte in wenige Sätze.\n- **Aufgaben planen** — große Vorhaben in kleine Schritte zerlegen.\n- **Priorisieren** — das Wichtigste zuerst erkennen.\n\nSo bleibt mehr Zeit für die Dinge, die wirklich deine Aufmerksamkeit brauchen."
+      "body": "# KI und Produktivität\n\nKI kann viele kleine, lästige Aufgaben abnehmen und so **Zeit** freischaufeln. Sie hilft beim **Planen**, beim **Schreiben** und beim **Ordnen** von Informationen.\n\nTypische Einsätze:\n\n- **E-Mails entwerfen**: aus Stichworten wird ein fertiger Text.\n- **Texte zusammenfassen**: lange Berichte in wenige Sätze.\n- **Aufgaben planen**: große Vorhaben in kleine Schritte zerlegen.\n- **Priorisieren**: das Wichtigste zuerst erkennen.\n\nSo bleibt mehr Zeit für die Dinge, die wirklich deine Aufmerksamkeit brauchen."
     },
     {
       "id": "step-smart",
       "type": "theory",
       "title": "Ziele setzen mit SMART",
-      "body": "## SMART-Ziele\n\nGute Ziele sind klar formuliert. Dafür gibt es die **SMART**-Formel:\n\n| Buchstabe | Bedeutung | Frage |\n|---|---|---|\n| **S** | Spezifisch | Was genau will ich erreichen? |\n| **M** | Messbar | Woran erkenne ich den Erfolg? |\n| **A** | Attraktiv (Akzeptiert) | Will ich es wirklich? |\n| **R** | Realistisch | Ist es machbar? |\n| **T** | Terminiert | Bis wann? |\n\nDie KI kann helfen, ein vages Vorhaben in ein **SMART-Ziel** umzuformulieren — etwa aus „Ich will fitter werden“ ein „Ich gehe drei Monate lang zweimal pro Woche joggen“."
+      "body": "## SMART-Ziele\n\nGute Ziele sind klar formuliert. Dafür gibt es die **SMART**-Formel:\n\n| Buchstabe | Bedeutung | Frage |\n|---|---|---|\n| **S** | Spezifisch | Was genau will ich erreichen? |\n| **M** | Messbar | Woran erkenne ich den Erfolg? |\n| **A** | Attraktiv (Akzeptiert) | Will ich es wirklich? |\n| **R** | Realistisch | Ist es machbar? |\n| **T** | Terminiert | Bis wann? |\n\nDie KI kann helfen, ein vages Vorhaben in ein **SMART-Ziel** umzuformulieren, etwa aus „Ich will fitter werden“ ein „Ich gehe drei Monate lang zweimal pro Woche joggen“."
     },
     {
       "id": "step-informationsflut",
       "type": "theory",
       "title": "Informationsflut bewältigen",
-      "body": "## Den Überblick behalten\n\nWir bekommen täglich mehr Informationen, als wir lesen können. KI hilft in **drei Schritten**:\n\n1. **Filtern** — Unwichtiges aussortieren.\n2. **Zusammenfassen** — das Wesentliche in wenige Sätze bringen.\n3. **Priorisieren** — nach Wichtigkeit und Dringlichkeit ordnen.\n\nAuch einfache **Automatisierung** gehört dazu: wiederkehrende Aufgaben wie Standardantworten oder Textbausteine lässt du dir von der KI vorbereiten.\n\n> Merke: KI nimmt dir die Routine ab — die Entscheidung, was wichtig ist, triffst du."
+      "body": "## Den Überblick behalten\n\nWir bekommen täglich mehr Informationen, als wir lesen können. KI hilft in **drei Schritten**:\n\n1. **Filtern**: Unwichtiges aussortieren.\n2. **Zusammenfassen**: das Wesentliche in wenige Sätze bringen.\n3. **Priorisieren**: nach Wichtigkeit und Dringlichkeit ordnen.\n\nAuch einfache **Automatisierung** gehört dazu: wiederkehrende Aufgaben wie Standardantworten oder Textbausteine lässt du dir von der KI vorbereiten.\n\n> Merke: KI nimmt dir die Routine ab, die Entscheidung, was wichtig ist, triffst du."
     },
     {
       "id": "ex-match-aufgaben",

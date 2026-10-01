@@ -1,7 +1,7 @@
 {
   "id": "06-ki-projekte-kreativ",
   "title": "KI-Projekte kreativ",
-  "description": "Wie du KI für kreative und alltägliche Projekte nutzt — Geschichten schreiben, DIY planen, Alltagsprobleme lösen und das Homeoffice organisieren. Mit dem richtigen Prompt-Typ fürs Brainstorming.",
+  "description": "Wie du KI für kreative und alltägliche Projekte nutzt, Geschichten schreiben, DIY planen, Alltagsprobleme lösen und das Homeoffice organisieren. Mit dem richtigen Prompt-Typ fürs Brainstorming.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -24,7 +24,7 @@
       "id": "explorativer-prompt",
       "stable_id": "card-ms94276n06wyr",
       "front": "Explorativer Prompt",
-      "back": "Eine offene, suchende Anfrage, die viele Möglichkeiten erkundet — z. B. „Gib mir zehn Ideen für …“. Ideal, um kreativ zu werden.",
+      "back": "Eine offene, suchende Anfrage, die viele Möglichkeiten erkundet, z. B. „Gib mir zehn Ideen für …“. Ideal, um kreativ zu werden.",
       "notes": "Gegenteil eines eng anleitenden Prompts. Offen statt vorgegeben.",
       "media_type": "text",
       "difficulty": 2,
@@ -37,7 +37,7 @@
       "id": "diy-projektidee",
       "stable_id": "card-ms94276n06x5u",
       "front": "DIY-Projektidee",
-      "back": "Eine Selbermach-Idee, die du mit KI-Hilfe planen kannst — von der Materialliste bis zur Schritt-für-Schritt-Anleitung.",
+      "back": "Eine Selbermach-Idee, die du mit KI-Hilfe planen kannst, von der Materialliste bis zur Schritt-für-Schritt-Anleitung.",
       "notes": "DIY steht für „Do it yourself“ (selber machen).",
       "media_type": "text",
       "difficulty": 2,
@@ -50,7 +50,7 @@
       "id": "alltagsproblem-loesen",
       "stable_id": "card-ms94276n06yib",
       "front": "Alltagsproblem lösen",
-      "back": "Ein konkretes Problem aus dem Alltag der KI schildern und um Lösungsvorschläge bitten — etwa „Wie ordne ich meinen vollen Kühlschrank sinnvoll?“.",
+      "back": "Ein konkretes Problem aus dem Alltag der KI schildern und um Lösungsvorschläge bitten, etwa „Wie ordne ich meinen vollen Kühlschrank sinnvoll?“.",
       "notes": "Je genauer das Problem, desto hilfreicher die Antwort.",
       "media_type": "text",
       "difficulty": 2,
@@ -165,7 +165,7 @@
       "id": "intro-kreativ",
       "type": "theory",
       "title": "KI für kreative und alltägliche Projekte",
-      "body": "# KI-Projekte kreativ\n\nKI ist nicht nur ein Planungswerkzeug — sie ist auch ein **kreativer Partner**. Sie hilft dir, ins Tun zu kommen, wenn du nicht weißt, wo du anfangen sollst.\n\nTypische kreative und alltägliche Einsätze:\n\n- **Geschichten schreiben** — Figuren, Handlung und Ideen entwickeln.\n- **DIY-Projekte planen** — Materiallisten und Anleitungen erstellen.\n- **Alltagsprobleme lösen** — praktische Vorschläge für kleine Hürden.\n- **Homeoffice organisieren** — Tagesplan und Prioritäten ordnen.\n\nDie KI liefert dir **Rohmaterial und Anstöße**. Die Auswahl und der letzte Schliff bleiben bei dir."
+      "body": "# KI-Projekte kreativ\n\nKI ist nicht nur ein Planungswerkzeug, sie ist auch ein **kreativer Partner**. Sie hilft dir, ins Tun zu kommen, wenn du nicht weißt, wo du anfangen sollst.\n\nTypische kreative und alltägliche Einsätze:\n\n- **Geschichten schreiben**: Figuren, Handlung und Ideen entwickeln.\n- **DIY-Projekte planen**: Materiallisten und Anleitungen erstellen.\n- **Alltagsprobleme lösen**: praktische Vorschläge für kleine Hürden.\n- **Homeoffice organisieren**: Tagesplan und Prioritäten ordnen.\n\nDie KI liefert dir **Rohmaterial und Anstöße**. Die Auswahl und der letzte Schliff bleiben bei dir."
     },
     {
       "id": "step-prompttyp",
@@ -177,7 +177,7 @@
       "id": "step-alltag-loesen",
       "type": "theory",
       "title": "Alltag und Homeoffice mit KI",
-      "body": "## Praktische Hilfe im Alltag\n\nNeben kreativen Projekten löst KI auch ganz **praktische Alltagsprobleme**:\n\n- *„Wie organisiere ich mein Homeoffice produktiver?“*\n- *„Wie plane ich ein DIY-Regal aus Resthölzern?“*\n- *„Wie strukturiere ich meinen Wocheneinkauf?“*\n\nDer Trick: **Schildere das Problem konkret** und sag, was du als Ergebnis willst — eine Liste, einen Zeitplan oder Schritt-für-Schritt-Hinweise.\n\nSo wird die KI vom Spielzeug zum **nützlichen Alltagshelfer**, der dir Zeit und Nerven spart."
+      "body": "## Praktische Hilfe im Alltag\n\nNeben kreativen Projekten löst KI auch ganz **praktische Alltagsprobleme**:\n\n- *„Wie organisiere ich mein Homeoffice produktiver?“*\n- *„Wie plane ich ein DIY-Regal aus Resthölzern?“*\n- *„Wie strukturiere ich meinen Wocheneinkauf?“*\n\nDer Trick: **Schildere das Problem konkret** und sag, was du als Ergebnis willst, eine Liste, einen Zeitplan oder Schritt-für-Schritt-Hinweise.\n\nSo wird die KI vom Spielzeug zum **nützlichen Alltagshelfer**, der dir Zeit und Nerven spart."
     },
     {
       "id": "ex-free-prompttyp",

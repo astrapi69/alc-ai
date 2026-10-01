@@ -35,7 +35,7 @@
       "id": "feature",
       "stable_id": "card-ms94276g01fbp",
       "front": "Feature (Merkmal)",
-      "back": "Eine Eingabegröße, aus der das Modell lernt — z. B. Alter, Preis, Wortanzahl.",
+      "back": "Eine Eingabegröße, aus der das Modell lernt, z. B. Alter, Preis, Wortanzahl.",
       "notes": "Deutsch: Merkmal. Gute Features sind oft wichtiger als das Modell selbst.",
       "media_type": "text",
       "difficulty": 2,
@@ -109,19 +109,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Überwacht oder unüberwacht",
-      "body": "# Wie Maschinen lernen\n\nZwei Grundarten des maschinellen Lernens:\n\n- **Überwachtes Lernen** — die Trainingsbeispiele tragen die **richtige Antwort** (ein **Label**). Das Modell lernt den Zusammenhang von Eingabe zu Antwort. Beispiel: Fotos, beschriftet mit „Hund\" oder „Katze\".\n- **Unüberwachtes Lernen** — es gibt **keine** vorgegebenen Antworten. Das Modell sucht **selbst** Strukturen, etwa ähnliche Kunden. Beispiel: **Clustering**.\n\nMerke: **Label vorhanden → überwacht. Kein Label → unüberwacht.**"
+      "body": "# Wie Maschinen lernen\n\nZwei Grundarten des maschinellen Lernens:\n\n- **Überwachtes Lernen**: die Trainingsbeispiele tragen die **richtige Antwort** (ein **Label**). Das Modell lernt den Zusammenhang von Eingabe zu Antwort. Beispiel: Fotos, beschriftet mit „Hund\" oder „Katze\".\n- **Unüberwachtes Lernen**: es gibt **keine** vorgegebenen Antworten. Das Modell sucht **selbst** Strukturen, etwa ähnliche Kunden. Beispiel: **Clustering**.\n\nMerke: **Label vorhanden → überwacht. Kein Label → unüberwacht.**"
     },
     {
       "id": "step-feature-label",
       "type": "theory",
       "title": "Features und Labels",
-      "body": "## Eingabe und Ziel\n\nIm überwachten Lernen unterscheidet man zwei Rollen:\n\n- **Features** (Merkmale) sind die **Eingabegrößen** — z. B. Alter, Preis, Wortanzahl einer E-Mail.\n- Das **Label** ist die **gesuchte Antwort** — z. B. „Spam\" oder „kein Spam\".\n\nDas Modell lernt, von den **Features** auf das **Label** zu schließen. In der Praxis gilt oft: **Gute Features** sind wichtiger als ein besonders raffiniertes Modell."
+      "body": "## Eingabe und Ziel\n\nIm überwachten Lernen unterscheidet man zwei Rollen:\n\n- **Features** (Merkmale) sind die **Eingabegrößen**, z. B. Alter, Preis, Wortanzahl einer E-Mail.\n- Das **Label** ist die **gesuchte Antwort**, z. B. „Spam\" oder „kein Spam\".\n\nDas Modell lernt, von den **Features** auf das **Label** zu schließen. In der Praxis gilt oft: **Gute Features** sind wichtiger als ein besonders raffiniertes Modell."
     },
     {
       "id": "step-train-test",
       "type": "theory",
       "title": "Training und Test",
-      "body": "## Getrennt üben und prüfen\n\nMan teilt die Daten in zwei Teile:\n\n- **Trainingsdaten** — daraus **lernt** das Modell seine Regeln.\n- **Testdaten** — daran **prüft** man, wie gut es auf **neue** Fälle wirkt.\n\nEntscheidend: Die Testdaten dürfen im Training **nicht** vorkommen. Sonst prüft man nur das Auswendiglernen. Diese Trennung ist die Grundlage jeder ehrlichen Bewertung (mehr dazu in der nächsten Lektion)."
+      "body": "## Getrennt üben und prüfen\n\nMan teilt die Daten in zwei Teile:\n\n- **Trainingsdaten**: daraus **lernt** das Modell seine Regeln.\n- **Testdaten**: daran **prüft** man, wie gut es auf **neue** Fälle wirkt.\n\nEntscheidend: Die Testdaten dürfen im Training **nicht** vorkommen. Sonst prüft man nur das Auswendiglernen. Diese Trennung ist die Grundlage jeder ehrlichen Bewertung (mehr dazu in der nächsten Lektion)."
     },
     {
       "id": "ex-match-feature-label",

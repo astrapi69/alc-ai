@@ -11,7 +11,7 @@
       "id": "datenschutz",
       "stable_id": "card-ms94276t0a726",
       "front": "Datenschutz",
-      "back": "Keine sensiblen oder persönlichen Daten unbedacht in eine KI eingeben — Eingaben können gespeichert oder weiterverarbeitet werden.",
+      "back": "Keine sensiblen oder persönlichen Daten unbedacht in eine KI eingeben, Eingaben können gespeichert oder weiterverarbeitet werden.",
       "notes": "Im Zweifel keine Namen, Passwörter oder vertrauliche Inhalte eingeben.",
       "media_type": "text",
       "difficulty": 1,
@@ -24,7 +24,7 @@
       "id": "halluzination",
       "stable_id": "card-ms94276t0a8gp",
       "front": "Halluzination",
-      "back": "Wenn eine KI plausibel klingende, aber falsche Angaben erfindet — etwa erfundene Fakten, Zahlen oder Quellen.",
+      "back": "Wenn eine KI plausibel klingende, aber falsche Angaben erfindet, etwa erfundene Fakten, Zahlen oder Quellen.",
       "notes": "Deshalb gilt: Wichtige Angaben immer nachprüfen.",
       "media_type": "text",
       "difficulty": 2,
@@ -138,7 +138,7 @@
       "stable_id": "card-ms94276t0ahcb",
       "front": "Verantwortung",
       "back": "Die Verantwortung für eine KI-Entscheidung bleibt immer beim Menschen.",
-      "notes": "KI gibt Vorschläge — entscheiden und prüfen muss der Mensch.",
+      "notes": "KI gibt Vorschläge, entscheiden und prüfen muss der Mensch.",
       "media_type": "text",
       "difficulty": 1,
       "tags": [
@@ -163,7 +163,7 @@
       "id": "intro-ethik",
       "type": "theory",
       "title": "KI verantwortungsvoll nutzen",
-      "body": "# KI-Ethik und Verantwortung\n\nKI ist ein mächtiges Werkzeug — aber sie nimmt uns die **Verantwortung** nicht ab. Wer KI nutzt, sollte ein paar Grundregeln kennen.\n\nDie wichtigsten Punkte:\n\n- **Datenschutz** — keine sensiblen oder persönlichen Daten unbedacht eingeben.\n- **Halluzinationen** — KI erfindet manchmal falsche, aber überzeugend klingende Angaben.\n- **Bias (Verzerrung)** — KI kann Vorurteile aus den Trainingsdaten übernehmen.\n- **Menschliche Kontrolle** — Ergebnisse überprüfen und selbst verantworten.\n\nKurz gesagt: **KI ist ein Werkzeug, kein Ersatz für das eigene Urteil.**"
+      "body": "# KI-Ethik und Verantwortung\n\nKI ist ein mächtiges Werkzeug, aber sie nimmt uns die **Verantwortung** nicht ab. Wer KI nutzt, sollte ein paar Grundregeln kennen.\n\nDie wichtigsten Punkte:\n\n- **Datenschutz**: keine sensiblen oder persönlichen Daten unbedacht eingeben.\n- **Halluzinationen**: KI erfindet manchmal falsche, aber überzeugend klingende Angaben.\n- **Bias (Verzerrung)**: KI kann Vorurteile aus den Trainingsdaten übernehmen.\n- **Menschliche Kontrolle**: Ergebnisse überprüfen und selbst verantworten.\n\nKurz gesagt: **KI ist ein Werkzeug, kein Ersatz für das eigene Urteil.**"
     },
     {
       "id": "step-risiken",
@@ -175,7 +175,7 @@
       "id": "step-kontrolle",
       "type": "theory",
       "title": "Die Kontrolle behalten",
-      "body": "## Der Mensch entscheidet\n\nKI kann Vorschläge machen, Texte entwerfen und Daten ordnen. Doch die **Verantwortung** bleibt beim Menschen.\n\nDeshalb gilt:\n\n- **Überprüfen** — Ergebnisse nicht blind übernehmen.\n- **Hinterfragen** — Klingt das plausibel? Gibt es eine verlässliche Quelle?\n- **Verantworten** — Wer ein Ergebnis nutzt, steht auch dafür gerade.\n\nSo bleibt KI ein **hilfreiches Werkzeug**, und das eigene Urteil bleibt der Maßstab."
+      "body": "## Der Mensch entscheidet\n\nKI kann Vorschläge machen, Texte entwerfen und Daten ordnen. Doch die **Verantwortung** bleibt beim Menschen.\n\nDeshalb gilt:\n\n- **Überprüfen**: Ergebnisse nicht blind übernehmen.\n- **Hinterfragen**: Klingt das plausibel? Gibt es eine verlässliche Quelle?\n- **Verantworten**: Wer ein Ergebnis nutzt, steht auch dafür gerade.\n\nSo bleibt KI ein **hilfreiches Werkzeug**, und das eigene Urteil bleibt der Maßstab."
     },
     {
       "id": "ex-free-immer-korrekt",
@@ -196,7 +196,7 @@
           "Falsch",
           "nein"
         ],
-        "hint": "Denke an Halluzinationen — KI kann auch Falsches erfinden.",
+        "hint": "Denke an Halluzinationen, KI kann auch Falsches erfinden.",
         "distractors": [
           "richtig",
           "wahr",
@@ -260,7 +260,7 @@
           }
         ],
         "cloze_mode": "type",
-        "hint": "Der Begriff kommt eigentlich aus der Wahrnehmung — die KI sieht etwas, das nicht da ist."
+        "hint": "Der Begriff kommt eigentlich aus der Wahrnehmung, die KI sieht etwas, das nicht da ist."
       }
     },
     {

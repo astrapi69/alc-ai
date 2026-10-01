@@ -23,7 +23,7 @@
       "id": "daten",
       "stable_id": "card-ms94276d0028p",
       "front": "Daten",
-      "back": "Aufgezeichnete Fakten wie Zahlen, Texte, Bilder oder Messwerte — der Rohstoff jeder Analyse.",
+      "back": "Aufgezeichnete Fakten wie Zahlen, Texte, Bilder oder Messwerte, der Rohstoff jeder Analyse.",
       "notes": "Erst durch Auswertung werden aus Daten Informationen.",
       "media_type": "text",
       "difficulty": 1,
@@ -72,7 +72,7 @@
       "stable_id": "card-ms94276d006q1",
       "front": "Datengetriebene Entscheidung",
       "back": "Eine Entscheidung, die auf ausgewerteten Daten statt nur auf Bauchgefühl beruht.",
-      "notes": "Daten unterstützen das Urteil — sie ersetzen es nicht.",
+      "notes": "Daten unterstützen das Urteil, sie ersetzen es nicht.",
       "media_type": "text",
       "difficulty": 2,
       "tags": [
@@ -95,7 +95,7 @@
       "id": "fachwissen",
       "stable_id": "card-ms94276d008ax",
       "front": "Domänenwissen",
-      "back": "Das Wissen über das Sachgebiet, aus dem die Daten stammen — nötig, um Ergebnisse richtig zu deuten.",
+      "back": "Das Wissen über das Sachgebiet, aus dem die Daten stammen, nötig, um Ergebnisse richtig zu deuten.",
       "notes": "Englisch: domain knowledge. Ohne Kontext sind Zahlen leicht misszuverstehen.",
       "media_type": "text",
       "difficulty": 2,
@@ -109,19 +109,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Daten als Rohstoff",
-      "body": "# Was ist Data Science?\n\n**Data Science** gewinnt aus Daten nutzbares Wissen. Daten sind der **Rohstoff**: aufgezeichnete Fakten wie Messwerte, Klicks, Texte oder Bilder.\n\nWie Rohöl erst nach der Verarbeitung wertvoll wird, werden auch Daten erst durch Auswertung nützlich. Data Science verbindet dafür drei Zutaten:\n\n- **Statistik** — um Muster und Zufall zu unterscheiden,\n- **Programmierung** — um große Datenmengen zu verarbeiten,\n- **Domänenwissen** — um Ergebnisse im richtigen Kontext zu deuten."
+      "body": "# Was ist Data Science?\n\n**Data Science** gewinnt aus Daten nutzbares Wissen. Daten sind der **Rohstoff**: aufgezeichnete Fakten wie Messwerte, Klicks, Texte oder Bilder.\n\nWie Rohöl erst nach der Verarbeitung wertvoll wird, werden auch Daten erst durch Auswertung nützlich. Data Science verbindet dafür drei Zutaten:\n\n- **Statistik**: um Muster und Zufall zu unterscheiden,\n- **Programmierung**: um große Datenmengen zu verarbeiten,\n- **Domänenwissen**: um Ergebnisse im richtigen Kontext zu deuten."
     },
     {
       "id": "step-weg",
       "type": "theory",
       "title": "Von Daten zu Entscheidungen",
-      "body": "## Der Weg zur Entscheidung\n\nData Science folgt meist einem Weg in mehreren Stufen:\n\n1. **Sammeln** — die passenden Daten beschaffen.\n2. **Bereinigen** — Fehler, Lücken und Ausreißer behandeln.\n3. **Analysieren** — Muster und Zusammenhänge suchen.\n4. **Interpretieren** — Ergebnisse im Fachkontext deuten.\n5. **Handeln** — eine **datengetriebene Entscheidung** treffen.\n\nDaten unterstützen das Urteil, sie ersetzen es nicht: Am Ende entscheidet ein Mensch."
+      "body": "## Der Weg zur Entscheidung\n\nData Science folgt meist einem Weg in mehreren Stufen:\n\n1. **Sammeln**: die passenden Daten beschaffen.\n2. **Bereinigen**: Fehler, Lücken und Ausreißer behandeln.\n3. **Analysieren**: Muster und Zusammenhänge suchen.\n4. **Interpretieren**: Ergebnisse im Fachkontext deuten.\n5. **Handeln**: eine **datengetriebene Entscheidung** treffen.\n\nDaten unterstützen das Urteil, sie ersetzen es nicht: Am Ende entscheidet ein Mensch."
     },
     {
       "id": "step-abgrenzung",
       "type": "theory",
       "title": "KI, ML und Data Science",
-      "body": "## Wie hängt das zusammen?\n\nDie Begriffe werden oft vermischt, meinen aber Unterschiedliches:\n\n| Begriff | Kern |\n|---|---|\n| **Künstliche Intelligenz** | Oberbegriff für „intelligente\" Systeme |\n| **Machine Learning** | Teilgebiet der KI: lernt Muster aus Daten |\n| **Data Science** | Wissen aus Daten gewinnen — nutzt oft ML |\n\nMerke: **Machine Learning ist ein Teil der KI.** Data Science ist breiter und schließt auch Statistik, Aufbereitung und Interpretation ein."
+      "body": "## Wie hängt das zusammen?\n\nDie Begriffe werden oft vermischt, meinen aber Unterschiedliches:\n\n| Begriff | Kern |\n|---|---|\n| **Künstliche Intelligenz** | Oberbegriff für „intelligente\" Systeme |\n| **Machine Learning** | Teilgebiet der KI: lernt Muster aus Daten |\n| **Data Science** | Wissen aus Daten gewinnen, nutzt oft ML |\n\nMerke: **Machine Learning ist ein Teil der KI.** Data Science ist breiter und schließt auch Statistik, Aufbereitung und Interpretation ein."
     },
     {
       "id": "ex-match-begriffe",

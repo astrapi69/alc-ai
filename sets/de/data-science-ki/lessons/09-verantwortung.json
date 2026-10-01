@@ -115,13 +115,13 @@
       "id": "step-datenschutz",
       "type": "theory",
       "title": "Datenschutz",
-      "body": "## Mit Daten sorgsam umgehen\n\nKI arbeitet oft mit **personenbezogenen Daten**. **Datenschutz** bedeutet, diese vor Missbrauch zu schützen. In der EU regelt das die **DSGVO** — mit Grundsätzen wie **Zweckbindung**, **Einwilligung** und **Datensparsamkeit**.\n\n**Datensparsamkeit** heißt: nur so viele Daten erheben wie **wirklich nötig**. Denn: Weniger Daten bedeuten **weniger Risiko**, falls es zu einem Leck kommt. Und **Transparenz** — offenlegen, dass KI im Spiel ist — schafft Vertrauen."
+      "body": "## Mit Daten sorgsam umgehen\n\nKI arbeitet oft mit **personenbezogenen Daten**. **Datenschutz** bedeutet, diese vor Missbrauch zu schützen. In der EU regelt das die **DSGVO**, mit Grundsätzen wie **Zweckbindung**, **Einwilligung** und **Datensparsamkeit**.\n\n**Datensparsamkeit** heißt: nur so viele Daten erheben wie **wirklich nötig**. Denn: Weniger Daten bedeuten **weniger Risiko**, falls es zu einem Leck kommt. Und **Transparenz**, offenlegen, dass KI im Spiel ist, schafft Vertrauen."
     },
     {
       "id": "step-wann-nicht",
       "type": "theory",
       "title": "Wann man KI nicht einsetzt",
-      "body": "## Auch mal Nein sagen\n\nNicht jedes Problem sollte man mit KI lösen. **Gegen** einen Einsatz sprechen:\n\n- Die **Risiken** übersteigen den Nutzen.\n- Es fehlen **geeignete Daten**.\n- **Fehler** können Menschen **ernsthaft schaden** (z. B. bei Gesundheit, Justiz, Kredit).\n\nBei **hoher Verantwortung** braucht es mindestens **menschliche Kontrolle** — oder den bewussten **Verzicht**. Verantwortungsvolle KI heißt auch, ihre Grenzen zu **respektieren**."
+      "body": "## Auch mal Nein sagen\n\nNicht jedes Problem sollte man mit KI lösen. **Gegen** einen Einsatz sprechen:\n\n- Die **Risiken** übersteigen den Nutzen.\n- Es fehlen **geeignete Daten**.\n- **Fehler** können Menschen **ernsthaft schaden** (z. B. bei Gesundheit, Justiz, Kredit).\n\nBei **hoher Verantwortung** braucht es mindestens **menschliche Kontrolle**, oder den bewussten **Verzicht**. Verantwortungsvolle KI heißt auch, ihre Grenzen zu **respektieren**."
     },
     {
       "id": "ex-match-verantwortung",

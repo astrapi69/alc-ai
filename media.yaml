@@ -1,4 +1,4 @@
-# media.yaml — curated free supplementary media per domain (EXP-029).
+# media.yaml - curated free supplementary media per domain (EXP-029).
 #
 # Optional companion to the lesson catalogue and to books.yaml: maps a
 # content domain to a list of free, openly accessible media (videos,
@@ -43,7 +43,7 @@ ai:
     level: beginner
     priority: 10
     description: >-
-      3Blue1Brown's visual introduction to neural networks — the single
+      3Blue1Brown's visual introduction to neural networks, the single
       best starting point for understanding how they work.
   - title: "Neural Networks (3Blue1Brown series)"
     type: youtube
@@ -54,7 +54,7 @@ ai:
     description: >-
       The full deep-learning playlist: gradient descent,
       backpropagation and the calculus behind training.
-  - title: "What Is Artificial Intelligence? — Crash Course AI #1"
+  - title: "What Is Artificial Intelligence? - Crash Course AI #1"
     type: youtube
     url: "https://www.youtube.com/watch?v=a0_lo_GDcFw"
     language: en
@@ -78,5 +78,5 @@ ai:
     language: de
     priority: 10
     description: >-
-      Deutschsprachige Einführung in die Grundbegriffe der KI — passend
+      Deutschsprachige Einführung in die Grundbegriffe der KI, passend
       zum Buch „KI für Einsteiger" (siehe books.yaml).

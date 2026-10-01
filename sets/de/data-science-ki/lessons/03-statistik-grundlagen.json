@@ -11,7 +11,7 @@
       "id": "mittelwert",
       "stable_id": "card-ms94276g00xjo",
       "front": "Mittelwert",
-      "back": "Die Summe aller Werte geteilt durch ihre Anzahl — der „Durchschnitt\".",
+      "back": "Die Summe aller Werte geteilt durch ihre Anzahl, der „Durchschnitt\".",
       "notes": "Englisch: mean. Reagiert empfindlich auf Ausreißer.",
       "media_type": "text",
       "difficulty": 1,
@@ -35,7 +35,7 @@
       "id": "korrelation",
       "stable_id": "card-ms94276g00zib",
       "front": "Korrelation",
-      "back": "Zwei Größen verändern sich gemeinsam — steigt die eine, steigt (oder fällt) die andere.",
+      "back": "Zwei Größen verändern sich gemeinsam, steigt die eine, steigt (oder fällt) die andere.",
       "notes": "Englisch: correlation. Sagt nichts über Ursache und Wirkung.",
       "media_type": "text",
       "difficulty": 2,
@@ -60,7 +60,7 @@
       "stable_id": "card-ms94276g011jj",
       "front": "Scheinkorrelation",
       "back": "Zwei Größen hängen scheinbar zusammen, obwohl ein Dritter Faktor beide treibt.",
-      "notes": "Beispiel: mehr Eisverkauf und mehr Sonnenbrände — Ursache ist die Sonne.",
+      "notes": "Beispiel: mehr Eisverkauf und mehr Sonnenbrände, Ursache ist die Sonne.",
       "media_type": "text",
       "difficulty": 3,
       "tags": [
@@ -109,19 +109,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Mittelwert oder Median?",
-      "body": "# Statistik für den Alltag\n\nZwei Wege, „die Mitte\" von Daten zu beschreiben:\n\n- **Mittelwert** — alle Werte summieren, durch die Anzahl teilen. Der klassische Durchschnitt, aber **empfindlich gegenüber Ausreißern**.\n- **Median** — alle Werte sortieren, den **mittleren** nehmen. Er ist **robust**: einzelne Extremwerte verschieben ihn kaum.\n\nBeispiel Einkommen: Wenige sehr hohe Gehälter ziehen den **Mittelwert** stark nach oben. Der **Median** zeigt die typische Mitte besser."
+      "body": "# Statistik für den Alltag\n\nZwei Wege, „die Mitte\" von Daten zu beschreiben:\n\n- **Mittelwert**: alle Werte summieren, durch die Anzahl teilen. Der klassische Durchschnitt, aber **empfindlich gegenüber Ausreißern**.\n- **Median**: alle Werte sortieren, den **mittleren** nehmen. Er ist **robust**: einzelne Extremwerte verschieben ihn kaum.\n\nBeispiel Einkommen: Wenige sehr hohe Gehälter ziehen den **Mittelwert** stark nach oben. Der **Median** zeigt die typische Mitte besser."
     },
     {
       "id": "step-korrelation",
       "type": "theory",
       "title": "Korrelation ist nicht Kausalität",
-      "body": "## Zusammenhang oder Ursache?\n\n**Korrelation** heißt: Zwei Größen verändern sich gemeinsam. **Kausalität** heißt: Die eine **verursacht** die andere.\n\nDer wichtigste Satz der Statistik: **Korrelation beweist keine Kausalität.** Oft steckt ein dritter Faktor dahinter (eine **Scheinkorrelation**):\n\n- Mehr Eisverkäufe **und** mehr Sonnenbrände — gemeinsame Ursache: die Sonne.\n\nEis verursacht keine Sonnenbrände. Wer das verwechselt, zieht falsche Schlüsse."
+      "body": "## Zusammenhang oder Ursache?\n\n**Korrelation** heißt: Zwei Größen verändern sich gemeinsam. **Kausalität** heißt: Die eine **verursacht** die andere.\n\nDer wichtigste Satz der Statistik: **Korrelation beweist keine Kausalität.** Oft steckt ein dritter Faktor dahinter (eine **Scheinkorrelation**):\n\n- Mehr Eisverkäufe **und** mehr Sonnenbrände, gemeinsame Ursache: die Sonne.\n\nEis verursacht keine Sonnenbrände. Wer das verwechselt, zieht falsche Schlüsse."
     },
     {
       "id": "step-stichprobe",
       "type": "theory",
       "title": "Stichprobe und Verzerrung",
-      "body": "## Wen habe ich befragt?\n\nMeist untersucht man nicht alle, sondern eine **Stichprobe** — eine Auswahl, die stellvertretend steht. Damit sie trägt, muss sie die Gesamtheit **fair abbilden**.\n\nTut sie das nicht, entsteht eine **Verzerrung** (Bias): eine systematische Schieflage. Befragt man etwa nur Smartphone-Nutzer und schließt auf **alle** Menschen, fehlen ganze Gruppen. Eine gute Frage lautet immer: **Wen habe ich eigentlich gemessen?**"
+      "body": "## Wen habe ich befragt?\n\nMeist untersucht man nicht alle, sondern eine **Stichprobe**, eine Auswahl, die stellvertretend steht. Damit sie trägt, muss sie die Gesamtheit **fair abbilden**.\n\nTut sie das nicht, entsteht eine **Verzerrung** (Bias): eine systematische Schieflage. Befragt man etwa nur Smartphone-Nutzer und schließt auf **alle** Menschen, fehlen ganze Gruppen. Eine gute Frage lautet immer: **Wen habe ich eigentlich gemessen?**"
     },
     {
       "id": "ex-match-mittelmedian",

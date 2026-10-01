@@ -1,7 +1,7 @@
 {
   "id": "10-ki-teamarbeit",
   "title": "KI im Team",
-  "description": "Wie künstliche Intelligenz die Zusammenarbeit im Team unterstützt — von Protokollen über Projektmanagement und Wissensdatenbanken bis zum verantwortungsvollen Einsatz.",
+  "description": "Wie künstliche Intelligenz die Zusammenarbeit im Team unterstützt, von Protokollen über Projektmanagement und Wissensdatenbanken bis zum verantwortungsvollen Einsatz.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -89,7 +89,7 @@
       "id": "ergebnisse-pruefen",
       "stable_id": "card-ms94276q0998w",
       "front": "Ergebnisse prüfen",
-      "back": "KI-Ausgaben immer kontrollieren, bevor man sie verwendet — die KI kann sich irren oder veraltete Informationen liefern.",
+      "back": "KI-Ausgaben immer kontrollieren, bevor man sie verwendet, die KI kann sich irren oder veraltete Informationen liefern.",
       "notes": "Der Mensch trägt die Verantwortung für das Endergebnis.",
       "media_type": "text",
       "difficulty": 2,
@@ -164,7 +164,7 @@
       "id": "intro",
       "type": "theory",
       "title": "KI als Helfer für die Zusammenarbeit",
-      "body": "# KI im Team\n\nIm Team entsteht viel **Kommunikation** und **Organisation** — und genau hier kann KI helfen. Sie schreibt **Protokolle**, formuliert **klare Nachrichten**, verteilt **Aufgaben** und macht **Wissen** auffindbar.\n\nTypische Einsätze:\n\n- **Teamkommunikation** — Nachrichten klar und freundlich formulieren.\n- **Meeting-Protokolle** — aus Notizen eine geordnete Zusammenfassung.\n- **Projektmanagement** — Aufgaben verteilen und den Status verfolgen.\n- **Wissensdatenbank** — Dokumente und FAQ durchsuchbar machen.\n\nSo bleibt mehr Zeit für die eigentliche Teamarbeit."
+      "body": "# KI im Team\n\nIm Team entsteht viel **Kommunikation** und **Organisation**, und genau hier kann KI helfen. Sie schreibt **Protokolle**, formuliert **klare Nachrichten**, verteilt **Aufgaben** und macht **Wissen** auffindbar.\n\nTypische Einsätze:\n\n- **Teamkommunikation**: Nachrichten klar und freundlich formulieren.\n- **Meeting-Protokolle**: aus Notizen eine geordnete Zusammenfassung.\n- **Projektmanagement**: Aufgaben verteilen und den Status verfolgen.\n- **Wissensdatenbank**: Dokumente und FAQ durchsuchbar machen.\n\nSo bleibt mehr Zeit für die eigentliche Teamarbeit."
     },
     {
       "id": "step-einsatzfelder",
@@ -176,7 +176,7 @@
       "id": "step-verantwortung",
       "type": "theory",
       "title": "Verantwortungsvoller Einsatz im Team",
-      "body": "## KI verantwortungsvoll nutzen\n\nGerade im Team gilt: KI ist eine Hilfe, kein Ersatz für menschliches Urteil. Drei Regeln:\n\n- **Datenschutz beachten** — keine vertraulichen oder personenbezogenen Daten ohne Erlaubnis eingeben.\n- **Ergebnisse prüfen** — KI kann sich irren; kontrolliere, bevor du etwas verwendest.\n- **Nicht blind entscheiden** — bei **sensiblen Personalentscheidungen** oder **vertraulichen Informationen** entscheidet der Mensch.\n\n> Merke: Beim **Brainstorming** oder **Protokollieren** ist KI sehr nützlich — bei **vertraulichen Daten** und **sensiblen Personalentscheidungen** solltest du sie nicht allein einsetzen."
+      "body": "## KI verantwortungsvoll nutzen\n\nGerade im Team gilt: KI ist eine Hilfe, kein Ersatz für menschliches Urteil. Drei Regeln:\n\n- **Datenschutz beachten**: keine vertraulichen oder personenbezogenen Daten ohne Erlaubnis eingeben.\n- **Ergebnisse prüfen**: KI kann sich irren; kontrolliere, bevor du etwas verwendest.\n- **Nicht blind entscheiden**: bei **sensiblen Personalentscheidungen** oder **vertraulichen Informationen** entscheidet der Mensch.\n\n> Merke: Beim **Brainstorming** oder **Protokollieren** ist KI sehr nützlich, bei **vertraulichen Daten** und **sensiblen Personalentscheidungen** solltest du sie nicht allein einsetzen."
     },
     {
       "id": "ex-match-teamaufgaben",

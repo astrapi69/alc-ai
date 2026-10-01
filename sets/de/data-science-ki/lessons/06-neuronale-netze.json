@@ -1,7 +1,7 @@
 {
   "id": "06-neuronale-netze",
   "title": "Neuronale Netze und Deep Learning",
-  "description": "Die Grundidee neuronaler Netze — Schichten, Gewichte und Lernen — und wofür Deep Learning stark ist und wofür nicht.",
+  "description": "Die Grundidee neuronaler Netze, Schichten, Gewichte und Lernen, und wofür Deep Learning stark ist und wofür nicht.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -48,7 +48,7 @@
       "stable_id": "card-ms94276i02ckk",
       "front": "Deep Learning",
       "back": "Maschinelles Lernen mit neuronalen Netzen aus vielen Schichten (tief).",
-      "notes": "Stark bei Bildern, Sprache und Audio — braucht aber viele Daten und Rechenleistung.",
+      "notes": "Stark bei Bildern, Sprache und Audio, braucht aber viele Daten und Rechenleistung.",
       "media_type": "text",
       "difficulty": 2,
       "tags": [
@@ -109,7 +109,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Neuronen, Schichten, Gewichte",
-      "body": "# Neuronale Netze\n\nEin **neuronales Netz** besteht aus vielen einfachen Recheneinheiten (**Neuronen**), die in **Schichten** angeordnet sind. Daten fließen von der **Eingabeschicht** über **verborgene Schichten** zur **Ausgabeschicht**.\n\nJede Verbindung hat ein **Gewicht** — eine Zahl, die festlegt, **wie stark** ein Signal weitergegeben wird. Die Idee ist lose vom Gehirn inspiriert, aber ein Netz ist **kein Abbild** des Gehirns, sondern reine Rechnerei."
+      "body": "# Neuronale Netze\n\nEin **neuronales Netz** besteht aus vielen einfachen Recheneinheiten (**Neuronen**), die in **Schichten** angeordnet sind. Daten fließen von der **Eingabeschicht** über **verborgene Schichten** zur **Ausgabeschicht**.\n\nJede Verbindung hat ein **Gewicht**, eine Zahl, die festlegt, **wie stark** ein Signal weitergegeben wird. Die Idee ist lose vom Gehirn inspiriert, aber ein Netz ist **kein Abbild** des Gehirns, sondern reine Rechnerei."
     },
     {
       "id": "step-lernen",
@@ -120,8 +120,8 @@
     {
       "id": "step-staerken",
       "type": "theory",
-      "title": "Stark — und wo nicht",
-      "body": "## Wofür Deep Learning taugt\n\n**Stark** ist Deep Learning bei **unstrukturierten Daten** mit vielen Beispielen: **Bilder, Sprache, Audio**. Es erkennt Muster, die man **nicht von Hand** beschreiben könnte.\n\n**Grenzen:**\n\n- Es braucht **viele Daten** und **Rechenleistung**.\n- Es ist oft eine **Blackbox** — schwer erklärbar.\n- Es kann Fehler **selbstbewusst** machen.\n\nBei **kleinen, tabellarischen** Daten sind **einfache** Modelle oft **besser** und sparsamer."
+      "title": "Stark - und wo nicht",
+      "body": "## Wofür Deep Learning taugt\n\n**Stark** ist Deep Learning bei **unstrukturierten Daten** mit vielen Beispielen: **Bilder, Sprache, Audio**. Es erkennt Muster, die man **nicht von Hand** beschreiben könnte.\n\n**Grenzen:**\n\n- Es braucht **viele Daten** und **Rechenleistung**.\n- Es ist oft eine **Blackbox**, schwer erklärbar.\n- Es kann Fehler **selbstbewusst** machen.\n\nBei **kleinen, tabellarischen** Daten sind **einfache** Modelle oft **besser** und sparsamer."
     },
     {
       "id": "ex-match-teile",

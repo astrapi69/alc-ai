@@ -1,7 +1,7 @@
 {
   "id": "07-ki-lernen",
   "title": "Mit KI lernen",
-  "description": "Wie du KI als persönliche Lernhilfe nutzt — Sprachen lernen, individuelle Lernpläne erstellen, neue Themen erkunden und beim Programmieren Hilfe bekommen.",
+  "description": "Wie du KI als persönliche Lernhilfe nutzt, Sprachen lernen, individuelle Lernpläne erstellen, neue Themen erkunden und beim Programmieren Hilfe bekommen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -50,7 +50,7 @@
       "id": "konzept-erklaeren",
       "stable_id": "card-ms94276o07im1",
       "front": "Konzept erklären lassen",
-      "back": "Ein schwieriges Thema von der KI verständlich aufbereiten lassen — z. B. „Erkläre mir Zinsen so, als wäre ich zehn Jahre alt“.",
+      "back": "Ein schwieriges Thema von der KI verständlich aufbereiten lassen, z. B. „Erkläre mir Zinsen so, als wäre ich zehn Jahre alt“.",
       "notes": "Bitte um einfache Sprache, Beispiele oder Vergleiche.",
       "media_type": "text",
       "difficulty": 2,
@@ -161,7 +161,7 @@
       "id": "intro-lernen",
       "type": "theory",
       "title": "KI als persönliche Lernhilfe",
-      "body": "# Mit KI lernen\n\nKI ist eine geduldige, jederzeit verfügbare **Lernhilfe**. Sie ermüdet nicht, urteilt nicht und passt sich deinem Tempo an.\n\nWofür du sie nutzen kannst:\n\n- **Sprachen lernen** — Vokabeln üben, Dialoge führen, Sätze korrigieren lassen.\n- **Lernpläne erstellen** — einen individuellen Fahrplan für dein Ziel.\n- **Themen erkunden** — die KI als **Tutor**, der Konzepte einfach erklärt.\n- **Programmieren** — Code erklären lassen und Fehler finden.\n\nDer große Vorteil: Du kannst **so oft nachfragen, wie du willst**, bis du etwas wirklich verstanden hast."
+      "body": "# Mit KI lernen\n\nKI ist eine geduldige, jederzeit verfügbare **Lernhilfe**. Sie ermüdet nicht, urteilt nicht und passt sich deinem Tempo an.\n\nWofür du sie nutzen kannst:\n\n- **Sprachen lernen**: Vokabeln üben, Dialoge führen, Sätze korrigieren lassen.\n- **Lernpläne erstellen**: einen individuellen Fahrplan für dein Ziel.\n- **Themen erkunden**: die KI als **Tutor**, der Konzepte einfach erklärt.\n- **Programmieren**: Code erklären lassen und Fehler finden.\n\nDer große Vorteil: Du kannst **so oft nachfragen, wie du willst**, bis du etwas wirklich verstanden hast."
     },
     {
       "id": "step-lernplan",
@@ -173,7 +173,7 @@
       "id": "step-tutor",
       "type": "theory",
       "title": "Die KI als Tutor und Code-Helfer",
-      "body": "## Erklären, erkunden, programmieren\n\nAls **KI-Tutor** kann die KI:\n\n- **Konzepte einfach erklären** — auf Wunsch in Alltagssprache oder mit Vergleichen.\n- **neue Themen erschließen** — du fragst dich vom Überblick zu den Details vor.\n- **beim Programmieren helfen** — sie erklärt fremden **Code**, findet **Fehler** und schlägt Verbesserungen vor.\n\nGute Lernfragen sind offen und neugierig:\n\n> „Erkläre mir das Konzept so, als wäre ich Anfänger.“\n>\n> „Was macht dieser Code Zeile für Zeile?“\n\nSo wird die KI zu einem **Lernpartner**, der dich nicht nur mit Antworten füttert, sondern dir hilft, selbst zu verstehen."
+      "body": "## Erklären, erkunden, programmieren\n\nAls **KI-Tutor** kann die KI:\n\n- **Konzepte einfach erklären**: auf Wunsch in Alltagssprache oder mit Vergleichen.\n- **neue Themen erschließen**: du fragst dich vom Überblick zu den Details vor.\n- **beim Programmieren helfen**: sie erklärt fremden **Code**, findet **Fehler** und schlägt Verbesserungen vor.\n\nGute Lernfragen sind offen und neugierig:\n\n> „Erkläre mir das Konzept so, als wäre ich Anfänger.“\n>\n> „Was macht dieser Code Zeile für Zeile?“\n\nSo wird die KI zu einem **Lernpartner**, der dich nicht nur mit Antworten füttert, sondern dir hilft, selbst zu verstehen."
     },
     {
       "id": "ex-match-strategie",
