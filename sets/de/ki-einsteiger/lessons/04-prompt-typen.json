@@ -1,7 +1,7 @@
 {
   "id": "04-prompt-typen",
   "title": "Prompt-Typen",
-  "description": "Die fünf wichtigsten Prompt-Typen — anleitend, explorativ, rollenbasiert, gesprächsbasiert und reflexiv — sowie häufige Fehler beim Formulieren von Prompts.",
+  "description": "Die fünf wichtigsten Prompt-Typen, anleitend, explorativ, rollenbasiert, gesprächsbasiert und reflexiv, sowie häufige Fehler beim Formulieren von Prompts.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -59,7 +59,7 @@
       "id": "reflexiv",
       "stable_id": "card-ms94276m05u6i",
       "front": "Reflexiver Prompt",
-      "back": "Ein Prompt, der die KI um Selbstprüfung oder Verbesserung bittet — etwa die eigene Antwort zu prüfen oder Schwachstellen zu nennen.",
+      "back": "Ein Prompt, der die KI um Selbstprüfung oder Verbesserung bittet, etwa die eigene Antwort zu prüfen oder Schwachstellen zu nennen.",
       "notes": "Beispiel: Prüfe deine Antwort auf Fehler und verbessere sie.",
       "media_type": "text",
       "difficulty": 3,
@@ -170,7 +170,7 @@
       "id": "step-fehler",
       "type": "theory",
       "title": "Häufige Fehler",
-      "body": "## Was Prompts scheitern lässt\n\nDrei Fehler tauchen besonders oft auf:\n\n1. **Zu vage** — die Anweisung ist unklar, die KI muss raten. *Mach was Schönes.*\n2. **Überladen** — zu viele Anweisungen auf einmal, sodass die KI den Überblick verliert.\n3. **Kein Kontext** — es fehlen Hintergrundinfos, also für wen, wozu oder in welcher Situation.\n\nDer häufigste und folgenreichste Fehler ist **fehlender Kontext**: Ohne ihn liefert die KI zwar eine Antwort, aber selten die passende.\n\n> Tipp: Lieber einen Satz mehr Kontext geben als einen zu wenig."
+      "body": "## Was Prompts scheitern lässt\n\nDrei Fehler tauchen besonders oft auf:\n\n1. **Zu vage**: die Anweisung ist unklar, die KI muss raten. *Mach was Schönes.*\n2. **Überladen**: zu viele Anweisungen auf einmal, sodass die KI den Überblick verliert.\n3. **Kein Kontext**: es fehlen Hintergrundinfos, also für wen, wozu oder in welcher Situation.\n\nDer häufigste und folgenreichste Fehler ist **fehlender Kontext**: Ohne ihn liefert die KI zwar eine Antwort, aber selten die passende.\n\n> Tipp: Lieber einen Satz mehr Kontext geben als einen zu wenig."
     },
     {
       "id": "ex-match-typ-beispiel",

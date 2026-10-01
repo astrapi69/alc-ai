@@ -1,7 +1,7 @@
 {
   "id": "05-ki-projekte-planen",
   "title": "KI-Projekte planen",
-  "description": "Wie du künstliche Intelligenz bei der Planung von Projekten einsetzt — Ziele setzen, Budget erstellen, Aufgaben zerlegen und gute Projekt-Prompts schreiben.",
+  "description": "Wie du künstliche Intelligenz bei der Planung von Projekten einsetzt, Ziele setzen, Budget erstellen, Aufgaben zerlegen und gute Projekt-Prompts schreiben.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -11,7 +11,7 @@
       "id": "projektplanung-ki",
       "stable_id": "card-ms94276n06b1b",
       "front": "Projektplanung mit KI",
-      "back": "Die KI hilft dabei, ein Vorhaben in überschaubare Schritte zu zerlegen, Aufgaben zu ordnen und einen Plan zu erstellen — etwa für eine Party, einen Umzug oder ein Event.",
+      "back": "Die KI hilft dabei, ein Vorhaben in überschaubare Schritte zu zerlegen, Aufgaben zu ordnen und einen Plan zu erstellen, etwa für eine Party, einen Umzug oder ein Event.",
       "notes": "Die KI denkt nicht für dich, aber sie strukturiert deine Ideen schnell.",
       "media_type": "text",
       "difficulty": 1,
@@ -74,7 +74,7 @@
       "id": "projekt-prompt",
       "stable_id": "card-ms94276n06ga9",
       "front": "Projekt-Prompt",
-      "back": "Eine durchdachte Anfrage an die KI, die das Ziel nennt, Rahmenbedingungen angibt und ein Ausgabeformat wünscht — etwa eine Tabelle oder Checkliste.",
+      "back": "Eine durchdachte Anfrage an die KI, die das Ziel nennt, Rahmenbedingungen angibt und ein Ausgabeformat wünscht, etwa eine Tabelle oder Checkliste.",
       "notes": "Bausteine: Ziel + Rahmenbedingungen + gewünschtes Format.",
       "media_type": "text",
       "difficulty": 2,
@@ -122,7 +122,7 @@
       "id": "risikoanalyse",
       "stable_id": "card-ms94276n06kgn",
       "front": "Risikoanalyse",
-      "back": "Das Erkennen möglicher Probleme im Voraus — die KI listet Risiken und Gegenmaßnahmen auf.",
+      "back": "Das Erkennen möglicher Probleme im Voraus, die KI listet Risiken und Gegenmaßnahmen auf.",
       "notes": "Beispiel: »Welche Risiken hat dieses Projekt und wie beuge ich vor?«",
       "media_type": "text",
       "difficulty": 3,
@@ -160,7 +160,7 @@
       "id": "intro-planen",
       "type": "theory",
       "title": "KI als Planungshilfe",
-      "body": "# KI-Projekte planen\n\nViele Vorhaben wirken zuerst überwältigend: eine **Party organisieren**, einen **Umzug** stemmen oder ein **Event** auf die Beine stellen. Genau hier ist KI eine starke Hilfe.\n\nDie KI kann:\n\n- ein **Ziel** klar formulieren helfen,\n- ein großes Vorhaben in **kleine Schritte zerlegen**,\n- ein **Budget** aufteilen,\n- eine **Checkliste** erstellen, damit nichts vergessen wird.\n\nWichtig: Die KI nimmt dir die Entscheidungen nicht ab. Aber sie bringt deine Ideen schnell in eine **klare Struktur** — und das ist beim Planen die halbe Miete."
+      "body": "# KI-Projekte planen\n\nViele Vorhaben wirken zuerst überwältigend: eine **Party organisieren**, einen **Umzug** stemmen oder ein **Event** auf die Beine stellen. Genau hier ist KI eine starke Hilfe.\n\nDie KI kann:\n\n- ein **Ziel** klar formulieren helfen,\n- ein großes Vorhaben in **kleine Schritte zerlegen**,\n- ein **Budget** aufteilen,\n- eine **Checkliste** erstellen, damit nichts vergessen wird.\n\nWichtig: Die KI nimmt dir die Entscheidungen nicht ab. Aber sie bringt deine Ideen schnell in eine **klare Struktur**, und das ist beim Planen die halbe Miete."
     },
     {
       "id": "step-bausteine",
@@ -172,7 +172,7 @@
       "id": "step-schritte",
       "type": "theory",
       "title": "Vom Ziel zu den Schritten",
-      "body": "## Ein Projekt in Schritte zerlegen\n\nGute Planung folgt einer einfachen Reihenfolge:\n\n1. **Ziel definieren** — konkret und messbar.\n2. **Rahmenbedingungen klären** — Budget, Zeit, Ort.\n3. **Aufgaben zerlegen** — das Ziel in kleine Schritte aufteilen.\n4. **Checkliste erstellen** — die Schritte in eine abhakbare Liste bringen.\n\nDie KI kann jeden dieser Schritte unterstützen. Sag ihr zum Beispiel: *„Zerlege die Planung eines Umzugs in zehn Aufgaben und gib sie als To-do-Liste aus.“* So entsteht aus einem vagen Vorhaben ein **klarer Fahrplan**."
+      "body": "## Ein Projekt in Schritte zerlegen\n\nGute Planung folgt einer einfachen Reihenfolge:\n\n1. **Ziel definieren**: konkret und messbar.\n2. **Rahmenbedingungen klären**: Budget, Zeit, Ort.\n3. **Aufgaben zerlegen**: das Ziel in kleine Schritte aufteilen.\n4. **Checkliste erstellen**: die Schritte in eine abhakbare Liste bringen.\n\nDie KI kann jeden dieser Schritte unterstützen. Sag ihr zum Beispiel: *„Zerlege die Planung eines Umzugs in zehn Aufgaben und gib sie als To-do-Liste aus.“* So entsteht aus einem vagen Vorhaben ein **klarer Fahrplan**."
     },
     {
       "id": "ex-match-ansatz",

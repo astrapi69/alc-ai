@@ -11,7 +11,7 @@
       "id": "overfitting",
       "stable_id": "card-ms94276h01t4q",
       "front": "Overfitting",
-      "back": "Das Modell lernt die Trainingsdaten auswendig — samt Zufall — und versagt bei Neuem.",
+      "back": "Das Modell lernt die Trainingsdaten auswendig, samt Zufall, und versagt bei Neuem.",
       "notes": "Deutsch: Überanpassung. Erkennbar: top im Training, schwach im Test.",
       "media_type": "text",
       "difficulty": 2,
@@ -23,7 +23,7 @@
       "id": "underfitting",
       "stable_id": "card-ms94276h01uyq",
       "front": "Underfitting",
-      "back": "Das Modell ist zu einfach und erfasst das Muster gar nicht — schwach überall.",
+      "back": "Das Modell ist zu einfach und erfasst das Muster gar nicht, schwach überall.",
       "notes": "Deutsch: Unteranpassung. Gegenteil von Overfitting.",
       "media_type": "text",
       "difficulty": 2,
@@ -109,19 +109,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Auswendig oder verstanden?",
-      "body": "# Modelle bewerten\n\nEin Modell soll **generalisieren** — also auch bei **neuen** Daten gut wirken. Zwei typische Fehler:\n\n- **Overfitting** (Überanpassung): Das Modell lernt die Trainingsdaten **auswendig**, samt Zufall. Es glänzt im Training und **versagt** im Test.\n- **Underfitting** (Unteranpassung): Das Modell ist **zu einfach**, erfasst das Muster gar nicht und ist **überall schwach**.\n\nGesucht ist die Mitte: ein Modell, das das **echte Muster** lernt, nicht den Zufall."
+      "body": "# Modelle bewerten\n\nEin Modell soll **generalisieren**, also auch bei **neuen** Daten gut wirken. Zwei typische Fehler:\n\n- **Overfitting** (Überanpassung): Das Modell lernt die Trainingsdaten **auswendig**, samt Zufall. Es glänzt im Training und **versagt** im Test.\n- **Underfitting** (Unteranpassung): Das Modell ist **zu einfach**, erfasst das Muster gar nicht und ist **überall schwach**.\n\nGesucht ist die Mitte: ein Modell, das das **echte Muster** lernt, nicht den Zufall."
     },
     {
       "id": "step-genauigkeit",
       "type": "theory",
       "title": "Die Falle der Genauigkeit",
-      "body": "## Wenn 99 % nichts wert sind\n\n**Genauigkeit** ist der Anteil richtig eingeordneter Fälle. Klingt gut, kann aber täuschen — besonders bei **unausgewogenen Daten**.\n\nBeispiel: Eine Krankheit betrifft **1 %** der Menschen. Ein Modell, das **immer** „gesund\" sagt, hat **99 % Genauigkeit** — und ist trotzdem **nutzlos**, weil es keinen einzigen Kranken findet.\n\nDeshalb schaut man zusätzlich, **welche** Fehler passieren, nicht nur **wie viele**."
+      "body": "## Wenn 99 % nichts wert sind\n\n**Genauigkeit** ist der Anteil richtig eingeordneter Fälle. Klingt gut, kann aber täuschen, besonders bei **unausgewogenen Daten**.\n\nBeispiel: Eine Krankheit betrifft **1 %** der Menschen. Ein Modell, das **immer** „gesund\" sagt, hat **99 % Genauigkeit**, und ist trotzdem **nutzlos**, weil es keinen einzigen Kranken findet.\n\nDeshalb schaut man zusätzlich, **welche** Fehler passieren, nicht nur **wie viele**."
     },
     {
       "id": "step-testset",
       "type": "theory",
       "title": "Das Testset ist heilig",
-      "body": "## Nicht schummeln\n\nDie ehrliche Bewertung steht und fällt mit einer Regel: **Das Testset ist heilig.** Man wertet es **erst ganz am Ende** aus und passt das Modell **nie** daran an.\n\nWer zwischendurch am Testset feilt, lässt Wissen einsickern (**Datenleck**) und schönt das Ergebnis. Zum Ausprobieren von Einstellungen nutzt man stattdessen **Validierungsdaten** — einen dritten Teil, der das Testset unberührt lässt."
+      "body": "## Nicht schummeln\n\nDie ehrliche Bewertung steht und fällt mit einer Regel: **Das Testset ist heilig.** Man wertet es **erst ganz am Ende** aus und passt das Modell **nie** daran an.\n\nWer zwischendurch am Testset feilt, lässt Wissen einsickern (**Datenleck**) und schönt das Ergebnis. Zum Ausprobieren von Einstellungen nutzt man stattdessen **Validierungsdaten**, einen dritten Teil, der das Testset unberührt lässt."
     },
     {
       "id": "ex-match-fit",
@@ -165,7 +165,7 @@
         "card_ids": [
           "overfitting"
         ],
-        "sentence": "Top im Training, schwach im Test — das ist ___.",
+        "sentence": "Top im Training, schwach im Test, das ist ___.",
         "blanks": [
           {
             "accept": [

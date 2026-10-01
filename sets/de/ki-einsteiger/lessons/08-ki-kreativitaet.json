@@ -1,7 +1,7 @@
 {
   "id": "08-ki-kreativitaet",
   "title": "KI und Kreativität",
-  "description": "Wie künstliche Intelligenz beim kreativen Arbeiten hilft — von Story-Ideen über Bildgeneratoren bis zum Brainstorming und zur KI als Co-Autorin.",
+  "description": "Wie künstliche Intelligenz beim kreativen Arbeiten hilft, von Story-Ideen über Bildgeneratoren bis zum Brainstorming und zur KI als Co-Autorin.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -11,7 +11,7 @@
       "id": "kreativer-prompt",
       "stable_id": "card-ms94276p07zej",
       "front": "Kreativer Prompt",
-      "back": "Eine offene, anregende Anweisung an die KI, die Raum für Fantasie lässt — etwa „Erfinde eine Geschichte über eine Stadt unter Wasser“ statt einer eng begrenzten Faktenfrage.",
+      "back": "Eine offene, anregende Anweisung an die KI, die Raum für Fantasie lässt, etwa „Erfinde eine Geschichte über eine Stadt unter Wasser“ statt einer eng begrenzten Faktenfrage.",
       "notes": "Je offener und bildhafter der Prompt, desto vielfältiger die Ergebnisse.",
       "media_type": "text",
       "difficulty": 2,
@@ -50,7 +50,7 @@
       "id": "brainstorming-ki",
       "stable_id": "card-ms94276p082b1",
       "front": "Brainstorming mit KI",
-      "back": "Das schnelle Sammeln vieler Ideen mithilfe der KI — sie liefert in Sekunden zahlreiche Vorschläge, aus denen man auswählt.",
+      "back": "Das schnelle Sammeln vieler Ideen mithilfe der KI, sie liefert in Sekunden zahlreiche Vorschläge, aus denen man auswählt.",
       "notes": "Die KI bewertet nicht, sie liefert Menge; die Auswahl trifft der Mensch.",
       "media_type": "text",
       "difficulty": 1,
@@ -89,7 +89,7 @@
       "id": "sprachmodell",
       "stable_id": "card-ms94276p085my",
       "front": "Sprachmodell",
-      "back": "KI, die Texte versteht und erzeugt — die Grundlage für Story-Ideen, Gedichte und kreative Texte.",
+      "back": "KI, die Texte versteht und erzeugt, die Grundlage für Story-Ideen, Gedichte und kreative Texte.",
       "notes": "Englisch: language model. Arbeitet mit Sprache, nicht mit Bildern.",
       "media_type": "text",
       "difficulty": 1,
@@ -165,7 +165,7 @@
       "id": "intro",
       "type": "theory",
       "title": "KI als kreatives Werkzeug",
-      "body": "# KI und Kreativität\n\nKI kann nicht nur rechnen und sortieren — sie ist auch ein erstaunliches **kreatives Werkzeug**. Sie erfindet Geschichten, malt Bilder, schlägt Melodien vor und hilft beim Sammeln von Ideen.\n\nWichtig dabei:\n\n- Die KI **ersetzt** deine Kreativität nicht, sie **verstärkt** sie.\n- Der Mensch gibt die **Richtung** vor, die KI liefert **Varianten**.\n- Mit einem **kreativen Prompt** öffnest du der KI viel Spielraum: „Erfinde …“, „Stell dir vor …“, „Gib mir zehn Ideen für …“.\n\nSo wird die KI zur **Co-Autorin** — einer Partnerin, die mitdenkt, aber nicht entscheidet."
+      "body": "# KI und Kreativität\n\nKI kann nicht nur rechnen und sortieren, sie ist auch ein erstaunliches **kreatives Werkzeug**. Sie erfindet Geschichten, malt Bilder, schlägt Melodien vor und hilft beim Sammeln von Ideen.\n\nWichtig dabei:\n\n- Die KI **ersetzt** deine Kreativität nicht, sie **verstärkt** sie.\n- Der Mensch gibt die **Richtung** vor, die KI liefert **Varianten**.\n- Mit einem **kreativen Prompt** öffnest du der KI viel Spielraum: „Erfinde …“, „Stell dir vor …“, „Gib mir zehn Ideen für …“.\n\nSo wird die KI zur **Co-Autorin**, einer Partnerin, die mitdenkt, aber nicht entscheidet."
     },
     {
       "id": "step-bereiche",
@@ -177,7 +177,7 @@
       "id": "step-co-autorin",
       "type": "theory",
       "title": "Die KI als Co-Autorin nutzen",
-      "body": "## Mensch und KI im Team\n\nAm besten funktioniert kreative KI als **Co-Autorin**:\n\n- **Du gibst die Richtung vor** — Thema, Stimmung, Stil.\n- **Die KI liefert Varianten** — mehrere Versionen, aus denen du wählst.\n- **Du wählst aus und verfeinerst** — die Entscheidung bleibt bei dir.\n\nBeim **Brainstorming** zählt zuerst die *Menge* der Ideen, nicht die Qualität. Bitte die KI ruhig um „zehn ungewöhnliche Ideen“ und sortiere danach selbst.\n\n> Merke: Ein **offener, fantasievoller Prompt** bringt kreativere Antworten als eine eng gestellte Frage."
+      "body": "## Mensch und KI im Team\n\nAm besten funktioniert kreative KI als **Co-Autorin**:\n\n- **Du gibst die Richtung vor**: Thema, Stimmung, Stil.\n- **Die KI liefert Varianten**: mehrere Versionen, aus denen du wählst.\n- **Du wählst aus und verfeinerst**: die Entscheidung bleibt bei dir.\n\nBeim **Brainstorming** zählt zuerst die *Menge* der Ideen, nicht die Qualität. Bitte die KI ruhig um „zehn ungewöhnliche Ideen“ und sortiere danach selbst.\n\n> Merke: Ein **offener, fantasievoller Prompt** bringt kreativere Antworten als eine eng gestellte Frage."
     },
     {
       "id": "ex-match-bereiche",
@@ -276,7 +276,7 @@
           "Bild-Generator",
           "image generator"
         ],
-        "hint": "Aus Worten wird ein Bild — Beispiele sind DALL·E und Midjourney.",
+        "hint": "Aus Worten wird ein Bild, Beispiele sind DALL·E und Midjourney.",
         "distractors": [
           "Taschenrechner",
           "Suchmaschine",

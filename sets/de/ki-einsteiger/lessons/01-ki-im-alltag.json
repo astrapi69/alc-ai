@@ -1,7 +1,7 @@
 {
   "id": "01-ki-im-alltag",
   "title": "KI im Alltag",
-  "description": "Was künstliche Intelligenz ist, wo sie uns im Alltag begegnet und warum es sich lohnt, den Umgang mit ihr zu lernen — auf Deutsch erklärt.",
+  "description": "Was künstliche Intelligenz ist, wo sie uns im Alltag begegnet und warum es sich lohnt, den Umgang mit ihr zu lernen, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -11,7 +11,7 @@
       "id": "ki",
       "stable_id": "card-ms94276k041pk",
       "front": "Künstliche Intelligenz (KI)",
-      "back": "Computersysteme, die Aufgaben übernehmen, für die man sonst menschliche Intelligenz braucht — etwa Sprache verstehen, Muster erkennen oder Empfehlungen geben.",
+      "back": "Computersysteme, die Aufgaben übernehmen, für die man sonst menschliche Intelligenz braucht, etwa Sprache verstehen, Muster erkennen oder Empfehlungen geben.",
       "notes": "Englisch: Artificial Intelligence (AI). KI ist ein Werkzeug, kein denkendes Wesen.",
       "media_type": "text",
       "difficulty": 1,
@@ -35,7 +35,7 @@
       "id": "empfehlungssystem",
       "stable_id": "card-ms94276k043ip",
       "front": "Empfehlungssystem",
-      "back": "KI, die aus deinem bisherigen Verhalten Vorschläge ableitet — etwa Filme bei Netflix oder Produkte bei Online-Shops.",
+      "back": "KI, die aus deinem bisherigen Verhalten Vorschläge ableitet, etwa Filme bei Netflix oder Produkte bei Online-Shops.",
       "notes": "Englisch: recommender system. Lernt aus Klicks, Käufen und Bewertungen.",
       "media_type": "text",
       "difficulty": 2,
@@ -84,7 +84,7 @@
       "id": "gesichtserkennung",
       "stable_id": "card-ms94276k047ag",
       "front": "Gesichtserkennung",
-      "back": "KI, die Gesichter auf Fotos erkennt und zuordnet — etwa zum Entsperren des Smartphones.",
+      "back": "KI, die Gesichter auf Fotos erkennt und zuordnet, etwa zum Entsperren des Smartphones.",
       "notes": "Ein Beispiel für Bilderkennung (Computer Vision).",
       "media_type": "text",
       "difficulty": 2,
@@ -158,7 +158,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Was ist künstliche Intelligenz?",
-      "body": "# KI im Alltag\n\n**Künstliche Intelligenz (KI)** bezeichnet Computersysteme, die Aufgaben erledigen, für die man sonst menschliche Intelligenz braucht: Sprache verstehen, Muster in Bildern erkennen, Texte schreiben oder sinnvolle Empfehlungen geben.\n\nWichtig zum Einstieg:\n\n- KI ist ein **Werkzeug**, kein denkendes Wesen. Sie *versteht* nicht wie ein Mensch, sondern erkennt Muster in Daten.\n- Du musst **nicht programmieren** können, um KI zu nutzen. Entscheidend ist, sie geschickt zu bedienen.\n- KI ist längst Alltag — oft, ohne dass wir es merken.\n\nEnglisch heißt KI *Artificial Intelligence* (AI)."
+      "body": "# KI im Alltag\n\n**Künstliche Intelligenz (KI)** bezeichnet Computersysteme, die Aufgaben erledigen, für die man sonst menschliche Intelligenz braucht: Sprache verstehen, Muster in Bildern erkennen, Texte schreiben oder sinnvolle Empfehlungen geben.\n\nWichtig zum Einstieg:\n\n- KI ist ein **Werkzeug**, kein denkendes Wesen. Sie *versteht* nicht wie ein Mensch, sondern erkennt Muster in Daten.\n- Du musst **nicht programmieren** können, um KI zu nutzen. Entscheidend ist, sie geschickt zu bedienen.\n- KI ist längst Alltag, oft, ohne dass wir es merken.\n\nEnglisch heißt KI *Artificial Intelligence* (AI)."
     },
     {
       "id": "step-alltag",
@@ -170,7 +170,7 @@
       "id": "step-warum",
       "type": "theory",
       "title": "Warum es sich lohnt, KI zu lernen",
-      "body": "## Warum KI lernen?\n\nKI nimmt uns lästige Arbeit ab und eröffnet neue Möglichkeiten:\n\n- **Zeit sparen** — Texte zusammenfassen, E-Mails entwerfen, Ideen sammeln in Sekunden.\n- **Leichter starten** — bei Aufgaben, vor denen man sonst zögert (z. B. einen Brief formulieren).\n- **Anschluss halten** — im Beruf wie privat wird der souveräne Umgang mit KI zur Alltagskompetenz.\n\nDer Schlüssel ist nicht Technikwissen, sondern **gutes Fragen**: Wer einer KI klar sagt, was er möchte, bekommt brauchbare Ergebnisse. Genau das übst du in diesem Kurs."
+      "body": "## Warum KI lernen?\n\nKI nimmt uns lästige Arbeit ab und eröffnet neue Möglichkeiten:\n\n- **Zeit sparen**: Texte zusammenfassen, E-Mails entwerfen, Ideen sammeln in Sekunden.\n- **Leichter starten**: bei Aufgaben, vor denen man sonst zögert (z. B. einen Brief formulieren).\n- **Anschluss halten**: im Beruf wie privat wird der souveräne Umgang mit KI zur Alltagskompetenz.\n\nDer Schlüssel ist nicht Technikwissen, sondern **gutes Fragen**: Wer einer KI klar sagt, was er möchte, bekommt brauchbare Ergebnisse. Genau das übst du in diesem Kurs."
     },
     {
       "id": "ex-match-anwendungen",
@@ -378,7 +378,7 @@
         "card_ids": [
           "warum-ki-lernen"
         ],
-        "sentence": "Um KI gut zu nutzen, muss man nicht programmieren können — entscheidend ist gutes ___ .",
+        "sentence": "Um KI gut zu nutzen, muss man nicht programmieren können, entscheidend ist gutes ___ .",
         "blanks": [
           {
             "accept": [

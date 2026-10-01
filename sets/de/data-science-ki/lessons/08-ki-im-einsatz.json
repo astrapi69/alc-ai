@@ -1,7 +1,7 @@
 {
   "id": "08-ki-im-einsatz",
   "title": "KI im Einsatz",
-  "description": "Typische Anwendungsfälle — Empfehlungen, Erkennung, Assistenz — sowie die Grenzen und Kosten von KI-Systemen.",
+  "description": "Typische Anwendungsfälle, Empfehlungen, Erkennung, Assistenz, sowie die Grenzen und Kosten von KI-Systemen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "ai",
@@ -23,7 +23,7 @@
       "id": "erkennung",
       "stable_id": "card-ms94276j036lo",
       "front": "Erkennung",
-      "back": "KI erkennt Muster in Daten — etwa Objekte auf Bildern oder Betrug in Zahlungen.",
+      "back": "KI erkennt Muster in Daten, etwa Objekte auf Bildern oder Betrug in Zahlungen.",
       "notes": "Beispiel: Bilderkennung, Betrugserkennung, Spamfilter.",
       "media_type": "text",
       "difficulty": 2,
@@ -35,7 +35,7 @@
       "id": "assistenz",
       "stable_id": "card-ms94276j0376h",
       "front": "Assistenz",
-      "back": "KI unterstützt Menschen bei Aufgaben — Texte entwerfen, übersetzen, zusammenfassen.",
+      "back": "KI unterstützt Menschen bei Aufgaben, Texte entwerfen, übersetzen, zusammenfassen.",
       "notes": "Beispiel: Schreibassistenten, Übersetzer, Chatbots.",
       "media_type": "text",
       "difficulty": 1,
@@ -109,7 +109,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Drei typische Anwendungsfälle",
-      "body": "# KI im Einsatz\n\nDie meisten KI-Anwendungen fallen in drei Muster:\n\n- **Empfehlung** — passende Inhalte vorschlagen (Streaming, Shops).\n- **Erkennung** — Muster in Daten finden (Objekte auf Bildern, Betrug, Spam).\n- **Assistenz** — Menschen bei Aufgaben unterstützen (Texte entwerfen, übersetzen, zusammenfassen).\n\nOft steckt dahinter **Automatisierung**: Routine läuft ohne ständiges Zutun und entlastet Menschen für das Wesentliche."
+      "body": "# KI im Einsatz\n\nDie meisten KI-Anwendungen fallen in drei Muster:\n\n- **Empfehlung**: passende Inhalte vorschlagen (Streaming, Shops).\n- **Erkennung**: Muster in Daten finden (Objekte auf Bildern, Betrug, Spam).\n- **Assistenz**: Menschen bei Aufgaben unterstützen (Texte entwerfen, übersetzen, zusammenfassen).\n\nOft steckt dahinter **Automatisierung**: Routine läuft ohne ständiges Zutun und entlastet Menschen für das Wesentliche."
     },
     {
       "id": "step-grenzen",
@@ -121,7 +121,7 @@
       "id": "step-kosten",
       "type": "theory",
       "title": "Kosten und Auswahl",
-      "body": "## Lohnt sich KI hier?\n\nKI ist nicht gratis: **Training und Betrieb** kosten **Rechenleistung, Energie und Geld**. Große Modelle sind **teuer** — nicht jede Aufgabe rechtfertigt sie.\n\nEine gute Faustregel: KI lohnt sich bei **klaren, wiederkehrenden Mustern** mit **genügend Daten**. Bei **seltenen Einzelfällen** oder wenn ein einfaches Regelwerk reicht, ist der Aufwand oft **nicht** gerechtfertigt. **Die passende Aufgabe wählen** ist die halbe Miete."
+      "body": "## Lohnt sich KI hier?\n\nKI ist nicht gratis: **Training und Betrieb** kosten **Rechenleistung, Energie und Geld**. Große Modelle sind **teuer**, nicht jede Aufgabe rechtfertigt sie.\n\nEine gute Faustregel: KI lohnt sich bei **klaren, wiederkehrenden Mustern** mit **genügend Daten**. Bei **seltenen Einzelfällen** oder wenn ein einfaches Regelwerk reicht, ist der Aufwand oft **nicht** gerechtfertigt. **Die passende Aufgabe wählen** ist die halbe Miete."
     },
     {
       "id": "ex-match-faelle",

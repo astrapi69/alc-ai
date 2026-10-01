@@ -35,7 +35,7 @@
       "id": "trainingsdaten",
       "stable_id": "card-ms94276l04ny9",
       "front": "Trainingsdaten",
-      "back": "Die Beispiele, mit denen ein KI-Modell lernt — etwa Texte, Bilder oder Zahlen. Die Qualität dieser Daten bestimmt, wie gut das Modell wird.",
+      "back": "Die Beispiele, mit denen ein KI-Modell lernt, etwa Texte, Bilder oder Zahlen. Die Qualität dieser Daten bestimmt, wie gut das Modell wird.",
       "notes": "Schlechte oder einseitige Trainingsdaten führen zu schlechten Ergebnissen.",
       "media_type": "text",
       "difficulty": 1,
@@ -47,7 +47,7 @@
       "id": "modell",
       "stable_id": "card-ms94276l04o29",
       "front": "Modell",
-      "back": "Das Ergebnis des Trainings — also das, was die KI gelernt hat. Mit dem fertigen Modell kann man dann neue Aufgaben lösen.",
+      "back": "Das Ergebnis des Trainings, also das, was die KI gelernt hat. Mit dem fertigen Modell kann man dann neue Aufgaben lösen.",
       "notes": "Man trainiert ein Modell einmal und nutzt es danach immer wieder.",
       "media_type": "text",
       "difficulty": 2,
@@ -72,7 +72,7 @@
       "id": "ki-mythos",
       "stable_id": "card-ms94276l04qa2",
       "front": "KI-Mythos",
-      "back": "Eine verbreitete falsche Vorstellung über KI — zum Beispiel, dass KI eigenständig denke, ein Bewusstsein habe oder niemals Fehler mache.",
+      "back": "Eine verbreitete falsche Vorstellung über KI, zum Beispiel, dass KI eigenständig denke, ein Bewusstsein habe oder niemals Fehler mache.",
       "notes": "KI erkennt Muster und rechnet. Sie versteht nicht wie ein Mensch und kann sich irren.",
       "media_type": "text",
       "difficulty": 1,
@@ -98,7 +98,7 @@
       "stable_id": "card-ms94276l04sp4",
       "front": "Daten",
       "back": "Informationen wie Texte, Bilder oder Zahlen, aus denen eine KI Muster lernt.",
-      "notes": "Ohne Daten kann keine KI trainiert werden — die Qualität der Daten bestimmt die Qualität der KI.",
+      "notes": "Ohne Daten kann keine KI trainiert werden, die Qualität der Daten bestimmt die Qualität der KI.",
       "media_type": "text",
       "difficulty": 1,
       "tags": [
@@ -133,7 +133,7 @@
       "id": "mustererkennung",
       "stable_id": "card-ms94276l04v8f",
       "front": "Mustererkennung",
-      "back": "Die Fähigkeit einer KI, Regelmäßigkeiten in Daten zu finden — etwa wiederkehrende Formen oder Wörter.",
+      "back": "Die Fähigkeit einer KI, Regelmäßigkeiten in Daten zu finden, etwa wiederkehrende Formen oder Wörter.",
       "notes": "Grundprinzip fast aller KI-Systeme.",
       "media_type": "text",
       "difficulty": 2,
@@ -145,7 +145,7 @@
       "id": "generative-ki",
       "stable_id": "card-ms94276l04wfr",
       "front": "Generative KI",
-      "back": "KI, die neue Inhalte erzeugt — Texte, Bilder, Musik oder Code.",
+      "back": "KI, die neue Inhalte erzeugt, Texte, Bilder, Musik oder Code.",
       "notes": "Beispiele: ChatGPT für Texte, DALL·E für Bilder.",
       "media_type": "text",
       "difficulty": 2,
@@ -159,7 +159,7 @@
       "id": "intro-lernen",
       "type": "theory",
       "title": "Wie KI lernt",
-      "body": "# KI-Grundbegriffe\n\nModerne KI funktioniert anders, als man oft denkt. Sie bekommt **keine festen Regeln** vorgesetzt, sondern lernt aus Beispielen.\n\n## Maschinelles Lernen\n\nBeim **maschinellen Lernen** zeigt man dem Computer viele Beispiele, und er leitet daraus selbst Muster ab. Statt zu programmieren *Wenn rot und rund, dann Apfel*, zeigt man dem System tausende Bilder von Äpfeln — und es lernt selbst, wie ein Apfel aussieht.\n\nDie Beispiele, mit denen gelernt wird, heißen **Trainingsdaten**. Sie sind das Herzstück: Sind die Daten gut, wird das Ergebnis gut. Sind sie einseitig oder fehlerhaft, übernimmt die KI diese Schwächen.\n\n- **Trainingsdaten** — die Beispiele zum Lernen.\n- **Training** — der Lernvorgang selbst.\n- **Modell** — das fertige Gelernte, das man danach nutzt."
+      "body": "# KI-Grundbegriffe\n\nModerne KI funktioniert anders, als man oft denkt. Sie bekommt **keine festen Regeln** vorgesetzt, sondern lernt aus Beispielen.\n\n## Maschinelles Lernen\n\nBeim **maschinellen Lernen** zeigt man dem Computer viele Beispiele, und er leitet daraus selbst Muster ab. Statt zu programmieren *Wenn rot und rund, dann Apfel*, zeigt man dem System tausende Bilder von Äpfeln, und es lernt selbst, wie ein Apfel aussieht.\n\nDie Beispiele, mit denen gelernt wird, heißen **Trainingsdaten**. Sie sind das Herzstück: Sind die Daten gut, wird das Ergebnis gut. Sind sie einseitig oder fehlerhaft, übernimmt die KI diese Schwächen.\n\n- **Trainingsdaten**: die Beispiele zum Lernen.\n- **Training**: der Lernvorgang selbst.\n- **Modell**: das fertige Gelernte, das man danach nutzt."
     },
     {
       "id": "step-netze",
@@ -171,7 +171,7 @@
       "id": "step-mythen",
       "type": "theory",
       "title": "Häufige KI-Mythen",
-      "body": "## Was KI NICHT ist\n\nUm KI sicher zu nutzen, hilft es, ein paar verbreitete **Mythen** zu kennen:\n\n- **Mythos: KI denkt eigenständig.** Falsch. KI erkennt Muster und rechnet Wahrscheinlichkeiten aus. Sie verfolgt keine eigenen Absichten.\n- **Mythos: KI hat ein Bewusstsein.** Falsch. Ein Modell *fühlt* und *will* nichts. Es erzeugt nur passende Antworten.\n- **Mythos: KI ist unfehlbar.** Falsch. KI kann sich irren und sogar überzeugend Falsches behaupten. Antworten sollte man prüfen.\n\nMerksatz: **KI ist ein mächtiges Werkzeug — aber kein denkendes Wesen.**"
+      "body": "## Was KI NICHT ist\n\nUm KI sicher zu nutzen, hilft es, ein paar verbreitete **Mythen** zu kennen:\n\n- **Mythos: KI denkt eigenständig.** Falsch. KI erkennt Muster und rechnet Wahrscheinlichkeiten aus. Sie verfolgt keine eigenen Absichten.\n- **Mythos: KI hat ein Bewusstsein.** Falsch. Ein Modell *fühlt* und *will* nichts. Es erzeugt nur passende Antworten.\n- **Mythos: KI ist unfehlbar.** Falsch. KI kann sich irren und sogar überzeugend Falsches behaupten. Antworten sollte man prüfen.\n\nMerksatz: **KI ist ein mächtiges Werkzeug, aber kein denkendes Wesen.**"
     },
     {
       "id": "ex-match-begriffe",
@@ -257,7 +257,7 @@
           "nein",
           "Nein"
         ],
-        "hint": "KI erkennt nur Muster und rechnet — sie verfolgt keine eigenen Absichten.",
+        "hint": "KI erkennt nur Muster und rechnet, sie verfolgt keine eigenen Absichten.",
         "distractors": [
           "richtig",
           "wahr"

@@ -1,4 +1,4 @@
-# Wurzel-Manifest von alc-ai — die KI-Reihe.
+# Wurzel-Manifest von alc-ai - die KI-Reihe.
 #
 # Adaptive-Learner-Content-Repo für KI. Zwei deutschsprachige Sets
 # (domain: ai) nach aufsteigendem Niveau:
@@ -15,7 +15,7 @@
 #
 # Anleitung: docs/GETTING-STARTED.md
 schema_version: '1.5'
-name: Adaptive Learner — KI
+name: Adaptive Learner - KI
 description: >-
   KI-Inhalte für Adaptive Learner: der Begleitkurs zum Buch „KI für
   Einsteiger" und der Aufbaukurs „Data Science und KI", beide auf

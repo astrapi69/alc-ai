@@ -118,7 +118,7 @@ def test_non_ascii_survives_as_real_utf8(tmp_path: Path) -> None:
     # substitution ("Vorschläge" appears throughout the lesson prose and
     # has no ASCII-substituted variant anywhere in the source).
     assert "Vorschläge" in raw_text
-    assert "Vorschlaege" not in raw_text
+    assert "Vorschläge".replace("ä", "ae") not in raw_text
 
 
 def test_yaml_reparse_content_equals_source_lessons(tmp_path: Path) -> None:

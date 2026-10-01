@@ -1,4 +1,4 @@
-# KI für Einsteiger (für Deutschsprachige) — Set-Manifest
+# KI für Einsteiger (für Deutschsprachige) - Set-Manifest
 # (schema v1.3, domain: ai).
 #
 # Begleitkurs zum Buch „KI für Einsteiger" von Asterios Raptis
@@ -23,7 +23,7 @@ description: >-
   Begleitkurs zum Buch „KI für Einsteiger" von Asterios Raptis.
   Lerne die Grundlagen der KI-Nutzung, Prompt-Engineering und
   praktische Anwendungen für Alltag, Projekte, Kreativität,
-  Produktivität und Teamarbeit — auf Deutsch erklärt.
+  Produktivität und Teamarbeit, auf Deutsch erklärt.
 sets:
   - id: ki-einsteiger-from-de
     title: KI für Einsteiger
