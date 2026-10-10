@@ -1,12 +1,12 @@
 {
   "repo": "astrapi69/alc-ai",
-  "generated": "2026-10-01T11:13:25Z",
+  "generated": "2026-10-10T07:13:07Z",
   "schema_version": "1.0",
   "sets": [
     {
       "id": "ki-einsteiger-from-de",
       "name": "KI für Einsteiger",
-      "description": "Zwölf Einführungslektionen rund um künstliche Intelligenz, auf Deutsch erklärt: KI im Alltag, Grundbegriffe, Prompt-Engineering, KI für Projekte, Lernen, Kreativität, Produktivität und Teamarbeit, ein Tool-Überblick sowie Ethik und Verantwortung. Begleitkurs zum Buch von Asterios Raptis.",
+      "description": "Begleitkurs zum Buch „KI für Einsteiger\" von Asterios Raptis (12 Lektionen): KI im Alltag und Grundbegriffe, Prompt-Engineering (Grundlagen und Prompt-Typen), KI für Projekte, Lernen, Kreativität, Produktivität und Teamarbeit sowie ein Tool-Überblick und KI-Ethik. Erklärt auf Deutsch, mit eigenständigem Lerninhalt. Erstes KI-Set (domain: ai).",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
@@ -29,12 +29,12 @@
         "url": "https://www.amazon.de/dp/B0F43H6T2M",
         "cover_image": null
       },
-      "updated_at": "2026-10-01T11:13:08Z"
+      "updated_at": "2026-10-10T07:12:58Z"
     },
     {
       "id": "data-science-ki-from-de",
       "name": "Data Science und KI",
-      "description": "Neun Aufbaulektionen rund um Data Science und KI, auf Deutsch erklärt: Was Data Science ist, Daten verstehen, Statistik für den Alltag, Grundkonzepte des maschinellen Lernens, Modelle bewerten, neuronale Netze und Deep Learning, Sprachmodelle und generative KI, KI im Einsatz sowie Verantwortung. Fortsetzung des Einsteiger-Kurses „KI für Einsteiger\".",
+      "description": "Aufbaukurs im Anschluss an „KI für Einsteiger\" (9 Lektionen): Was Data Science ist, Daten verstehen, Statistik für den Alltag, Grundkonzepte des maschinellen Lernens, Modelle bewerten, neuronale Netze und Deep Learning, Sprachmodelle und generative KI, KI im Einsatz sowie Verantwortung. Erklärt auf Deutsch, konzeptuell und ohne Programmieren. KI-Set (domain: ai).",
       "source_language": "de",
       "target_language": "de",
       "level": "a2",
@@ -52,7 +52,7 @@
       "ai_validated": false,
       "trust_level": 1,
       "book": null,
-      "updated_at": "2026-10-01T11:13:08Z"
+      "updated_at": "2026-10-10T07:12:58Z"
     }
   ],
   "total_lessons": 21,
