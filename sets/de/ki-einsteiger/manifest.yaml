@@ -35,13 +35,6 @@ sets:
     path: sets/de/ki-einsteiger
     version: '1.0.0'
     lesson_count: 12
-    description: >-
-      Zwölf Einführungslektionen rund um künstliche Intelligenz,
-      auf Deutsch erklärt: KI im Alltag, Grundbegriffe,
-      Prompt-Engineering, KI für Projekte, Lernen, Kreativität,
-      Produktivität und Teamarbeit, ein Tool-Überblick sowie
-      Ethik und Verantwortung. Begleitkurs zum Buch von Asterios
-      Raptis.
     tags:
       - beginner
       - ai
